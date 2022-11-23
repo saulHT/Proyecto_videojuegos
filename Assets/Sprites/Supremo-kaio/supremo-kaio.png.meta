@@ -1,0 +1,3843 @@
+fileFormatVersion: 2
+guid: 36a1405428dee4b4a82fec65f07905f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4782929972642461633
+    second: supremo-kaio_0
+  - first:
+      213: -6262181082924064469
+    second: supremo-kaio_1
+  - first:
+      213: 7636738810649364331
+    second: supremo-kaio_2
+  - first:
+      213: 2866152284479218871
+    second: supremo-kaio_3
+  - first:
+      213: -4259597519723042736
+    second: supremo-kaio_4
+  - first:
+      213: 144081492489031413
+    second: supremo-kaio_5
+  - first:
+      213: 458627034348630298
+    second: supremo-kaio_6
+  - first:
+      213: 2389607036923282089
+    second: supremo-kaio_7
+  - first:
+      213: -8005605750032876844
+    second: supremo-kaio_8
+  - first:
+      213: 5481414274757668907
+    second: supremo-kaio_9
+  - first:
+      213: 2692745546422217837
+    second: supremo-kaio_10
+  - first:
+      213: 6422137751720417310
+    second: supremo-kaio_11
+  - first:
+      213: 8753137464373737449
+    second: supremo-kaio_12
+  - first:
+      213: -2977139640015638125
+    second: supremo-kaio_13
+  - first:
+      213: 4327610741349417772
+    second: supremo-kaio_14
+  - first:
+      213: -2543044306199140840
+    second: supremo-kaio_15
+  - first:
+      213: -5453563199382706703
+    second: supremo-kaio_16
+  - first:
+      213: 3761063269923253684
+    second: supremo-kaio_17
+  - first:
+      213: -5975787925111119544
+    second: supremo-kaio_18
+  - first:
+      213: -336332161282189559
+    second: supremo-kaio_19
+  - first:
+      213: -4173488603973935608
+    second: supremo-kaio_20
+  - first:
+      213: 8959364469113141125
+    second: supremo-kaio_21
+  - first:
+      213: 6996073447268725576
+    second: supremo-kaio_22
+  - first:
+      213: 7206016266799459952
+    second: supremo-kaio_23
+  - first:
+      213: -1586113710149837551
+    second: supremo-kaio_24
+  - first:
+      213: -2619260596906176732
+    second: supremo-kaio_25
+  - first:
+      213: -9053139020347338988
+    second: supremo-kaio_26
+  - first:
+      213: -4706205510210301600
+    second: supremo-kaio_27
+  - first:
+      213: -5993517819369147477
+    second: supremo-kaio_28
+  - first:
+      213: 3550681238299980770
+    second: supremo-kaio_29
+  - first:
+      213: 8174776030663572850
+    second: supremo-kaio_30
+  - first:
+      213: 2135251063253867699
+    second: supremo-kaio_31
+  - first:
+      213: 1298466272139691973
+    second: supremo-kaio_32
+  - first:
+      213: 4350413850628878969
+    second: supremo-kaio_33
+  - first:
+      213: -2352591095493937118
+    second: supremo-kaio_34
+  - first:
+      213: 7174692086973093315
+    second: supremo-kaio_35
+  - first:
+      213: 5061205409286309321
+    second: supremo-kaio_36
+  - first:
+      213: -2002082385836114113
+    second: supremo-kaio_37
+  - first:
+      213: -6163827354615992622
+    second: supremo-kaio_38
+  - first:
+      213: -3285756426262456768
+    second: supremo-kaio_39
+  - first:
+      213: 8792507978157096694
+    second: supremo-kaio_40
+  - first:
+      213: 7047004383174504865
+    second: supremo-kaio_41
+  - first:
+      213: 605442250535189799
+    second: supremo-kaio_42
+  - first:
+      213: -572549229118010171
+    second: supremo-kaio_43
+  - first:
+      213: 16452257016258345
+    second: supremo-kaio_44
+  - first:
+      213: 1378864799704087711
+    second: supremo-kaio_45
+  - first:
+      213: -131629003952249184
+    second: supremo-kaio_46
+  - first:
+      213: 5767981638150831983
+    second: supremo-kaio_47
+  - first:
+      213: -401952058576133463
+    second: supremo-kaio_48
+  - first:
+      213: 7707133168471730353
+    second: supremo-kaio_49
+  - first:
+      213: 1023152486692159103
+    second: supremo-kaio_50
+  - first:
+      213: 5698945473848791145
+    second: supremo-kaio_51
+  - first:
+      213: -5048883267551123025
+    second: supremo-kaio_52
+  - first:
+      213: -6201350123351107010
+    second: supremo-kaio_53
+  - first:
+      213: 79568226307025754
+    second: supremo-kaio_54
+  - first:
+      213: -2450896129662949931
+    second: supremo-kaio_55
+  - first:
+      213: 8593609425559266833
+    second: supremo-kaio_56
+  - first:
+      213: 8682079342636209331
+    second: supremo-kaio_57
+  - first:
+      213: 8023973009061784694
+    second: supremo-kaio_58
+  - first:
+      213: 6812798562350469267
+    second: supremo-kaio_59
+  - first:
+      213: 6744330399630021791
+    second: supremo-kaio_60
+  - first:
+      213: 1022331239104671503
+    second: supremo-kaio_61
+  - first:
+      213: -3417373850817603757
+    second: supremo-kaio_62
+  - first:
+      213: -126066823115244686
+    second: supremo-kaio_63
+  - first:
+      213: -973986308702797445
+    second: supremo-kaio_64
+  - first:
+      213: 1261704440274535143
+    second: supremo-kaio_65
+  - first:
+      213: 7345262535568561293
+    second: supremo-kaio_66
+  - first:
+      213: -2278795130191346316
+    second: supremo-kaio_67
+  - first:
+      213: -3482001694979333391
+    second: supremo-kaio_68
+  - first:
+      213: 5967404557898735269
+    second: supremo-kaio_69
+  - first:
+      213: 5231703421201081214
+    second: supremo-kaio_70
+  - first:
+      213: -7240361962135738911
+    second: supremo-kaio_71
+  - first:
+      213: -3410982102197667011
+    second: supremo-kaio_72
+  - first:
+      213: -2019111178542336455
+    second: supremo-kaio_73
+  - first:
+      213: 5860640656456906808
+    second: supremo-kaio_74
+  - first:
+      213: 7894687001028648274
+    second: supremo-kaio_75
+  - first:
+      213: 6381688469440968988
+    second: supremo-kaio_76
+  - first:
+      213: 8719266441425236656
+    second: supremo-kaio_77
+  - first:
+      213: -5006926560774211928
+    second: supremo-kaio_78
+  - first:
+      213: -3912903208795272683
+    second: supremo-kaio_79
+  - first:
+      213: -3874929955574809925
+    second: supremo-kaio_80
+  - first:
+      213: -5475100535137326750
+    second: supremo-kaio_81
+  - first:
+      213: 8784098037740894029
+    second: supremo-kaio_82
+  - first:
+      213: 8337499447925284181
+    second: supremo-kaio_83
+  - first:
+      213: -7258035122866414430
+    second: supremo-kaio_84
+  - first:
+      213: -5292609570639853100
+    second: supremo-kaio_85
+  - first:
+      213: -4388362954419012909
+    second: supremo-kaio_86
+  - first:
+      213: 8369694252178075873
+    second: supremo-kaio_87
+  - first:
+      213: -5799654121509109628
+    second: supremo-kaio_88
+  - first:
+      213: -3053992376874249226
+    second: supremo-kaio_89
+  - first:
+      213: -7036137586338912362
+    second: supremo-kaio_90
+  - first:
+      213: -1815886101870101283
+    second: supremo-kaio_91
+  - first:
+      213: -6684769226159917573
+    second: supremo-kaio_92
+  - first:
+      213: 5191381712996069114
+    second: supremo-kaio_93
+  - first:
+      213: -5222412378603814555
+    second: supremo-kaio_94
+  - first:
+      213: 3046034762330881529
+    second: supremo-kaio_95
+  - first:
+      213: -6670778420941005271
+    second: supremo-kaio_96
+  - first:
+      213: -8296457073667430861
+    second: supremo-kaio_97
+  - first:
+      213: 5636313707692308633
+    second: supremo-kaio_98
+  - first:
+      213: -5278026484244135869
+    second: supremo-kaio_99
+  - first:
+      213: 8825168094447642188
+    second: supremo-kaio_100
+  - first:
+      213: 7751264838244974661
+    second: supremo-kaio_101
+  - first:
+      213: -7699277589519685100
+    second: supremo-kaio_102
+  - first:
+      213: 7356116830971229869
+    second: supremo-kaio_103
+  - first:
+      213: -4053230687718360077
+    second: supremo-kaio_104
+  - first:
+      213: -1834268406064928713
+    second: supremo-kaio_105
+  - first:
+      213: 283918130807538376
+    second: supremo-kaio_106
+  - first:
+      213: 4888043571208570498
+    second: supremo-kaio_107
+  - first:
+      213: -2639897298214729681
+    second: supremo-kaio_108
+  - first:
+      213: 7329155734667343301
+    second: supremo-kaio_109
+  - first:
+      213: -4036335291831128554
+    second: supremo-kaio_110
+  - first:
+      213: 7100870245580237882
+    second: supremo-kaio_111
+  - first:
+      213: -5742293828148842480
+    second: supremo-kaio_112
+  - first:
+      213: -8090626713649591537
+    second: supremo-kaio_113
+  - first:
+      213: 5828095045746231186
+    second: supremo-kaio_114
+  - first:
+      213: -5282561299130770737
+    second: supremo-kaio_115
+  - first:
+      213: -6791189782130936957
+    second: supremo-kaio_116
+  - first:
+      213: 7705954139970772684
+    second: supremo-kaio_117
+  - first:
+      213: 8120069098210969388
+    second: supremo-kaio_118
+  - first:
+      213: 7414456773738417180
+    second: supremo-kaio_119
+  - first:
+      213: 3041013893097515155
+    second: supremo-kaio_120
+  - first:
+      213: -5476773537722965700
+    second: supremo-kaio_121
+  - first:
+      213: -5142919964904992059
+    second: supremo-kaio_122
+  - first:
+      213: -7948720709017707984
+    second: supremo-kaio_123
+  - first:
+      213: -7742183350866071506
+    second: supremo-kaio_124
+  - first:
+      213: -7170028771297883202
+    second: supremo-kaio_125
+  - first:
+      213: -7063196549985323228
+    second: supremo-kaio_126
+  - first:
+      213: -5193362883149102235
+    second: supremo-kaio_127
+  - first:
+      213: -6988989651375675374
+    second: supremo-kaio_128
+  - first:
+      213: 4264737484875394548
+    second: supremo-kaio_129
+  - first:
+      213: 2984803560262651495
+    second: supremo-kaio_130
+  - first:
+      213: 4875637684720538005
+    second: supremo-kaio_131
+  - first:
+      213: -1291677358446205440
+    second: supremo-kaio_132
+  - first:
+      213: 463521027296146138
+    second: supremo-kaio_133
+  - first:
+      213: -4213416710895049349
+    second: supremo-kaio_134
+  - first:
+      213: 7812528019991435495
+    second: supremo-kaio_135
+  - first:
+      213: 7454319837462068974
+    second: supremo-kaio_136
+  - first:
+      213: -8626073474492827541
+    second: supremo-kaio_137
+  - first:
+      213: 4404476434902113066
+    second: supremo-kaio_138
+  - first:
+      213: -6950809014732990351
+    second: supremo-kaio_139
+  - first:
+      213: 3102773534757264332
+    second: supremo-kaio_140
+  - first:
+      213: 6990309488224809726
+    second: supremo-kaio_141
+  - first:
+      213: 8949115991660682459
+    second: supremo-kaio_142
+  - first:
+      213: -9216503588004110873
+    second: supremo-kaio_143
+  - first:
+      213: -4816707015900601192
+    second: supremo-kaio_144
+  - first:
+      213: -2323039605708454057
+    second: supremo-kaio_145
+  - first:
+      213: 6643792392078257816
+    second: supremo-kaio_146
+  - first:
+      213: -2291914655204900220
+    second: supremo-kaio_147
+  - first:
+      213: -5104593692084019893
+    second: supremo-kaio_148
+  - first:
+      213: 733269110957776602
+    second: supremo-kaio_149
+  - first:
+      213: -7004760052951591777
+    second: supremo-kaio_150
+  - first:
+      213: -7639656806382391425
+    second: supremo-kaio_151
+  - first:
+      213: -5570524715078137279
+    second: supremo-kaio_152
+  - first:
+      213: -940087975295982429
+    second: supremo-kaio_153
+  - first:
+      213: -6104558242758084046
+    second: supremo-kaio_154
+  - first:
+      213: 2591081597094559972
+    second: supremo-kaio_155
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supremo-kaio_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1468
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c73ce41871606240800000000000000
+      internalID: 4782929972642461633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1545
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21e329cb734819a0800000000000000
+      internalID: -6262181082924064469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1546
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67c133bc752bf960800000000000000
+      internalID: 7636738810649364331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1544
+        width: 28
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ee84315e96c720800000000000000
+      internalID: 2866152284479218871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1543
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e5c6cf9ed2e4c0800000000000000
+      internalID: -4259597519723042736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1543
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe4482aa51eff100800000000000000
+      internalID: 144081492489031413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1541
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11bdba9bde5d5600800000000000000
+      internalID: 458627034348630298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1589
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2069c70f6992120800000000000000
+      internalID: 2389607036923282089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1466
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da37716cff56e090800000000000000
+      internalID: -8005605750032876844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1464
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20bfa9bd35e11c40800000000000000
+      internalID: 5481414274757668907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1463
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ce205cecd8e5520800000000000000
+      internalID: 2692745546422217837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1463
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18dbed5244002950800000000000000
+      internalID: 6422137751720417310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1379
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7f822d524697970800000000000000
+      internalID: 8753137464373737449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1380
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391322e55431fa6d0800000000000000
+      internalID: -2977139640015638125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1379
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c230c446a03ce0c30800000000000000
+      internalID: 4327610741349417772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1377
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816abe85daa45bcd0800000000000000
+      internalID: -2543044306199140840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1375
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5a6a41a2d0154b0800000000000000
+      internalID: -5453563199382706703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1298
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd6b85fd1bf13430800000000000000
+      internalID: 3761063269923253684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1297
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841eeae0b8cb11da0800000000000000
+      internalID: -5975787925111119544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1294
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9075c386eab155bf0800000000000000
+      internalID: -336332161282189559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1294
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e1efd0a3ac416c0800000000000000
+      internalID: -4173488603973935608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1214
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587beb2148e065c70800000000000000
+      internalID: 8959364469113141125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1209
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843bef6cbbb071160800000000000000
+      internalID: 6996073447268725576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1210
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ea4449d99e00460800000000000000
+      internalID: 7206016266799459952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1209
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d5425fbfdfcf9e0800000000000000
+      internalID: -1586113710149837551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1124
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fca335d5486abd0800000000000000
+      internalID: -2619260596906176732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_26
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1119
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f08fdc60acc5280800000000000000
+      internalID: -9053139020347338988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1120
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061dde3e50330beb0800000000000000
+      internalID: -4706205510210301600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1117
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3378d5c4fb2dca0800000000000000
+      internalID: -5993517819369147477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1054
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3b38f16cd864130800000000000000
+      internalID: 3550681238299980770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1052
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d7412fc73a27170800000000000000
+      internalID: 8174776030663572850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1052
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc958b678fe1ad10800000000000000
+      internalID: 2135251063253867699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1052
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c746b7e134150210800000000000000
+      internalID: 1298466272139691973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 978
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9727ca00956cf5c30800000000000000
+      internalID: 4350413850628878969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 972
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228365bfcdae95fd0800000000000000
+      internalID: -2352591095493937118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 973
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c556d0a070a19360800000000000000
+      internalID: 7174692086973093315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 890
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5cbcb11830d3640800000000000000
+      internalID: 5061205409286309321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 890
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ffb257dac2734e0800000000000000
+      internalID: -2002082385836114113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 890
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de2747adafa57aa0800000000000000
+      internalID: -6163827354615992622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 796
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0465b2260f5a662d0800000000000000
+      internalID: -3285756426262456768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 794
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe77d2eb63450a70800000000000000
+      internalID: 8792507978157096694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 838
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1bcbd562dfbc160800000000000000
+      internalID: 7047004383174504865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 795
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72db923e486f66800800000000000000
+      internalID: 605442250535189799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_43
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 794
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc4ff57285ed08f0800000000000000
+      internalID: -572549229118010171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_44
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 794
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f15379d337a3000800000000000000
+      internalID: 16452257016258345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 717
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cf6a3da36b22310800000000000000
+      internalID: 1378864799704087711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 715
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6a9494e1c5c2ef0800000000000000
+      internalID: -131629003952249184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_47
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 711
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fb4f46dbcfb0050800000000000000
+      internalID: 5767981638150831983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 708
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a225db7bbafb6af0800000000000000
+      internalID: -401952058576133463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_49
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 706
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8636758cc35fa60800000000000000
+      internalID: 7707133168471730353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 704
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ef75804c7f23e00800000000000000
+      internalID: 1023152486692159103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_51
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 701
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960d313d6b8b61f40800000000000000
+      internalID: 5698945473848791145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 699
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a3351b63cee9b0800000000000000
+      internalID: -5048883267551123025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 625
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a15d14be060f9a0800000000000000
+      internalID: -6201350123351107010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 621
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b207851eeaa1100800000000000000
+      internalID: 79568226307025754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_55
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 669
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d56f0a94faacfdd0800000000000000
+      internalID: -2450896129662949931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 618
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116a8ecdd32a24770800000000000000
+      internalID: 8593609425559266833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 615
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b496999921fc7870800000000000000
+      internalID: 8682079342636209331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_58
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 657
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c237c50f0ea5f60800000000000000
+      internalID: 8023973009061784694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 665
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390113b523ceb8e50800000000000000
+      internalID: 6812798562350469267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 517
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94d0d5f3cca89d50800000000000000
+      internalID: 6744330399630021791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 515
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6e9d68dc003e00800000000000000
+      internalID: 1022331239104671503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 512
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357de45b69c0390d0800000000000000
+      internalID: -3417373850817603757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_63
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 530
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bf04e64ee104ef0800000000000000
+      internalID: -126066823115244686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_64
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 525
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b710da5dc94bb72f0800000000000000
+      internalID: -973986308702797445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_65
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 517
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c81ee089728110800000000000000
+      internalID: 1261704440274535143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 518
+        width: 69
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d849c86fb5d9fe560800000000000000
+      internalID: 7345262535568561293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_68
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 473
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2e27728e17dafc0800000000000000
+      internalID: -3482001694979333391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 473
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aed99824da70d250800000000000000
+      internalID: 5967404557898735269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 473
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73e2e6fa8eba9840800000000000000
+      internalID: 5231703421201081214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_71
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 473
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e526a11821158b90800000000000000
+      internalID: -7240361962135738911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 399
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bfa47a9d1c9a0d0800000000000000
+      internalID: -3410982102197667011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_73
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 397
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936b6f0b41daaf3e0800000000000000
+      internalID: -2019111178542336455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 395
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838735440ad255150800000000000000
+      internalID: 5860640656456906808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_75
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 393
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dd435efff8f8d60800000000000000
+      internalID: 7894687001028648274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_76
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 412
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c193c30f9df409850800000000000000
+      internalID: 6381688469440968988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_77
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 409
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2b22fb1ae010970800000000000000
+      internalID: 8719266441425236656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_78
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 409
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b59022d2d38ab0800000000000000
+      internalID: -5006926560774211928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_79
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 412
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a8547534392b9c0800000000000000
+      internalID: -3912903208795272683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_80
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 412
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba71745cbb793ac0800000000000000
+      internalID: -3874929955574809925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_81
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 412
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269a69552198404b0800000000000000
+      internalID: -5475100535137326750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_82
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 409
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4770cb00a267e970800000000000000
+      internalID: 8784098037740894029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_83
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 412
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d1a9ce29fb4b370800000000000000
+      internalID: 8337499447925284181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_84
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 412
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac1d3ea287464b90800000000000000
+      internalID: -7258035122866414430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_85
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 412
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9cd2f03afdc86b0800000000000000
+      internalID: -5292609570639853100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_86
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 412
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dafe5cb4276913c0800000000000000
+      internalID: -4388362954419012909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_87
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 412
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0f3bbe390272470800000000000000
+      internalID: 8369694252178075873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_88
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 412
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480c15bed4d738fa0800000000000000
+      internalID: -5799654121509109628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_89
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 412
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d8ad2d1a0e95d0800000000000000
+      internalID: -3053992376874249226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_90
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 412
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697ae7fe42e9a5e90800000000000000
+      internalID: -7036137586338912362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_91
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 393
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb679163dacc6e0800000000000000
+      internalID: -1815886101870101283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_92
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 393
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf576456ecdea33a0800000000000000
+      internalID: -6684769226159917573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_93
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afee690b92e7b0840800000000000000
+      internalID: 5191381712996069114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_94
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 393
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56187b67c934687b0800000000000000
+      internalID: -5222412378603814555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_95
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 393
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd393e4a70b54a20800000000000000
+      internalID: 3046034762330881529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_96
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 393
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e58749e52ac63a0800000000000000
+      internalID: -6670778420941005271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_97
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 393
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336a6cd7f301ddc80800000000000000
+      internalID: -8296457073667430861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 393
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9983aa56475383e40800000000000000
+      internalID: 5636313707692308633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_99
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340468370eea0c6b0800000000000000
+      internalID: -5278026484244135869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_100
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 390
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a9a8cf9b497a70800000000000000
+      internalID: 8825168094447642188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_101
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540419b6d46029b60800000000000000
+      internalID: 7751264838244974661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_102
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 393
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aad8923dba62590800000000000000
+      internalID: -7699277589519685100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_103
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 393
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ff4c884d261660800000000000000
+      internalID: 7356116830971229869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_104
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb5d91a2800c7c0800000000000000
+      internalID: -4053230687718360077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_105
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 393
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73827c16a9e5b86e0800000000000000
+      internalID: -1834268406064928713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_106
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28314290ea0f300800000000000000
+      internalID: 283918130807538376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_107
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c484eab1d5d340800000000000000
+      internalID: 4888043571208570498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_108
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 393
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28c560e4633d5bd0800000000000000
+      internalID: -2639897298214729681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_109
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c53d542f4466b560800000000000000
+      internalID: 7329155734667343301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_110
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e6800007e0cf7c0800000000000000
+      internalID: -4036335291831128554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_111
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 393
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c63f7cddb5b8260800000000000000
+      internalID: 7100870245580237882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_112
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 321
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0103541ff264f40b0800000000000000
+      internalID: -5742293828148842480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_113
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 321
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b41a2bed158bf80800000000000000
+      internalID: -8090626713649591537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_114
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 318
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2970be6c09d81e050800000000000000
+      internalID: 5828095045746231186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_115
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 317
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca95159c7290b6b0800000000000000
+      internalID: -5282561299130770737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_116
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 315
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b2d9dfd8d0c1a0800000000000000
+      internalID: -6791189782130936957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_117
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 374
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9860667c01fa60800000000000000
+      internalID: 7705954139970772684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_118
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 374
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27cd76a2d740b070800000000000000
+      internalID: 8120069098210969388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_119
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 374
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cca29f62175e660800000000000000
+      internalID: 7414456773738417180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_120
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 374
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398ea17160ad33a20800000000000000
+      internalID: 3041013893097515155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_121
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 374
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3163c01c779ef3b0800000000000000
+      internalID: -5476773537722965700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_122
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 374
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2d29f4a8da0a8b0800000000000000
+      internalID: -5142919964904992059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_123
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 374
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a553811a870b190800000000000000
+      internalID: -7948720709017707984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_124
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 374
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e203fa1234d3e8490800000000000000
+      internalID: -7742183350866071506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_125
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 374
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb857922d0fe7c90800000000000000
+      internalID: -7170028771297883202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_126
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 374
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4273c53092c7afd90800000000000000
+      internalID: -7063196549985323228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_127
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 374
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563033039f77de7b0800000000000000
+      internalID: -5193362883149102235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_128
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 374
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2182fdaf0fe120f90800000000000000
+      internalID: -6988989651375675374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_129
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 374
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6a4e95246f2b30800000000000000
+      internalID: 4264737484875394548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_130
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 374
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec6cd16072c6920800000000000000
+      internalID: 2984803560262651495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_131
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 285
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591964b54aeb9a340800000000000000
+      internalID: 4875637684720538005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_132
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 286
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006266d394a031ee0800000000000000
+      internalID: -1291677358446205440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_133
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 285
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad239e12be1ce6600800000000000000
+      internalID: 463521027296146138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_134
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 191
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75e76833dfe685c0800000000000000
+      internalID: -4213416710895049349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_135
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 209
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8106577dcab6c60800000000000000
+      internalID: 7812528019991435495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_136
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 187
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef212c560137760800000000000000
+      internalID: 7454319837462068974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_137
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b687f6ab0e70a4880800000000000000
+      internalID: -8626073474492827541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_138
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 232
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b5beb4bf7df1d30800000000000000
+      internalID: 4404476434902113066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_139
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 184
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d14f2704c98f90800000000000000
+      internalID: -6950809014732990351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_140
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 198
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb90b537144f0b20800000000000000
+      internalID: 3102773534757264332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_141
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 197
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2beab7171920160800000000000000
+      internalID: 6990309488224809726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_142
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 117
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcd3b87495a13c70800000000000000
+      internalID: 8949115991660682459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edd6ed51d6681080800000000000000
+      internalID: -9216503588004110873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_144
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 161
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894ec123d7e972db0800000000000000
+      internalID: -4816707015900601192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_145
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 155
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757859e59c7e2cfd0800000000000000
+      internalID: -2323039605708454057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_146
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 156
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e6443fafd733c50800000000000000
+      internalID: 6643792392078257816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_147
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 152
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820001a3cb7130e0800000000000000
+      internalID: -2291914655204900220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_148
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 145
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dd1a41517d829b0800000000000000
+      internalID: -5104593692084019893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_149
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 133
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade97631f581d2a00800000000000000
+      internalID: 733269110957776602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_150
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 87
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9459fa38d71ace90800000000000000
+      internalID: -7004760052951591777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_151
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 42
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7faea97c9c7af590800000000000000
+      internalID: -7639656806382391425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_152
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 56
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14acb39194581b2b0800000000000000
+      internalID: -5570524715078137279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_153
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4edde97f224f2f0800000000000000
+      internalID: -940087975295982429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_154
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 7
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ab8bd1f90484ba0800000000000000
+      internalID: -6104558242758084046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supremo-kaio_155
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 4
+        width: 122
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e08fd20cfe55f320800000000000000
+      internalID: 2591081597094559972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

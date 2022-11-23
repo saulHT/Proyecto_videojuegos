@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: b1fb535655dfd6f41a15e1c4b524dbd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2155041584496388560
+    second: goku_ssj__damaged_0
+  - first:
+      213: -8255483966745075888
+    second: goku_ssj__damaged_1
+  - first:
+      213: 6528073236794892959
+    second: goku_ssj__damaged_2
+  - first:
+      213: -2767070569947966002
+    second: goku_ssj__damaged_3
+  - first:
+      213: 2006602973754302146
+    second: goku_ssj__damaged_4
+  - first:
+      213: 3172354854231903825
+    second: goku_ssj__damaged_5
+  - first:
+      213: 2374258562497550581
+    second: goku_ssj__damaged_6
+  - first:
+      213: -3549463969600378696
+    second: goku_ssj__damaged_7
+  - first:
+      213: 4996060959423487577
+    second: goku_ssj__damaged_8
+  - first:
+      213: -8277022116846376353
+    second: goku_ssj__damaged_9
+  - first:
+      213: -3137890789919267502
+    second: goku_ssj__damaged_10
+  - first:
+      213: 3430708315187131211
+    second: goku_ssj__damaged_11
+  - first:
+      213: -3288429335329150337
+    second: goku_ssj__damaged_12
+  - first:
+      213: 3319366075216813172
+    second: goku_ssj__damaged_13
+  - first:
+      213: 4136138236413519917
+    second: goku_ssj__damaged_14
+  - first:
+      213: 6336087558245976833
+    second: goku_ssj__damaged_15
+  - first:
+      213: -9109330862241618631
+    second: goku_ssj__damaged_16
+  - first:
+      213: -2108513828883857680
+    second: goku_ssj__damaged_17
+  - first:
+      213: -2650030182318846963
+    second: goku_ssj__damaged_18
+  - first:
+      213: -6702210234464949141
+    second: goku_ssj__damaged_19
+  - first:
+      213: -5109287757338471330
+    second: goku_ssj__damaged_20
+  - first:
+      213: -8908211893126587917
+    second: goku_ssj__damaged_21
+  - first:
+      213: -778766698217113594
+    second: goku_ssj__damaged_22
+  - first:
+      213: 4820063528926342391
+    second: goku_ssj__damaged_23
+  - first:
+      213: -6972002339123009623
+    second: goku_ssj__damaged_24
+  - first:
+      213: 5128196974251384596
+    second: goku_ssj__damaged_25
+  - first:
+      213: -970832306047581439
+    second: goku_ssj__damaged_26
+  - first:
+      213: 2732576961883094259
+    second: goku_ssj__damaged_27
+  - first:
+      213: -737879933726642633
+    second: goku_ssj__damaged_28
+  - first:
+      213: 6134143335599079036
+    second: goku_ssj__damaged_29
+  - first:
+      213: -2388749664073633652
+    second: goku_ssj__damaged_30
+  - first:
+      213: 7159400472471433239
+    second: goku_ssj__damaged_31
+  - first:
+      213: -3481378180824221491
+    second: goku_ssj__damaged_32
+  - first:
+      213: -5602186676233558736
+    second: goku_ssj__damaged_33
+  - first:
+      213: -1722890611074034996
+    second: goku_ssj__damaged_34
+  - first:
+      213: 8960571764542814692
+    second: goku_ssj__damaged_35
+  - first:
+      213: 7360859583153843727
+    second: goku_ssj__damaged_36
+  - first:
+      213: -4938320998036462776
+    second: goku_ssj__damaged_37
+  - first:
+      213: -5696186396526858946
+    second: goku_ssj__damaged_38
+  - first:
+      213: -43568947939438396
+    second: goku_ssj__damaged_39
+  - first:
+      213: 7500717823966577567
+    second: goku_ssj__damaged_40
+  - first:
+      213: 4962837852118713117
+    second: goku_ssj__damaged_41
+  - first:
+      213: -2044102656866548033
+    second: goku_ssj__damaged_42
+  - first:
+      213: -5914864403977675038
+    second: goku_ssj__damaged_43
+  - first:
+      213: -3805683331181887693
+    second: goku_ssj__damaged_44
+  - first:
+      213: -3267933107356668237
+    second: goku_ssj__damaged_45
+  - first:
+      213: 1814435495745194813
+    second: goku_ssj__damaged_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goku_ssj__damaged_0
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 429
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036d5e7c811c712e0800000000000000
+      internalID: -2155041584496388560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 918
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f1a395211ae6d80800000000000000
+      internalID: -8255483966745075888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 827
+        width: 122
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92e4ea8500689a50800000000000000
+      internalID: 6528073236794892959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 820
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce1edfe5c2e8db10800000000000000
+      internalID: 2006602973754302146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 780
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e8afb9ee7760c20800000000000000
+      internalID: 3172354854231903825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 711
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8ebe45355cdbec0800000000000000
+      internalID: -3549463969600378696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 613
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25564eaa3f8f374d0800000000000000
+      internalID: -3137890789919267502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 608
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4335b639035c9f20800000000000000
+      internalID: 3430708315187131211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 608
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a6bbe31f62d52d0800000000000000
+      internalID: -3288429335329150337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 521
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cd7c0dbd1c01e20800000000000000
+      internalID: 3319366075216813172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_14
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 521
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28a653dfc3866930800000000000000
+      internalID: 4136138236413519917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 434
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b060f601e4ee750800000000000000
+      internalID: 6336087558245976833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 434
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935e59618d7259180800000000000000
+      internalID: -9109330862241618631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 467
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef06118dd0db2e0800000000000000
+      internalID: -2108513828883857680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 470
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c42d2f693393bd0800000000000000
+      internalID: -2650030182318846963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_19
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 425
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6caab43d47fcf2a0800000000000000
+      internalID: -6702210234464949141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 388
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e549698dad92819b0800000000000000
+      internalID: -5109287757338471330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9974e1b7caf5480800000000000000
+      internalID: -8908211893126587917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 189
+        width: 138
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6087dd560d34135f0800000000000000
+      internalID: -778766698217113594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 386
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc6874ed3e44e240800000000000000
+      internalID: 4820063528926342391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_24
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 414
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a76163dfc87e3f90800000000000000
+      internalID: -6972002339123009623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_25
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 414
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9c7c4af30b2740800000000000000
+      internalID: 5128196974251384596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_26
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 286
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1038f8d4929e682f0800000000000000
+      internalID: -970832306047581439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 319
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc357ed4401ce520800000000000000
+      internalID: 2732576961883094259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 349
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ea5571c1682c5f0800000000000000
+      internalID: -737879933726642633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_29
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 351
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e76b71ddad02550800000000000000
+      internalID: 6134143335599079036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_30
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 268
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80be8f26d479ded0800000000000000
+      internalID: -2388749664073633652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 138
+        width: 87
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7107c6e2ccc4b5360800000000000000
+      internalID: 7159400472471433239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_32
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 18
+        width: 115
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc83d2b5df8afafc0800000000000000
+      internalID: -3481378180824221491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_33
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 144
+        width: 134
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0352cad46e80142b0800000000000000
+      internalID: -5602186676233558736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_34
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 136
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc293141e101718e0800000000000000
+      internalID: -1722890611074034996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 781
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e938f17b885a5c70800000000000000
+      internalID: 8960571764542814692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 728
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e2a679ac6072660800000000000000
+      internalID: 7360859583153843727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 730
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8432f25773f877bb0800000000000000
+      internalID: -4938320998036462776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_38
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 683
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3daa9ce6a413f0b0800000000000000
+      internalID: -5696186396526858946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 531
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c015dec546356ff0800000000000000
+      internalID: -43568947939438396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 585
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9308f1de17e71860800000000000000
+      internalID: 7500717823966577567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_41
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 583
+        width: 39
+        height: 54
+      alignment: 9
+      pivot: {x: 0.67450196, y: 0.51292586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1306657bba8fd440800000000000000
+      internalID: 4962837852118713117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 432
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb68905b673e1a3e0800000000000000
+      internalID: -2044102656866548033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 464
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eede42b92e2aeda0800000000000000
+      internalID: -5914864403977675038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 338
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f37457c2f7f2bc0800000000000000
+      internalID: -3805683331181887693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 326
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be64423728f5a2d0800000000000000
+      internalID: -3267933107356668237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_ssj__damaged_46
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 281
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b80c7587b2e2910800000000000000
+      internalID: 1814435495745194813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

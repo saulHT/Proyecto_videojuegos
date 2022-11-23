@@ -1,0 +1,1848 @@
+fileFormatVersion: 2
+guid: a6c5cfea148534e45a00db9d704ac282
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7677825243546721752
+    second: fuerza_gn_0
+  - first:
+      213: 7318590791144919244
+    second: fuerza_gn_1
+  - first:
+      213: 92675480778106678
+    second: fuerza_gn_2
+  - first:
+      213: 3812085401030491280
+    second: fuerza_gn_3
+  - first:
+      213: -8036615103332242926
+    second: fuerza_gn_4
+  - first:
+      213: 3021422018987215084
+    second: fuerza_gn_5
+  - first:
+      213: 2321436426320884518
+    second: fuerza_gn_6
+  - first:
+      213: 5306469696340439291
+    second: fuerza_gn_7
+  - first:
+      213: 7693299622295008218
+    second: fuerza_gn_8
+  - first:
+      213: -1481338964781580736
+    second: fuerza_gn_9
+  - first:
+      213: -6198507795697806395
+    second: fuerza_gn_10
+  - first:
+      213: -1723185136061477091
+    second: fuerza_gn_11
+  - first:
+      213: -6119566873814010599
+    second: fuerza_gn_12
+  - first:
+      213: -8544957076469408213
+    second: fuerza_gn_13
+  - first:
+      213: 1120895863853424579
+    second: fuerza_gn_14
+  - first:
+      213: -5682602803388553587
+    second: fuerza_gn_15
+  - first:
+      213: -6427762767266172450
+    second: fuerza_gn_16
+  - first:
+      213: -4110274491208603129
+    second: fuerza_gn_17
+  - first:
+      213: -499569038936131570
+    second: fuerza_gn_18
+  - first:
+      213: 2822055688072874205
+    second: fuerza_gn_19
+  - first:
+      213: -4425059716690787225
+    second: fuerza_gn_20
+  - first:
+      213: -5100132827717795042
+    second: fuerza_gn_21
+  - first:
+      213: -7676294764011185785
+    second: fuerza_gn_22
+  - first:
+      213: 5154980867821043917
+    second: fuerza_gn_23
+  - first:
+      213: 1214546683208548625
+    second: fuerza_gn_24
+  - first:
+      213: -3569751320967772431
+    second: fuerza_gn_25
+  - first:
+      213: -6637935905632818227
+    second: fuerza_gn_26
+  - first:
+      213: -6081812378724951182
+    second: fuerza_gn_27
+  - first:
+      213: -7440176816426037041
+    second: fuerza_gn_28
+  - first:
+      213: 5413365222021144369
+    second: fuerza_gn_29
+  - first:
+      213: -4202366356498946627
+    second: fuerza_gn_30
+  - first:
+      213: -4760043180423656563
+    second: fuerza_gn_31
+  - first:
+      213: 1347630166781015279
+    second: fuerza_gn_32
+  - first:
+      213: 7336298378047963929
+    second: fuerza_gn_33
+  - first:
+      213: 2020225312980868902
+    second: fuerza_gn_34
+  - first:
+      213: 5057472205389590913
+    second: fuerza_gn_35
+  - first:
+      213: -976868170705268318
+    second: fuerza_gn_36
+  - first:
+      213: -3999392161823666429
+    second: fuerza_gn_37
+  - first:
+      213: 767265342455913633
+    second: fuerza_gn_38
+  - first:
+      213: 66068662380402687
+    second: fuerza_gn_39
+  - first:
+      213: -1783611881236130473
+    second: fuerza_gn_40
+  - first:
+      213: -9070255786936916661
+    second: fuerza_gn_41
+  - first:
+      213: 7097295749924127130
+    second: fuerza_gn_42
+  - first:
+      213: -4115537652342030709
+    second: fuerza_gn_43
+  - first:
+      213: -142959099332552122
+    second: fuerza_gn_44
+  - first:
+      213: -8946849440123776556
+    second: fuerza_gn_45
+  - first:
+      213: -9068876460664354748
+    second: fuerza_gn_46
+  - first:
+      213: -3281208405344453532
+    second: fuerza_gn_47
+  - first:
+      213: 8407517540337553423
+    second: fuerza_gn_48
+  - first:
+      213: -1771897472314985781
+    second: fuerza_gn_49
+  - first:
+      213: 7904270233720645698
+    second: fuerza_gn_50
+  - first:
+      213: 8025487506157690854
+    second: fuerza_gn_51
+  - first:
+      213: -3190937518349841243
+    second: fuerza_gn_52
+  - first:
+      213: 8382024557192163110
+    second: fuerza_gn_53
+  - first:
+      213: -2555586431830381116
+    second: fuerza_gn_54
+  - first:
+      213: 1260513436767815034
+    second: fuerza_gn_55
+  - first:
+      213: 1193971072921504951
+    second: fuerza_gn_56
+  - first:
+      213: 2439183846309285527
+    second: fuerza_gn_57
+  - first:
+      213: 876495676534812096
+    second: fuerza_gn_58
+  - first:
+      213: -4033840112733429148
+    second: fuerza_gn_59
+  - first:
+      213: 2210227157980595607
+    second: fuerza_gn_60
+  - first:
+      213: -7513819799109346294
+    second: fuerza_gn_61
+  - first:
+      213: -7714013514353759819
+    second: fuerza_gn_62
+  - first:
+      213: 3112076339619883352
+    second: fuerza_gn_63
+  - first:
+      213: -4348201524142562156
+    second: fuerza_gn_64
+  - first:
+      213: 9152750459048514528
+    second: fuerza_gn_65
+  - first:
+      213: 3133694646058832720
+    second: fuerza_gn_66
+  - first:
+      213: -3060081016834995658
+    second: fuerza_gn_67
+  - first:
+      213: -7894672492667132433
+    second: fuerza_gn_68
+  - first:
+      213: 6217955682481007135
+    second: fuerza_gn_69
+  - first:
+      213: 8455282405049924389
+    second: fuerza_gn_70
+  - first:
+      213: 3898568426575596768
+    second: fuerza_gn_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fuerza_gn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 843
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822eedeae92e27590800000000000000
+      internalID: -7677825243546721752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 681
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc053aa8c8bd09560800000000000000
+      internalID: 7318590791144919244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 681
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637ea27dbdf394100800000000000000
+      internalID: 92675480778106678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 681
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cffd5997f37e430800000000000000
+      internalID: 3812085401030491280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 681
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aa751b425387090800000000000000
+      internalID: -8036615103332242926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 681
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8c64e615f3ee920800000000000000
+      internalID: 3021422018987215084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 681
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62332875126673020800000000000000
+      internalID: 2321436426320884518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_7
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 681
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf03fbde21e54a940800000000000000
+      internalID: 5306469696340439291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_8
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 681
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad37a81ee3714ca60800000000000000
+      internalID: 7693299622295008218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 681
+        width: 116
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ebf3c5f0a317be0800000000000000
+      internalID: -1481338964781580736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 575
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c351fb300a7af9a0800000000000000
+      internalID: -6198507795697806395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 575
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f82d2af340618e0800000000000000
+      internalID: -1723185136061477091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 575
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9157113e95ee21ba0800000000000000
+      internalID: -6119566873814010599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 575
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e9414efc63a6980800000000000000
+      internalID: -8544957076469408213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 575
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf103379d83e8f00800000000000000
+      internalID: 1120895863853424579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_15
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 575
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86e268abd65321b0800000000000000
+      internalID: -5682602803388553587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 575
+        width: 142
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed13e94a1dffbc6a0800000000000000
+      internalID: -6427762767266172450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_17
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 575
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a692e902f55f6c0800000000000000
+      internalID: -4110274491208603129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_18
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 575
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08bd6d1b9c2119f0800000000000000
+      internalID: -499569038936131570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_19
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 575
+        width: 94
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd844f742b4f92720800000000000000
+      internalID: 2822055688072874205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 918
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76441c4f1a70792c0800000000000000
+      internalID: -4425059716690787225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 469
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1382900730b839b0800000000000000
+      internalID: -5100132827717795042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 469
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7891ce73592587590800000000000000
+      internalID: -7676294764011185785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 469
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0886a79cb2a8740800000000000000
+      internalID: 5154980867821043917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 469
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11146cff5cfead010800000000000000
+      internalID: 1214546683208548625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_25
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 469
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f60c314612b57ec0800000000000000
+      internalID: -3569751320967772431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_26
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 469
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe1fe867051e3a0800000000000000
+      internalID: -6637935905632818227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_27
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 469
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b96874ddf099ba0800000000000000
+      internalID: -6081812378724951182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 341
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc054deea9e2fb890800000000000000
+      internalID: -7440176816426037041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_29
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 341
+        width: 744
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f160afcf2202b40800000000000000
+      internalID: 5413365222021144369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 341
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5e3d850123ea5c0800000000000000
+      internalID: -4202366356498946627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_31
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 341
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bc35b72fde0fdb0800000000000000
+      internalID: -4760043180423656563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_32
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 341
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe435932f7eb3b210800000000000000
+      internalID: 1347630166781015279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 341
+        width: 120
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c2d56184cfc560800000000000000
+      internalID: 7336298378047963929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_34
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 341
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f1a72f738490c10800000000000000
+      internalID: 2020225312980868902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_35
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 341
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18178a7dc20cf2640800000000000000
+      internalID: 5057472205389590913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_36
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 341
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a11abc03977172f0800000000000000
+      internalID: -976868170705268318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_37
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 341
+        width: 119
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc40db40e4f78c0800000000000000
+      internalID: -3999392161823666429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 927
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9d8983cfd5aa00800000000000000
+      internalID: 767265342455913633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 247
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff718ff2919bae000800000000000000
+      internalID: 66068662380402687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 247
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75511c9a1765f37e0800000000000000
+      internalID: -1783611881236130473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_41
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 247
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45a1b50b6aff1280800000000000000
+      internalID: -9070255786936916661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_42
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 269
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a910e18a1e8ae7260800000000000000
+      internalID: 7097295749924127130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_43
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 247
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e786c6f4ca2e6c0800000000000000
+      internalID: -4115537652342030709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_44
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 248
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a9fd2e47b140ef0800000000000000
+      internalID: -142959099332552122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_45
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 256
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1158e26d766d380800000000000000
+      internalID: -8946849440123776556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_46
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 249
+        width: 111
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448033278e0e42280800000000000000
+      internalID: -9068876460664354748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cfa65075ec672d0800000000000000
+      internalID: -3281208405344453532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_48
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 144
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f009fa278a08da470800000000000000
+      internalID: 8407517540337553423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2b04803a4f867e0800000000000000
+      internalID: -1771897472314985781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 144
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ec9126eb91bd60800000000000000
+      internalID: 7904270233720645698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_51
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 144
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef5dd1bd52406f60800000000000000
+      internalID: 8025487506157690854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_52
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 144
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac8a4ebb3387b3d0800000000000000
+      internalID: -3190937518349841243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_53
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 144
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f2a06cceee25470800000000000000
+      internalID: 8382024557192163110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_54
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 144
+        width: 116
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd21f92eabb88cd0800000000000000
+      internalID: -2555586431830381116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_55
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 144
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a750721da4e3e7110800000000000000
+      internalID: 1260513436767815034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 57
+        width: 845
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc04996d56d19010800000000000000
+      internalID: 1193971072921504951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_57
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 57
+        width: 79
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ec22de8c8b9d120800000000000000
+      internalID: 2439183846309285527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 57
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cde5078c20f92c00800000000000000
+      internalID: 876495676534812096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_59
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 57
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4626dc72acbe408c0800000000000000
+      internalID: -4033840112733429148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 57
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795ca50d3ed4cae10800000000000000
+      internalID: 2210227157980595607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_61
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 57
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c5acfd3bc89b790800000000000000
+      internalID: -7513819799109346294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_62
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 57
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9a16c449152f490800000000000000
+      internalID: -7714013514353759819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_63
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 57
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e0f041f0503b20800000000000000
+      internalID: 3112076339619883352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_64
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 600
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494aba560c518a3c0800000000000000
+      internalID: -4348201524142562156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_65
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 5
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e351659c0a150f70800000000000000
+      internalID: 9152750459048514528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_66
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 5
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05351e47dae1d7b20800000000000000
+      internalID: 3133694646058832720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_67
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 5
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a42a737886885d0800000000000000
+      internalID: -3060081016834995658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_68
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 5
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe52788123d707290800000000000000
+      internalID: -7894672492667132433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_69
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 5
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ae663cfbd9a4650800000000000000
+      internalID: 6217955682481007135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_70
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b7c94ac82375570800000000000000
+      internalID: 8455282405049924389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerza_gn_71
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 5
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec8796145f7a1630800000000000000
+      internalID: 3898568426575596768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

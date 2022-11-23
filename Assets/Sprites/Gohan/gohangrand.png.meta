@@ -1,0 +1,3000 @@
+fileFormatVersion: 2
+guid: ca067e1b103585d48a8dbf4a0b5bdf3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9011705689063279374
+    second: gohangrand_0
+  - first:
+      213: -5595346104285419145
+    second: gohangrand_1
+  - first:
+      213: 2389995591217959144
+    second: gohangrand_2
+  - first:
+      213: -7938299803997949979
+    second: gohangrand_3
+  - first:
+      213: -5357213393312500058
+    second: gohangrand_4
+  - first:
+      213: 5024826719024968060
+    second: gohangrand_5
+  - first:
+      213: 3198410642315785619
+    second: gohangrand_6
+  - first:
+      213: -2123726157813069710
+    second: gohangrand_7
+  - first:
+      213: 7714423039022299408
+    second: gohangrand_8
+  - first:
+      213: 3983965776240895539
+    second: gohangrand_9
+  - first:
+      213: 9184660603390798028
+    second: gohangrand_10
+  - first:
+      213: -1173564887387937714
+    second: gohangrand_11
+  - first:
+      213: -2074262072007831273
+    second: gohangrand_12
+  - first:
+      213: -8270134434860884965
+    second: gohangrand_13
+  - first:
+      213: -8107666724990112453
+    second: gohangrand_14
+  - first:
+      213: -1089616162046821869
+    second: gohangrand_15
+  - first:
+      213: -3321502235533446630
+    second: gohangrand_16
+  - first:
+      213: -597347011480065720
+    second: gohangrand_17
+  - first:
+      213: -5694354736504023326
+    second: gohangrand_18
+  - first:
+      213: -2295165910344796066
+    second: gohangrand_19
+  - first:
+      213: 3894627600205815346
+    second: gohangrand_20
+  - first:
+      213: 6158659619589905789
+    second: gohangrand_21
+  - first:
+      213: 2065536840856356811
+    second: gohangrand_22
+  - first:
+      213: -2780703227626099544
+    second: gohangrand_23
+  - first:
+      213: 2371904401247218119
+    second: gohangrand_24
+  - first:
+      213: 8702246191226062228
+    second: gohangrand_25
+  - first:
+      213: -6709180299759112504
+    second: gohangrand_26
+  - first:
+      213: 570880623853887520
+    second: gohangrand_27
+  - first:
+      213: 6603918987365838206
+    second: gohangrand_28
+  - first:
+      213: -4248265424840717484
+    second: gohangrand_29
+  - first:
+      213: -8693720863685500053
+    second: gohangrand_30
+  - first:
+      213: -8385120569818900152
+    second: gohangrand_31
+  - first:
+      213: 4262931889144268129
+    second: gohangrand_32
+  - first:
+      213: 1852778759251131949
+    second: gohangrand_33
+  - first:
+      213: 1552289618546900640
+    second: gohangrand_34
+  - first:
+      213: 1553937309492690092
+    second: gohangrand_35
+  - first:
+      213: 7248033492277260470
+    second: gohangrand_36
+  - first:
+      213: -9164134310367084495
+    second: gohangrand_37
+  - first:
+      213: 6227228394828354085
+    second: gohangrand_38
+  - first:
+      213: -8063604745900624637
+    second: gohangrand_39
+  - first:
+      213: -7239501347760491759
+    second: gohangrand_40
+  - first:
+      213: 2710639821168858729
+    second: gohangrand_41
+  - first:
+      213: -5154902067960023677
+    second: gohangrand_42
+  - first:
+      213: 856493506836944977
+    second: gohangrand_43
+  - first:
+      213: -9214849748887074769
+    second: gohangrand_44
+  - first:
+      213: -7331302874402013756
+    second: gohangrand_45
+  - first:
+      213: -9075804622744998639
+    second: gohangrand_46
+  - first:
+      213: -4143219165223328284
+    second: gohangrand_47
+  - first:
+      213: -7575179844966963465
+    second: gohangrand_48
+  - first:
+      213: -8488673862770933941
+    second: gohangrand_49
+  - first:
+      213: -5959366151082337162
+    second: gohangrand_50
+  - first:
+      213: -7384399078303473090
+    second: gohangrand_51
+  - first:
+      213: -3249706149662116886
+    second: gohangrand_52
+  - first:
+      213: -1717673242248639418
+    second: gohangrand_53
+  - first:
+      213: -7784111593172148432
+    second: gohangrand_54
+  - first:
+      213: -2644928788989998223
+    second: gohangrand_55
+  - first:
+      213: 4748464259951910220
+    second: gohangrand_56
+  - first:
+      213: 8707188215580491824
+    second: gohangrand_57
+  - first:
+      213: 1886396488343371331
+    second: gohangrand_58
+  - first:
+      213: 3134835061713712204
+    second: gohangrand_59
+  - first:
+      213: -2302215323455703025
+    second: gohangrand_60
+  - first:
+      213: -5565156043135854604
+    second: gohangrand_61
+  - first:
+      213: 3657655394132118031
+    second: gohangrand_62
+  - first:
+      213: 8897993742603528407
+    second: gohangrand_63
+  - first:
+      213: 4330946381607293318
+    second: gohangrand_64
+  - first:
+      213: -4090677672577253488
+    second: gohangrand_65
+  - first:
+      213: 7901109346380466388
+    second: gohangrand_66
+  - first:
+      213: 6599537640109157877
+    second: gohangrand_67
+  - first:
+      213: -6851276594182284775
+    second: gohangrand_68
+  - first:
+      213: 5032973104761990262
+    second: gohangrand_69
+  - first:
+      213: -3289864323297422341
+    second: gohangrand_70
+  - first:
+      213: -9147360536828864430
+    second: gohangrand_71
+  - first:
+      213: -1242478003704406076
+    second: gohangrand_72
+  - first:
+      213: 1356891824852639784
+    second: gohangrand_73
+  - first:
+      213: 1326445204957418047
+    second: gohangrand_74
+  - first:
+      213: -3093921907090715551
+    second: gohangrand_75
+  - first:
+      213: -4926523713160264316
+    second: gohangrand_76
+  - first:
+      213: -1306978825659438651
+    second: gohangrand_77
+  - first:
+      213: -2490814349337118879
+    second: gohangrand_78
+  - first:
+      213: -7531349812420186062
+    second: gohangrand_79
+  - first:
+      213: -3081085770620443618
+    second: gohangrand_80
+  - first:
+      213: 8439524330404911906
+    second: gohangrand_81
+  - first:
+      213: -7305168272831166538
+    second: gohangrand_82
+  - first:
+      213: 5255645918758586446
+    second: gohangrand_83
+  - first:
+      213: 8840180416882362579
+    second: gohangrand_84
+  - first:
+      213: 464875859210356113
+    second: gohangrand_85
+  - first:
+      213: 7188959478102177285
+    second: gohangrand_86
+  - first:
+      213: -5311334202069370714
+    second: gohangrand_87
+  - first:
+      213: -9027964050304402699
+    second: gohangrand_88
+  - first:
+      213: 2467239319309593810
+    second: gohangrand_89
+  - first:
+      213: -624256844661734341
+    second: gohangrand_90
+  - first:
+      213: 1007721149960615943
+    second: gohangrand_91
+  - first:
+      213: -1219799220072290190
+    second: gohangrand_92
+  - first:
+      213: -6968215982546280361
+    second: gohangrand_93
+  - first:
+      213: -1141757967646876093
+    second: gohangrand_94
+  - first:
+      213: 8083647221046267360
+    second: gohangrand_95
+  - first:
+      213: 6911228641494968778
+    second: gohangrand_96
+  - first:
+      213: 3752123965098505827
+    second: gohangrand_97
+  - first:
+      213: 6252369823990804783
+    second: gohangrand_98
+  - first:
+      213: 1880286150800382109
+    second: gohangrand_99
+  - first:
+      213: 3271708088536283346
+    second: gohangrand_100
+  - first:
+      213: 2002005359289179072
+    second: gohangrand_101
+  - first:
+      213: 5624501660221673348
+    second: gohangrand_102
+  - first:
+      213: 6215866897855440994
+    second: gohangrand_103
+  - first:
+      213: -1406070748259449493
+    second: gohangrand_104
+  - first:
+      213: 6220298563293068383
+    second: gohangrand_105
+  - first:
+      213: -2683065701976761146
+    second: gohangrand_106
+  - first:
+      213: -1743932023673844383
+    second: gohangrand_107
+  - first:
+      213: 3094380632607500500
+    second: gohangrand_108
+  - first:
+      213: 7899941811722964556
+    second: gohangrand_109
+  - first:
+      213: -2116944752650393734
+    second: gohangrand_110
+  - first:
+      213: -8449725382536832151
+    second: gohangrand_111
+  - first:
+      213: 6705020642427479761
+    second: gohangrand_112
+  - first:
+      213: 6951563067240001696
+    second: gohangrand_113
+  - first:
+      213: -603364352346687144
+    second: gohangrand_114
+  - first:
+      213: -5363294669512686001
+    second: gohangrand_115
+  - first:
+      213: -3998982683365900782
+    second: gohangrand_116
+  - first:
+      213: 8649730307540847964
+    second: gohangrand_117
+  - first:
+      213: -6666972789810762389
+    second: gohangrand_118
+  - first:
+      213: 6252998984598439475
+    second: gohangrand_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gohangrand_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 772
+        width: 349
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bcbf00492001d70800000000000000
+      internalID: 9011705689063279374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_1
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 821
+        width: 331
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779a3b21d565952b0800000000000000
+      internalID: -5595346104285419145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 714
+        width: 97
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0db45d358fa2120800000000000000
+      internalID: 2389995591217959144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 754
+        width: 200
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef262e136e75d190800000000000000
+      internalID: -7938299803997949979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 678
+        width: 36
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6b4a17dca57a5b0800000000000000
+      internalID: -5357213393312500058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 678
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71ff5d3745cbb540800000000000000
+      internalID: 5024826719024968060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 678
+        width: 36
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395bf058889036c20800000000000000
+      internalID: 3198410642315785619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 678
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c85bbf420782e0800000000000000
+      internalID: -2123726157813069710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 720
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019730891e22f0b60800000000000000
+      internalID: 7714423039022299408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 726
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336e62af3c3e94730800000000000000
+      internalID: 3983965776240895539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 714
+        width: 200
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc822a70828767f70800000000000000
+      internalID: 9184660603390798028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 720
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44ee56e3f8a6bfe0800000000000000
+      internalID: -1173564887387937714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 715
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71158eaa2adb633e0800000000000000
+      internalID: -2074262072007831273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 713
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c146d6c849a3d80800000000000000
+      internalID: -8270134434860884965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 715
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3da5b3e118cb7f80800000000000000
+      internalID: -8107666724990112453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_15
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 718
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31abca7afd7e0e0f0800000000000000
+      internalID: -1089616162046821869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 709
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12fc5a9057a7e1d0800000000000000
+      internalID: -3321502235533446630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 713
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849e615de0cc5b7f0800000000000000
+      internalID: -597347011480065720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 707
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e65d91898699f0b0800000000000000
+      internalID: -5694354736504023326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 706
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58ff4dc3cee520e0800000000000000
+      internalID: -2295165910344796066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 701
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e13b2fa2f7c0630800000000000000
+      internalID: 3894627600205815346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 706
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dd2364b44f77550800000000000000
+      internalID: 6158659619589905789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_22
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 704
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7c9b520d24aac10800000000000000
+      internalID: 2065536840856356811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_23
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 700
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac6093b525f869d0800000000000000
+      internalID: -2780703227626099544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_24
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 601
+        width: 145
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a68d6c72bae020800000000000000
+      internalID: 2371904401247218119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 697
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4958600fdc694c870800000000000000
+      internalID: 8702246191226062228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 692
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce2fca601434e2a0800000000000000
+      internalID: -6709180299759112504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_27
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 694
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020e6f917ec2ce700800000000000000
+      internalID: 570880623853887520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_28
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 698
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7de5677455d5ab50800000000000000
+      internalID: 6603918987365838206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 695
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b8bc8ba112b05c0800000000000000
+      internalID: -4248265424840717484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 689
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63af9f8fe2b95780800000000000000
+      internalID: -8693720863685500053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 687
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8499f1d944112ab80800000000000000
+      internalID: -8385120569818900152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 690
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165012a97f9f82b30800000000000000
+      internalID: 4262931889144268129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 686
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e7d80177466b910800000000000000
+      internalID: 1852778759251131949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_34
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 685
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb3060f27da8510800000000000000
+      internalID: 1552289618546900640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 604
+        width: 54
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacb987ffb1b09510800000000000000
+      internalID: 1553937309492690092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_36
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 604
+        width: 52
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0f15b3f00369460800000000000000
+      internalID: 7248033492277260470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 604
+        width: 52
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130c99cf56472d080800000000000000
+      internalID: -9164134310367084495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 604
+        width: 53
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52258f85b3f8b6650800000000000000
+      internalID: 6227228394828354085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_39
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 604
+        width: 61
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3057077d432581090800000000000000
+      internalID: -8063604745900624637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_40
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 604
+        width: 63
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11336c771ef188b90800000000000000
+      internalID: -7239501347760491759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 523
+        width: 44
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9665cc64e802e9520800000000000000
+      internalID: 2710639821168858729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_42
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 523
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385f05b81eb1678b0800000000000000
+      internalID: -5154902067960023677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 523
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158d17b7e40e2eb00800000000000000
+      internalID: 856493506836944977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 523
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f280dfac9f64e1080800000000000000
+      internalID: -9214849748887074769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 457
+        width: 43
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdb77ee0eaf14a90800000000000000
+      internalID: -7331302874402013756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 457
+        width: 42
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11daf6208c34c0280800000000000000
+      internalID: -9075804622744998639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_47
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 457
+        width: 64
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e546fe145086c0800000000000000
+      internalID: -4143219165223328284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_48
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 457
+        width: 62
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6ab07e01e8fd690800000000000000
+      internalID: -7575179844966963465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 457
+        width: 45
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f3563c81c223a80800000000000000
+      internalID: -8488673862770933941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 457
+        width: 43
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c10464f041c4da0800000000000000
+      internalID: -5959366151082337162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_51
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 457
+        width: 42
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32eff99928558990800000000000000
+      internalID: -7384399078303473090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_52
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 436
+        width: 57
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3bcfc7979b6e2d0800000000000000
+      internalID: -3249706149662116886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_53
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 457
+        width: 56
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c839b69499928e0800000000000000
+      internalID: -1717673242248639418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_54
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 457
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f59fc7fb749f390800000000000000
+      internalID: -7784111593172148432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 367
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b0c04a7435b4bd0800000000000000
+      internalID: -2644928788989998223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 367
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d5213061fe5e140800000000000000
+      internalID: 4748464259951910220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 367
+        width: 70
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0308426ac8526d870800000000000000
+      internalID: 8707188215580491824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 367
+        width: 82
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e30419c93dd2a10800000000000000
+      internalID: 1886396488343371331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 388
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b2ea21eb218b20800000000000000
+      internalID: 3134835061713712204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_60
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 404
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0836f86c53ec00e0800000000000000
+      internalID: -2302215323455703025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_61
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 367
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7d441701894c2b0800000000000000
+      internalID: -5565156043135854604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_62
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 404
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a490ea33a92c230800000000000000
+      internalID: 3657655394132118031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_63
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 394
+        width: 24
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d828815a260c7b70800000000000000
+      internalID: 8897993742603528407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 367
+        width: 96
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68157f8a9cc9a1c30800000000000000
+      internalID: 4330946381607293318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_65
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 378
+        width: 24
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f3963845efa37c0800000000000000
+      internalID: -4090677672577253488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_66
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 375
+        width: 14
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c682b61166ad60800000000000000
+      internalID: 7901109346380466388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_67
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 378
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda6809484469b50800000000000000
+      internalID: 6599537640109157877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_68
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 375
+        width: 14
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a11d9bc306be0a0800000000000000
+      internalID: -6851276594182284775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_69
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 367
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cee697f56b8d540800000000000000
+      internalID: 5032973104761990262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_70
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 367
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf350a214dd0852d0800000000000000
+      internalID: -3289864323297422341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_71
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 288
+        width: 43
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25893e97e0c0e0180800000000000000
+      internalID: -9147360536828864430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 288
+        width: 43
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf56fba6d4d1cee0800000000000000
+      internalID: -1242478003704406076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_73
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 288
+        width: 53
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82029f2fce5a4d210800000000000000
+      internalID: 1356891824852639784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_74
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 288
+        width: 52
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32d187d2ea786210800000000000000
+      internalID: 1326445204957418047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_75
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 288
+        width: 53
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c0f05fa6e2015d0800000000000000
+      internalID: -3093921907090715551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_76
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 288
+        width: 43
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4854b83e8c871abb0800000000000000
+      internalID: -4926523713160264316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9ac97ceadacdde0800000000000000
+      internalID: -1306978825659438651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_78
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 288
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167b052db89de6dd0800000000000000
+      internalID: -2490814349337118879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_79
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 287
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2307d779f354b7790800000000000000
+      internalID: -7531349812420186062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 198
+        width: 40
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1468afd0d8cd35d0800000000000000
+      internalID: -3081085770620443618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 214
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b1d0bf9a63f1570800000000000000
+      internalID: 8439524330404911906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 200
+        width: 23
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7c1790924de9a90800000000000000
+      internalID: -7305168272831166538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 202
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4846d41e1ecfe840800000000000000
+      internalID: 5255645918758586446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_84
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d843aa7041aeaa70800000000000000
+      internalID: 8840180416882362579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_85
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 202
+        width: 51
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19543e48122937600800000000000000
+      internalID: 464875859210356113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_86
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 205
+        width: 42
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50635fc7e8054c360800000000000000
+      internalID: 7188959478102177285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_87
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 212
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8b5421fa95a46b0800000000000000
+      internalID: -5311334202069370714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_88
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 204
+        width: 47
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fafb98478a36b280800000000000000
+      internalID: -9027964050304402699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_89
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 208
+        width: 47
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc2353c6156d3220800000000000000
+      internalID: 2467239319309593810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_90
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 204
+        width: 44
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34c45d05b13657f0800000000000000
+      internalID: -624256844661734341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_91
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 202
+        width: 42
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708fc08fb052cfd00800000000000000
+      internalID: 1007721149960615943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_92
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 209
+        width: 12
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278ea467217621fe0800000000000000
+      internalID: -1219799220072290190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_93
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 201
+        width: 29
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750212aab7ceb4f90800000000000000
+      internalID: -6968215982546280361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_94
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 114
+        width: 44
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e9fee7d29a720f0800000000000000
+      internalID: -1141757967646876093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_95
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed490c8152ee2070800000000000000
+      internalID: 8083647221046267360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_96
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 114
+        width: 43
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac920d905dd99ef50800000000000000
+      internalID: 6911228641494968778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_97
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 114
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3663decddd8321430800000000000000
+      internalID: 3752123965098505827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_98
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 114
+        width: 43
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21f75b7a31e4c650800000000000000
+      internalID: 6252369823990804783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_99
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 114
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d981b8eba4e181a10800000000000000
+      internalID: 1880286150800382109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_100
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 114
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d83af91c21776d20800000000000000
+      internalID: 3271708088536283346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_101
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 114
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb1cd6644d88cb10800000000000000
+      internalID: 2002005359289179072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_102
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 18
+        width: 32
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8b18c57e3e0e40800000000000000
+      internalID: 5624501660221673348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_103
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 15
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26868c1b202334650800000000000000
+      internalID: 6215866897855440994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_104
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 52
+        width: 25
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b658de8aa12ac7ce0800000000000000
+      internalID: -1406070748259449493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_105
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 76
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cb4f53690f25650800000000000000
+      internalID: 6220298563293068383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_106
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 76
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc14a4a5f5d3cad0800000000000000
+      internalID: -2683065701976761146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_107
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 22
+        width: 21
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d0e70701f4cc7e0800000000000000
+      internalID: -1743932023673844383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_108
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 15
+        width: 42
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d82b666ac271fa20800000000000000
+      internalID: 3094380632607500500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_109
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 19
+        width: 69
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ec00ad83b32ad60800000000000000
+      internalID: 7899941811722964556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_110
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 17
+        width: 68
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a776529a6f91f92e0800000000000000
+      internalID: -2116944752650393734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 33
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b5a4c788b8cba80800000000000000
+      internalID: -8449725382536832151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_112
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 35
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d62d83efb40d0d50800000000000000
+      internalID: 6705020642427479761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_113
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 30
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0b09857c9e87060800000000000000
+      internalID: 6951563067240001696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_114
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 18
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859fd3c715b60a7f0800000000000000
+      internalID: -603364352346687144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_115
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 29
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4643fdf9efb195b0800000000000000
+      internalID: -5363294669512686001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_116
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 35
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e790fdf62c088c0800000000000000
+      internalID: -3998982683365900782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_117
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 27
+        width: 65
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d07efe2e30a0870800000000000000
+      internalID: 8649730307540847964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_118
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 33
+        width: 36
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d622022972a73a0800000000000000
+      internalID: -6666972789810762389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gohangrand_119
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 25
+        width: 60
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3364ed9527d17c650800000000000000
+      internalID: 6252998984598439475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

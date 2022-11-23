@@ -1,0 +1,2496 @@
+fileFormatVersion: 2
+guid: 7d9eb0c8ad3c98544bccd3bd245b43ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -491438746005289603
+    second: androidess_0
+  - first:
+      213: -2210216672158180753
+    second: androidess_1
+  - first:
+      213: 2929649346458216268
+    second: androidess_2
+  - first:
+      213: 5601102443220312716
+    second: androidess_3
+  - first:
+      213: -5789921843493153869
+    second: androidess_4
+  - first:
+      213: 2212461679670852622
+    second: androidess_5
+  - first:
+      213: -1242260238607884763
+    second: androidess_6
+  - first:
+      213: 5341613775838694510
+    second: androidess_7
+  - first:
+      213: -5409900609976674574
+    second: androidess_8
+  - first:
+      213: -7995894575742695419
+    second: androidess_9
+  - first:
+      213: -6888688378490348216
+    second: androidess_10
+  - first:
+      213: -1865633383854626858
+    second: androidess_11
+  - first:
+      213: -1267742105080298934
+    second: androidess_12
+  - first:
+      213: 7941670651352342427
+    second: androidess_13
+  - first:
+      213: -3484680815659052421
+    second: androidess_14
+  - first:
+      213: -8560862305702635720
+    second: androidess_15
+  - first:
+      213: -1543804312051291597
+    second: androidess_16
+  - first:
+      213: 6717694669819034030
+    second: androidess_17
+  - first:
+      213: 7452907382797059245
+    second: androidess_18
+  - first:
+      213: -2726507223731047821
+    second: androidess_19
+  - first:
+      213: -301766322999174349
+    second: androidess_20
+  - first:
+      213: -66709430221768551
+    second: androidess_21
+  - first:
+      213: 8982650299178966856
+    second: androidess_22
+  - first:
+      213: 6828305223516837789
+    second: androidess_23
+  - first:
+      213: -1133413683637188147
+    second: androidess_24
+  - first:
+      213: -7856010531952541239
+    second: androidess_25
+  - first:
+      213: -3439958783323701779
+    second: androidess_26
+  - first:
+      213: 3773101856091293354
+    second: androidess_27
+  - first:
+      213: 9027766639904938459
+    second: androidess_28
+  - first:
+      213: 702920799833609623
+    second: androidess_29
+  - first:
+      213: 271784044850953557
+    second: androidess_30
+  - first:
+      213: -8599408564673060448
+    second: androidess_31
+  - first:
+      213: -3097171754985376135
+    second: androidess_32
+  - first:
+      213: -2290622952570199666
+    second: androidess_33
+  - first:
+      213: 3563484276018331132
+    second: androidess_34
+  - first:
+      213: 3201699264022300494
+    second: androidess_35
+  - first:
+      213: 2964742349240498901
+    second: androidess_36
+  - first:
+      213: 3845757616297218243
+    second: androidess_37
+  - first:
+      213: 1726474416334529089
+    second: androidess_38
+  - first:
+      213: 607960442386111964
+    second: androidess_39
+  - first:
+      213: 1122141345826162243
+    second: androidess_40
+  - first:
+      213: -3807692245353671328
+    second: androidess_41
+  - first:
+      213: 2787844867705389181
+    second: androidess_42
+  - first:
+      213: 4396264894639301660
+    second: androidess_43
+  - first:
+      213: -6658726824643978811
+    second: androidess_44
+  - first:
+      213: -5689010604339575334
+    second: androidess_45
+  - first:
+      213: 953351562683633113
+    second: androidess_46
+  - first:
+      213: 860734258390138360
+    second: androidess_47
+  - first:
+      213: -7159284448981387070
+    second: androidess_48
+  - first:
+      213: 1470345166790747794
+    second: androidess_49
+  - first:
+      213: 6752859493303701193
+    second: androidess_50
+  - first:
+      213: -5305709019609826126
+    second: androidess_51
+  - first:
+      213: -5736869501149582420
+    second: androidess_52
+  - first:
+      213: 858608009920263553
+    second: androidess_53
+  - first:
+      213: 8747836386261165874
+    second: androidess_54
+  - first:
+      213: -7122216851781223432
+    second: androidess_55
+  - first:
+      213: 749832582458990599
+    second: androidess_56
+  - first:
+      213: -2980671094795135450
+    second: androidess_57
+  - first:
+      213: -2507059077073225245
+    second: androidess_58
+  - first:
+      213: -2637836562364142021
+    second: androidess_59
+  - first:
+      213: 1354629352740352477
+    second: androidess_60
+  - first:
+      213: 3017641449645608698
+    second: androidess_61
+  - first:
+      213: -6528945587924747786
+    second: androidess_62
+  - first:
+      213: 857572837258328311
+    second: androidess_63
+  - first:
+      213: -5036608353297053692
+    second: androidess_64
+  - first:
+      213: -5417594440691591885
+    second: androidess_65
+  - first:
+      213: -8028998652259086534
+    second: androidess_66
+  - first:
+      213: -2665144468698280899
+    second: androidess_67
+  - first:
+      213: -4367933731157861570
+    second: androidess_68
+  - first:
+      213: 432198654627915427
+    second: androidess_69
+  - first:
+      213: 3395901914032479837
+    second: androidess_70
+  - first:
+      213: 1206140820851865119
+    second: androidess_71
+  - first:
+      213: -9187832399637370768
+    second: androidess_72
+  - first:
+      213: 5938965454306927901
+    second: androidess_73
+  - first:
+      213: -109751172907327184
+    second: androidess_74
+  - first:
+      213: 6214555147736359292
+    second: androidess_75
+  - first:
+      213: -2759446023323741155
+    second: androidess_76
+  - first:
+      213: 7140501228807264310
+    second: androidess_77
+  - first:
+      213: 1520591580567394978
+    second: androidess_78
+  - first:
+      213: 4213013164430388132
+    second: androidess_79
+  - first:
+      213: -805677778242891443
+    second: androidess_80
+  - first:
+      213: -3048168891746205378
+    second: androidess_81
+  - first:
+      213: -1980464929176480765
+    second: androidess_82
+  - first:
+      213: 5083250174534755762
+    second: androidess_83
+  - first:
+      213: -3685740586743343984
+    second: androidess_84
+  - first:
+      213: -9126682834176870476
+    second: androidess_85
+  - first:
+      213: -1873336116193145479
+    second: androidess_86
+  - first:
+      213: 4562210722110475652
+    second: androidess_87
+  - first:
+      213: -2534691770518070999
+    second: androidess_88
+  - first:
+      213: -7706704197964185072
+    second: androidess_89
+  - first:
+      213: -830320871369796687
+    second: androidess_90
+  - first:
+      213: -1737802190795835650
+    second: androidess_91
+  - first:
+      213: 6126219687213643400
+    second: androidess_92
+  - first:
+      213: -1512467657295277502
+    second: androidess_93
+  - first:
+      213: -6983379058572136813
+    second: androidess_94
+  - first:
+      213: -6477923169775350936
+    second: androidess_95
+  - first:
+      213: 9091150062419814179
+    second: androidess_96
+  - first:
+      213: -7107931761679268379
+    second: androidess_97
+  - first:
+      213: -8770568584807524761
+    second: androidess_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: androidess_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 557
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75cd73701f0e29f0800000000000000
+      internalID: -491438746005289603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 557
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a9d5b95abb351e0800000000000000
+      internalID: -2210216672158180753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 557
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47e8140f8438a820800000000000000
+      internalID: 2929649346458216268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 557
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8228b60ffc1bbd40800000000000000
+      internalID: 5601102443220312716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 557
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d05972c016afa0800000000000000
+      internalID: -5789921843493153869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 557
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cf1ffec2e34be10800000000000000
+      internalID: 2212461679670852622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 557
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e5f2f05ea92cee0800000000000000
+      internalID: -1242260238607884763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_7
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 557
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cc2349d69312a40800000000000000
+      internalID: 5341613775838694510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_8
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 557
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6db20ee0c2ce4b0800000000000000
+      internalID: -5409900609976674574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_9
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 557
+        width: 88
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50842675f30e80190800000000000000
+      internalID: -7995894575742695419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 473
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d98b7ea667660a0800000000000000
+      internalID: -6888688378490348216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 473
+        width: 697
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d72c3a6250fb16e0800000000000000
+      internalID: -1865633383854626858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 473
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4202efa543186ee0800000000000000
+      internalID: -1267742105080298934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 473
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f5001716b763e60800000000000000
+      internalID: 7941670651352342427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 473
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b721603c24de3afc0800000000000000
+      internalID: -3484680815659052421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 473
+        width: 99
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83710912715b13980800000000000000
+      internalID: -8560862305702635720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 473
+        width: 95
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a6779582e439ae0800000000000000
+      internalID: -1543804312051291597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_17
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 473
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea93918d5bb0a3d50800000000000000
+      internalID: 6717694669819034030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_18
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 473
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4418707cb0e6760800000000000000
+      internalID: 7452907382797059245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 904
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37279fb2020892ad0800000000000000
+      internalID: -2726507223731047821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 398
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b5578c029efcbf0800000000000000
+      internalID: -301766322999174349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 398
+        width: 771
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998767c6020031ff0800000000000000
+      internalID: -66709430221768551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 398
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f5e10ead8c8ac70800000000000000
+      internalID: 8982650299178966856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 398
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d975aa14c6303ce50800000000000000
+      internalID: 6828305223516837789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 398
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc90d33824e4540f0800000000000000
+      internalID: -1133413683637188147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 398
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1cd3b4b08d9f290800000000000000
+      internalID: -7856010531952541239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_26
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 398
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded710656bfc240d0800000000000000
+      internalID: -3439958783323701779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 398
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa640b9b520cc5430800000000000000
+      internalID: 3773101856091293354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 398
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9d7a68de1194d70800000000000000
+      internalID: 9027766639904938459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_29
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 398
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795d0534eb641c900800000000000000
+      internalID: 702920799833609623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_30
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 398
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55db5f8162295c300800000000000000
+      internalID: 271784044850953557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_31
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 399
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1e538d873c8a880800000000000000
+      internalID: -8599408564673060448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_32
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 398
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97639b7c2b2a405d0800000000000000
+      internalID: -3097171754985376135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_33
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 405
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8162b59f821630e0800000000000000
+      internalID: -2290622952570199666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_34
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 398
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd33c2a11a047130800000000000000
+      internalID: 3563484276018331132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_35
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 398
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47cdad6488be6c20800000000000000
+      internalID: 3201699264022300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 320
+        width: 20
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da79017571e42920800000000000000
+      internalID: 2964742349240498901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 320
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c016a32d20ee5530800000000000000
+      internalID: 3845757616297218243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_38
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 320
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1426b6b955ba5f710800000000000000
+      internalID: 1726474416334529089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 320
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddd9ed1dc8ef6800800000000000000
+      internalID: 607960442386111964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 320
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3464fb1db95a29f00800000000000000
+      internalID: 1122141345826162243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_41
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 320
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0655fada31c582bc0800000000000000
+      internalID: -3807692245353671328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_42
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 320
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70c974f22a60b620800000000000000
+      internalID: 2787844867705389181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_43
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 320
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14ee7711aba20d30800000000000000
+      internalID: 4396264894639301660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_44
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 320
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c91bb08b337793a0800000000000000
+      internalID: -6658726824643978811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_45
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 320
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5c8ec3ff29c01b0800000000000000
+      internalID: -5689010604339575334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_46
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 320
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd42d7f13cfa3d00800000000000000
+      internalID: 953351562683633113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_47
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 320
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd7a556f31f1fb00800000000000000
+      internalID: 860734258390138360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_48
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 320
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c87c74a9bc15ac90800000000000000
+      internalID: -7159284448981387070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_49
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 320
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29666c39327b76410800000000000000
+      internalID: 1470345166790747794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_50
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 320
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cecd745ee9f6bd50800000000000000
+      internalID: 6752859493303701193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_51
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 320
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcf19ce1c55e56b0800000000000000
+      internalID: -5305709019609826126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_52
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 320
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe43d759b8260b0800000000000000
+      internalID: -5736869501149582420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_53
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 320
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1853a989f636aeb00800000000000000
+      internalID: 858608009920263553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 257
+        width: 914
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237655468de866970800000000000000
+      internalID: 8747836386261165874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_55
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 260
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb7748228dc82d90800000000000000
+      internalID: -7122216851781223432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_56
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 260
+        width: 81
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7006b7ec2c0f76a00800000000000000
+      internalID: 749832582458990599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_57
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 260
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626167a7e6782a6d0800000000000000
+      internalID: -2980671094795135450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_58
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 260
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9b1286d03253dd0800000000000000
+      internalID: -2507059077073225245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_59
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 260
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e6fb45f95846bd0800000000000000
+      internalID: -2637836562364142021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 175
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1f76c183c9cc210800000000000000
+      internalID: 1354629352740352477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 175
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe0f9909e0d0e920800000000000000
+      internalID: 3017641449645608698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 175
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f934e164968465a0800000000000000
+      internalID: -6528945587924747786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_63
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 175
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f87ecda3f5b6eb00800000000000000
+      internalID: 857572837258328311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 175
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408c6f4436f5a1ab0800000000000000
+      internalID: -5036608353297053692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_65
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 175
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33552715f86d0d4b0800000000000000
+      internalID: -5417594440691591885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_66
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 175
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fc106e344439090800000000000000
+      internalID: -8028998652259086534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 175
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c442ce931830bd0800000000000000
+      internalID: -2665144468698280899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_68
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 175
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b93efe96bf163c0800000000000000
+      internalID: -4367933731157861570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_69
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 175
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6af71f26a7ff500800000000000000
+      internalID: 432198654627915427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_70
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 175
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e99fd6ccaa02f20800000000000000
+      internalID: 3395901914032479837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_71
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 175
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1639f7afa21db010800000000000000
+      internalID: 1206140820851865119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_72
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 175
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0782acb9c134e7080800000000000000
+      internalID: -9187832399637370768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_73
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 175
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15e74d5d917b6250800000000000000
+      internalID: 5938965454306927901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_74
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 175
+        width: 70
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0312d25c3e51a7ef0800000000000000
+      internalID: -109751172907327184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_75
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 175
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71a6e11bf88e3650800000000000000
+      internalID: 6214555147736359292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_76
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 175
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d149ce2467a74b9d0800000000000000
+      internalID: -2759446023323741155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_77
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 175
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6381c4d1908281360800000000000000
+      internalID: 7140501228807264310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_78
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 89
+        width: 995
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa5b207cf93a1510800000000000000
+      internalID: 1520591580567394978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_79
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 89
+        width: 80
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abeaebc621a77a30800000000000000
+      internalID: 4213013164430388132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_80
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 89
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4118605458a1d4f0800000000000000
+      internalID: -805677778242891443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_81
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 89
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e314218fa8ab2b5d0800000000000000
+      internalID: -3048168891746205378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 89
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304115ec3a9f384e0800000000000000
+      internalID: -1980464929176480765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_83
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 89
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5269df9155b8640800000000000000
+      internalID: 5083250174534755762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_84
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 89
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0945ce8d67e99dcc0800000000000000
+      internalID: -3685740586743343984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_85
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 89
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b77b3b4152875180800000000000000
+      internalID: -9126682834176870476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_86
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 89
+        width: 24
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc5694ab29006e0800000000000000
+      internalID: -1873336116193145479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_87
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 89
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d8fd9ea7a305f30800000000000000
+      internalID: 4562210722110475652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_88
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 89
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9291a2b9347f2dcd0800000000000000
+      internalID: -2534691770518070999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_89
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 89
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01245532d594c0590800000000000000
+      internalID: -7706704197964185072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_90
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 5
+        width: 620
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b31964119b1a74f0800000000000000
+      internalID: -830320871369796687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_91
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 860
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6f7bf5d1612e7e0800000000000000
+      internalID: -1737802190795835650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_92
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886bf50f854b40550800000000000000
+      internalID: 6126219687213643400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_93
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 5
+        width: 95
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242d5a8dda2a20be0800000000000000
+      internalID: -1512467657295277502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_94
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee7e9eebd061f90800000000000000
+      internalID: -6983379058572136813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_95
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 5
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b8447d23bc916a0800000000000000
+      internalID: -6477923169775350936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_96
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 5
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ad4690d04a2e70800000000000000
+      internalID: 9091150062419814179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_97
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 6
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e50461e8bd8b5d90800000000000000
+      internalID: -7107931761679268379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: androidess_98
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 5
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766d850375ea84680800000000000000
+      internalID: -8770568584807524761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

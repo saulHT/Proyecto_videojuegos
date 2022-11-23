@@ -1,0 +1,3456 @@
+fileFormatVersion: 2
+guid: 0ca767d3272a39e4092d47e016ff9e0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3939670035675723699
+    second: cel_0
+  - first:
+      213: -7225752193333997421
+    second: cel_1
+  - first:
+      213: 2147113172774726321
+    second: cel_2
+  - first:
+      213: 8500245238001422844
+    second: cel_3
+  - first:
+      213: 3487128129815539363
+    second: cel_4
+  - first:
+      213: -4258931214952335858
+    second: cel_5
+  - first:
+      213: -3688973267357176549
+    second: cel_6
+  - first:
+      213: 4231846152694472066
+    second: cel_7
+  - first:
+      213: -6867727844102013348
+    second: cel_8
+  - first:
+      213: -8638470278254738101
+    second: cel_9
+  - first:
+      213: -3933684183133631965
+    second: cel_10
+  - first:
+      213: -4752100426952396178
+    second: cel_11
+  - first:
+      213: 4649410561472881948
+    second: cel_12
+  - first:
+      213: 8629294557572273757
+    second: cel_13
+  - first:
+      213: 4481785164853560038
+    second: cel_14
+  - first:
+      213: 3435429824874958249
+    second: cel_15
+  - first:
+      213: -2829781563514402962
+    second: cel_16
+  - first:
+      213: -4556332389222918747
+    second: cel_17
+  - first:
+      213: 8408982782125132711
+    second: cel_18
+  - first:
+      213: 5603892895114048222
+    second: cel_19
+  - first:
+      213: 659942531656707725
+    second: cel_20
+  - first:
+      213: -8957813940618291652
+    second: cel_21
+  - first:
+      213: 1714881305376163834
+    second: cel_22
+  - first:
+      213: -8935646344970859300
+    second: cel_23
+  - first:
+      213: 8139206849969673156
+    second: cel_24
+  - first:
+      213: 3844891567006811760
+    second: cel_25
+  - first:
+      213: 4582936782807157971
+    second: cel_26
+  - first:
+      213: -8638754461877553204
+    second: cel_27
+  - first:
+      213: -8472447809222903553
+    second: cel_28
+  - first:
+      213: -6799546029415061389
+    second: cel_29
+  - first:
+      213: 8572575529294661970
+    second: cel_30
+  - first:
+      213: 2080339210082807466
+    second: cel_31
+  - first:
+      213: -7440599363065548418
+    second: cel_32
+  - first:
+      213: 7073153056212293225
+    second: cel_33
+  - first:
+      213: 5228547762741387972
+    second: cel_34
+  - first:
+      213: 3434573812714941416
+    second: cel_35
+  - first:
+      213: 1364888699894765391
+    second: cel_36
+  - first:
+      213: 3833794460719545152
+    second: cel_37
+  - first:
+      213: 3844336894559639474
+    second: cel_38
+  - first:
+      213: -9081614947330612833
+    second: cel_39
+  - first:
+      213: -4434187396406530343
+    second: cel_40
+  - first:
+      213: 3805151744095422639
+    second: cel_41
+  - first:
+      213: 6207788602831692473
+    second: cel_42
+  - first:
+      213: 7440329514546976102
+    second: cel_43
+  - first:
+      213: -6231894748562415032
+    second: cel_44
+  - first:
+      213: 5990584056325094042
+    second: cel_45
+  - first:
+      213: 4346760835226107922
+    second: cel_46
+  - first:
+      213: 6808565186839971127
+    second: cel_47
+  - first:
+      213: -4691603536004825374
+    second: cel_48
+  - first:
+      213: 8286967368239450480
+    second: cel_49
+  - first:
+      213: -5160495161445388419
+    second: cel_50
+  - first:
+      213: -3801181017088605301
+    second: cel_51
+  - first:
+      213: 1441728755590827962
+    second: cel_52
+  - first:
+      213: 8252379076963748669
+    second: cel_53
+  - first:
+      213: -466204319600774020
+    second: cel_54
+  - first:
+      213: 5618726462764699954
+    second: cel_55
+  - first:
+      213: -1854002207442293895
+    second: cel_56
+  - first:
+      213: 5319275069853362407
+    second: cel_57
+  - first:
+      213: -7670685932545571628
+    second: cel_58
+  - first:
+      213: -8902567968079938318
+    second: cel_59
+  - first:
+      213: 5081142254378047161
+    second: cel_60
+  - first:
+      213: 5120362680454818824
+    second: cel_61
+  - first:
+      213: -2181562015889508853
+    second: cel_62
+  - first:
+      213: -3215640622326962844
+    second: cel_63
+  - first:
+      213: 1082948363775778253
+    second: cel_64
+  - first:
+      213: -7471488803669523737
+    second: cel_65
+  - first:
+      213: 593177407398101929
+    second: cel_66
+  - first:
+      213: -6487322086284292391
+    second: cel_67
+  - first:
+      213: 445108419457760814
+    second: cel_68
+  - first:
+      213: -2133716670201924227
+    second: cel_69
+  - first:
+      213: 1010566309938517961
+    second: cel_70
+  - first:
+      213: 7682306535598082190
+    second: cel_71
+  - first:
+      213: 2595392163133445338
+    second: cel_72
+  - first:
+      213: -477915614938308253
+    second: cel_73
+  - first:
+      213: 7809453277717720494
+    second: cel_74
+  - first:
+      213: -5214220978195360846
+    second: cel_75
+  - first:
+      213: -3926110033723296412
+    second: cel_76
+  - first:
+      213: -5525316820041752284
+    second: cel_77
+  - first:
+      213: -8296837445655135868
+    second: cel_78
+  - first:
+      213: -7339447053922810380
+    second: cel_79
+  - first:
+      213: 1228623222100733329
+    second: cel_80
+  - first:
+      213: -352996121643648146
+    second: cel_81
+  - first:
+      213: 4789496605363417273
+    second: cel_82
+  - first:
+      213: 613160771140728814
+    second: cel_83
+  - first:
+      213: 4983279816041189013
+    second: cel_84
+  - first:
+      213: 5293594328551962885
+    second: cel_85
+  - first:
+      213: 1117636602386875548
+    second: cel_86
+  - first:
+      213: -3642054832821099302
+    second: cel_87
+  - first:
+      213: -8030518892348487691
+    second: cel_88
+  - first:
+      213: 8732532625455524726
+    second: cel_89
+  - first:
+      213: 2969815852863207366
+    second: cel_90
+  - first:
+      213: -8828626647566796311
+    second: cel_91
+  - first:
+      213: 5938193074914416307
+    second: cel_92
+  - first:
+      213: -7063879358725154540
+    second: cel_93
+  - first:
+      213: -6366739684969203242
+    second: cel_94
+  - first:
+      213: -1038920497527113387
+    second: cel_95
+  - first:
+      213: -3065379359198175163
+    second: cel_96
+  - first:
+      213: 6215195359193283445
+    second: cel_97
+  - first:
+      213: 2249668591290496790
+    second: cel_98
+  - first:
+      213: 9126277178730042102
+    second: cel_99
+  - first:
+      213: 6684957264000128338
+    second: cel_100
+  - first:
+      213: 6080560227157334880
+    second: cel_101
+  - first:
+      213: -335392651965052306
+    second: cel_102
+  - first:
+      213: 3564921972460676877
+    second: cel_103
+  - first:
+      213: 5028180830733434277
+    second: cel_104
+  - first:
+      213: -1452911871208649520
+    second: cel_105
+  - first:
+      213: 2509411524831297184
+    second: cel_106
+  - first:
+      213: 3323602009057350136
+    second: cel_107
+  - first:
+      213: -1392740107810203326
+    second: cel_108
+  - first:
+      213: -1132044333493199308
+    second: cel_109
+  - first:
+      213: 3136534221166237637
+    second: cel_110
+  - first:
+      213: -5331432044269443414
+    second: cel_111
+  - first:
+      213: -4017448021136736443
+    second: cel_112
+  - first:
+      213: -8622503710162113275
+    second: cel_113
+  - first:
+      213: 10783284561451251
+    second: cel_114
+  - first:
+      213: 4326008504206912733
+    second: cel_115
+  - first:
+      213: -7113498646064207267
+    second: cel_116
+  - first:
+      213: 887130972724074528
+    second: cel_117
+  - first:
+      213: -5184077301959784432
+    second: cel_118
+  - first:
+      213: 537381492538448126
+    second: cel_119
+  - first:
+      213: 5225884422854030092
+    second: cel_120
+  - first:
+      213: 4495610998157586631
+    second: cel_121
+  - first:
+      213: 5179210454930310263
+    second: cel_122
+  - first:
+      213: -1687656944936555687
+    second: cel_123
+  - first:
+      213: 3791764447702588440
+    second: cel_124
+  - first:
+      213: -1711443067249432925
+    second: cel_125
+  - first:
+      213: -5318475232242762851
+    second: cel_126
+  - first:
+      213: 1908438634227518688
+    second: cel_127
+  - first:
+      213: -8288759709769820701
+    second: cel_128
+  - first:
+      213: -7345985442087990565
+    second: cel_129
+  - first:
+      213: -2445430677533216735
+    second: cel_130
+  - first:
+      213: -79650337895519159
+    second: cel_131
+  - first:
+      213: -1702472572516970794
+    second: cel_132
+  - first:
+      213: -9161423957714877868
+    second: cel_133
+  - first:
+      213: 3200535646956085987
+    second: cel_134
+  - first:
+      213: 254750519467083309
+    second: cel_135
+  - first:
+      213: 6985303033729893971
+    second: cel_136
+  - first:
+      213: 7578292851551844629
+    second: cel_137
+  - first:
+      213: -8102008137338367301
+    second: cel_138
+  - first:
+      213: 4228506366063174676
+    second: cel_139
+  - first:
+      213: 4463896978446670304
+    second: cel_140
+  - first:
+      213: -2037679146976831079
+    second: cel_141
+  - first:
+      213: -804680537065914176
+    second: cel_142
+  - first:
+      213: 4184604382055204950
+    second: cel_143
+  - first:
+      213: 831900875250119758
+    second: cel_144
+  - first:
+      213: -7135996857834781928
+    second: cel_145
+  - first:
+      213: -24390333429586104
+    second: cel_146
+  - first:
+      213: 2508495092485513879
+    second: cel_147
+  - first:
+      213: -2404118153509568679
+    second: cel_148
+  - first:
+      213: -5793422184761223320
+    second: cel_149
+  - first:
+      213: 3567875018367359160
+    second: cel_150
+  - first:
+      213: -2935507231101815360
+    second: cel_151
+  - first:
+      213: 1437433498980355270
+    second: cel_152
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cel_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1383
+        width: 50
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b3b036058ca630800000000000000
+      internalID: 3939670035675723699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1380
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390d351f9a8f8bb90800000000000000
+      internalID: -7225752193333997421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1388
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baacc30e041ccd10800000000000000
+      internalID: 2147113172774726321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1387
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1d7caf100f6f570800000000000000
+      internalID: 8500245238001422844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1385
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6de7fe84c46030800000000000000
+      internalID: 3487128129815539363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1381
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0671f1ff9c35e4c0800000000000000
+      internalID: -4258931214952335858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_6
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1327
+        width: 66
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d634dbb522eccc0800000000000000
+      internalID: -3688973267357176549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1269
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d157397a98aba30800000000000000
+      internalID: 4231846152694472066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1267
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e7d3e99ede0b0a0800000000000000
+      internalID: -6867727844102013348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1266
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b454bddec0dfd1880800000000000000
+      internalID: -8638470278254738101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1266
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a4fb5b31fb869c0800000000000000
+      internalID: -3933684183133631965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1270
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623582e6d52d0eb0800000000000000
+      internalID: -4752100426952396178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1269
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c156a83a546068040800000000000000
+      internalID: 4649410561472881948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1269
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d569e4e1ea961c770800000000000000
+      internalID: 8629294557572273757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1161
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e246b6acdf723e30800000000000000
+      internalID: 4481785164853560038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1153
+        width: 44
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad447a59391daf20800000000000000
+      internalID: 3435429824874958249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1157
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6746ca29a89ab8d0800000000000000
+      internalID: -2829781563514402962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1144
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5d2cd15d7a4c0c0800000000000000
+      internalID: -4556332389222918747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1145
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc1f2a945b2b470800000000000000
+      internalID: 8408982782125132711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1146
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2bb9cb5e605cd40800000000000000
+      internalID: 5603892895114048222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1144
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ee19b6c36982900800000000000000
+      internalID: 659942531656707725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1143
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3697697ea37fa380800000000000000
+      internalID: -8957813940618291652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1035
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af787ee167b7cc710800000000000000
+      internalID: 1714881305376163834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1027
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc8e790ef43ef380800000000000000
+      internalID: -8935646344970859300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1033
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35ed5b18544f070800000000000000
+      internalID: 8139206849969673156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1032
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0760653528ccb5530800000000000000
+      internalID: 3844891567006811760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1031
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcca47f8bcd99f30800000000000000
+      internalID: 4582936782807157971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 921
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7b7f5469afc1880800000000000000
+      internalID: -8638754461877553204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 914
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff87b314b91db6a80800000000000000
+      internalID: -8472447809222903553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 925
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3782cca69e823a1a0800000000000000
+      internalID: -6799546029415061389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 923
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25980d14608e7f670800000000000000
+      internalID: 8572575529294661970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 823
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae6d4d4d79dedc10800000000000000
+      internalID: 2080339210082807466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 817
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71fa702d4eadb890800000000000000
+      internalID: -7440599363065548418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 824
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966908dba33e82260800000000000000
+      internalID: 7073153056212293225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 822
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22d59fc788f8840800000000000000
+      internalID: 5228547762741387972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 705
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebabbd7fae0aaf20800000000000000
+      internalID: 3434573812714941416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 705
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f471c238a0f01f210800000000000000
+      internalID: 1364888699894765391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 704
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b7c0defbf543530800000000000000
+      internalID: 3833794460719545152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 700
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d7259904d95530800000000000000
+      internalID: 3844336894559639474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 702
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f912b75625f97f180800000000000000
+      internalID: -9081614947330612833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_40
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 702
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deaca96e0a9672c0800000000000000
+      internalID: -4434187396406530343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa80447c95d9ec430800000000000000
+      internalID: 3805151744095422639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_42
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 702
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2608018de762650800000000000000
+      internalID: 6207788602831692473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_43
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 700
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6655d6ed54c514760800000000000000
+      internalID: 7440329514546976102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 601
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842a0528ebcd389a0800000000000000
+      internalID: -6231894748562415032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_45
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 598
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a3062b574d22350800000000000000
+      internalID: 5990584056325094042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_46
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 586
+        width: 69
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2108b3313fbc25c30800000000000000
+      internalID: 4346760835226107922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 589
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73500bfc6f1ec7e50800000000000000
+      internalID: 6808565186839971127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 583
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee3771f07314eeb0800000000000000
+      internalID: -4691603536004825374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 467
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0798a294ae8310370800000000000000
+      internalID: 8286967368239450480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 464
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83c975210e7f3bc0800000000000000
+      internalID: -3801181017088605301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 465
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf05732aac020410800000000000000
+      internalID: 1441728755590827962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_53
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 464
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b4a4a2c07568270800000000000000
+      internalID: 8252379076963748669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_58
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 465
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4090f09cf3c8590800000000000000
+      internalID: -7670685932545571628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_70
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 359
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7dcd564b0460e00800000000000000
+      internalID: 1010566309938517961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_71
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 357
+        width: 63
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e884cfd67190d9a60800000000000000
+      internalID: 7682306535598082190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_72
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 364
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4d660eb6fa40420800000000000000
+      internalID: 2595392163133445338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_73
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 363
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3616df2c74a1e59f0800000000000000
+      internalID: -477915614938308253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_74
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 361
+        width: 105
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadef5c3160c06c60800000000000000
+      internalID: 7809453277717720494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_75
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 310
+        width: 42
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3964e75ad53a7b0800000000000000
+      internalID: -5214220978195360846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_76
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 310
+        width: 47
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46573dac9b7a389c0800000000000000
+      internalID: -3926110033723296412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_77
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 310
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421abe560a12253b0800000000000000
+      internalID: -5525316820041752284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_78
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 233
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f09c3d46bbdc80800000000000000
+      internalID: -8296837445655135868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_79
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 286
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5c42f5acb052a90800000000000000
+      internalID: -7339447053922810380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_80
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 300
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d2c1c9f42fc0110800000000000000
+      internalID: 1228623222100733329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_81
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 297
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bf65ac5e7e91bf0800000000000000
+      internalID: -352996121643648146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_82
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 298
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b030a769c5b77240800000000000000
+      internalID: 4789496605363417273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 294
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee73c020972628800800000000000000
+      internalID: 613160771140728814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_84
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 264
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e4283179a282540800000000000000
+      internalID: 4983279816041189013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_85
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 265
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509bc52ceff967940800000000000000
+      internalID: 5293594328551962885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_86
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 266
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c948e318194a28f00800000000000000
+      internalID: 1117636602386875548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_87
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4243d0d62d47dc0800000000000000
+      internalID: -3642054832821099302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_88
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 234
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7418b6d9ddd8090800000000000000
+      internalID: -8030518892348487691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_89
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 234
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b29c9e720303970800000000000000
+      internalID: 8732532625455524726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_90
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 234
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c73c3e88c7e63920800000000000000
+      internalID: 2969815852863207366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_91
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 235
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9bb3117da6a7580800000000000000
+      internalID: -8828626647566796311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 230
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b655f5c323b86250800000000000000
+      internalID: 5938193074914416307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 166
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41919f6362f08fd90800000000000000
+      internalID: -7063879358725154540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_94
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 186
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9370c2dfbc4a7a0800000000000000
+      internalID: -6366739684969203242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_95
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 61
+        width: 120
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559360bdf430591f0800000000000000
+      internalID: -1038920497527113387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_96
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540ad21c6b59575d0800000000000000
+      internalID: -3065379359198175163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_97
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 69
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b3f5aef3fc04650800000000000000
+      internalID: 6215195359193283445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_98
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 75
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617393e1aad683f10800000000000000
+      internalID: 2249668591290496790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_99
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 75
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f255ffadbc07ae70800000000000000
+      internalID: 9126277178730042102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_100
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 74
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2551563963db5cc50800000000000000
+      internalID: 6684957264000128338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_101
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 50
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd4177f4d726450800000000000000
+      internalID: 6080560227157334880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_102
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 47
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ac857f822785bf0800000000000000
+      internalID: -335392651965052306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_103
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 47
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07e08c65a5297130800000000000000
+      internalID: 3564921972460676877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_104
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad7b4a33dfa7c540800000000000000
+      internalID: 5028180830733434277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_105
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 50
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc09aad95836dbe0800000000000000
+      internalID: -1452911871208649520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_106
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 50
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae37d48c7833d220800000000000000
+      internalID: 2509411524831297184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_107
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f153a40b6ecf1e20800000000000000
+      internalID: 3323602009057350136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_108
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 50
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2499881404efbace0800000000000000
+      internalID: -1392740107810203326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_109
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 50
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ed4203dab2a40f0800000000000000
+      internalID: -1132044333493199308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_110
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7587e8145378b20800000000000000
+      internalID: 3136534221166237637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_111
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 50
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa66f298dc2f206b0800000000000000
+      internalID: -5331432044269443414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_112
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f7c846f482f38c0800000000000000
+      internalID: -4017448021136736443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_113
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 50
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dac414f86b65880800000000000000
+      internalID: -8622503710162113275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_114
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 50
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f81cc5175f462000800000000000000
+      internalID: 10783284561451251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_115
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 50
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc629c70d1190c30800000000000000
+      internalID: 4326008504206912733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_116
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 36
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aee1b9ba6c74d90800000000000000
+      internalID: -7113498646064207267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_117
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 36
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02817726be8bf4c00800000000000000
+      internalID: 887130972724074528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_118
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018858809257e08b0800000000000000
+      internalID: -5184077301959784432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_119
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 36
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef89f9bce99257700800000000000000
+      internalID: 537381492538448126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_120
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 36
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033675d132168840800000000000000
+      internalID: 5225884422854030092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_121
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 36
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0b581526e936e30800000000000000
+      internalID: 4495610998157586631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_122
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 36
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7744c17d77040e740800000000000000
+      internalID: 5179210454930310263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_123
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 36
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be55e33fc3498e0800000000000000
+      internalID: -1687656944936555687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_124
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c9441fcad0f9430800000000000000
+      internalID: 3791764447702588440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_125
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 22
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6ea43199bbf38e0800000000000000
+      internalID: -1711443067249432925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_126
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bf47b64faf036b0800000000000000
+      internalID: -5318475232242762851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_127
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 36
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec43c493d22c7a10800000000000000
+      internalID: 1908438634227518688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_128
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 36
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5999ea5f868fc80800000000000000
+      internalID: -8288759709769820701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_129
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda872f3921dd0a90800000000000000
+      internalID: -7345985442087990565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 36
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1203ac651c5101ed0800000000000000
+      internalID: -2445430677533216735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_131
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c6f7f807605eef0800000000000000
+      internalID: -79650337895519159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_132
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dec743273a9f58e0800000000000000
+      internalID: -1702472572516970794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_133
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452c6a323751cd080800000000000000
+      internalID: -9161423957714877868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_134
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2eac7b6369a6c20800000000000000
+      internalID: 3200535646956085987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_135
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d268e2b6f3e098300800000000000000
+      internalID: 254750519467083309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_136
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356cde57918c0f060800000000000000
+      internalID: 6985303033729893971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_137
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 22
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51931ac62318b2960800000000000000
+      internalID: 7578292851551844629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_138
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb25f9e7682ef8f80800000000000000
+      internalID: -8102008137338367301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_139
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4146ca7e22caeaa30800000000000000
+      internalID: 4228506366063174676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_140
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 22
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9d042b6a2f2fd30800000000000000
+      internalID: 4463896978446670304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_141
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9999936ac95b8b3e0800000000000000
+      internalID: -2037679146976831079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_142
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 22
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0048e905335d4f0800000000000000
+      internalID: -804680537065914176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_143
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65881f5b383b21a30800000000000000
+      internalID: 4184604382055204950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_144
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44be9d30718b8b00800000000000000
+      internalID: 831900875250119758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_145
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 22
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813447a7aa8d7fc90800000000000000
+      internalID: -7135996857834781928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_146
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 22
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e9f7fe1959aff0800000000000000
+      internalID: -24390333429586104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_147
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792e86cfef6ffc220800000000000000
+      internalID: 2508495092485513879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_148
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 19
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f7ef5e64bd2aed0800000000000000
+      internalID: -2404118153509568679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_149
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679073c731a99fa0800000000000000
+      internalID: -5793422184761223320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_150
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8d6c00d63a38130800000000000000
+      internalID: 3567875018367359160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_151
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f59ee9bbf247d0800000000000000
+      internalID: -2935507231101815360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cel_152
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 22
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc88f6c62ac2f310800000000000000
+      internalID: 1437433498980355270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

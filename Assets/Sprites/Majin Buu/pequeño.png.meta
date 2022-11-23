@@ -1,0 +1,4782 @@
+fileFormatVersion: 2
+guid: 957fd59087bb80e43b13de5784f64118
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6931353022046451565
+    second: "peque\xF1o_0"
+  - first:
+      213: -6810334132328815467
+    second: "peque\xF1o_1"
+  - first:
+      213: -5408308364583679648
+    second: "peque\xF1o_2"
+  - first:
+      213: -4165727917280562147
+    second: "peque\xF1o_3"
+  - first:
+      213: 1355219275007910987
+    second: "peque\xF1o_4"
+  - first:
+      213: -2846410370529200871
+    second: "peque\xF1o_5"
+  - first:
+      213: 4990751664390055774
+    second: "peque\xF1o_6"
+  - first:
+      213: 333617859661508742
+    second: "peque\xF1o_7"
+  - first:
+      213: -2025512734411857529
+    second: "peque\xF1o_8"
+  - first:
+      213: 2392928724966406978
+    second: "peque\xF1o_9"
+  - first:
+      213: -4923927723232365962
+    second: "peque\xF1o_10"
+  - first:
+      213: 4870752043448271998
+    second: "peque\xF1o_11"
+  - first:
+      213: 8904555105327219959
+    second: "peque\xF1o_12"
+  - first:
+      213: -7108867610103262242
+    second: "peque\xF1o_13"
+  - first:
+      213: 7564897206656485799
+    second: "peque\xF1o_14"
+  - first:
+      213: -6259889185347166541
+    second: "peque\xF1o_15"
+  - first:
+      213: -195902192035434508
+    second: "peque\xF1o_16"
+  - first:
+      213: -2259537003978628252
+    second: "peque\xF1o_17"
+  - first:
+      213: -5161971015747762275
+    second: "peque\xF1o_18"
+  - first:
+      213: 547863806315457445
+    second: "peque\xF1o_19"
+  - first:
+      213: -4312433277049421446
+    second: "peque\xF1o_20"
+  - first:
+      213: 8260168760322335429
+    second: "peque\xF1o_21"
+  - first:
+      213: 806903732306440168
+    second: "peque\xF1o_22"
+  - first:
+      213: -8953275807844141327
+    second: "peque\xF1o_23"
+  - first:
+      213: 4947521934493838390
+    second: "peque\xF1o_24"
+  - first:
+      213: 76156469350612094
+    second: "peque\xF1o_25"
+  - first:
+      213: -4016247044035933169
+    second: "peque\xF1o_26"
+  - first:
+      213: -6654238505003703872
+    second: "peque\xF1o_27"
+  - first:
+      213: -8672587490620039216
+    second: "peque\xF1o_28"
+  - first:
+      213: 2652535537985957043
+    second: "peque\xF1o_29"
+  - first:
+      213: 3484280424190953234
+    second: "peque\xF1o_30"
+  - first:
+      213: 2571952569334423888
+    second: "peque\xF1o_31"
+  - first:
+      213: -6625243499575380107
+    second: "peque\xF1o_32"
+  - first:
+      213: 8813616349833099576
+    second: "peque\xF1o_33"
+  - first:
+      213: 8159218857169070751
+    second: "peque\xF1o_34"
+  - first:
+      213: 150689932433116083
+    second: "peque\xF1o_35"
+  - first:
+      213: -6820058874424743445
+    second: "peque\xF1o_36"
+  - first:
+      213: 6221702934228887978
+    second: "peque\xF1o_37"
+  - first:
+      213: 8860182221305184100
+    second: "peque\xF1o_38"
+  - first:
+      213: 4147628824834693503
+    second: "peque\xF1o_39"
+  - first:
+      213: 7660073369270939649
+    second: "peque\xF1o_40"
+  - first:
+      213: 1762276847769759659
+    second: "peque\xF1o_41"
+  - first:
+      213: -4350390268215139263
+    second: "peque\xF1o_42"
+  - first:
+      213: 1871748337268225996
+    second: "peque\xF1o_43"
+  - first:
+      213: 8963850103522986442
+    second: "peque\xF1o_44"
+  - first:
+      213: 1466361761975742680
+    second: "peque\xF1o_45"
+  - first:
+      213: 5507804764154473801
+    second: "peque\xF1o_46"
+  - first:
+      213: 6469520521249029171
+    second: "peque\xF1o_47"
+  - first:
+      213: -7663384931224801962
+    second: "peque\xF1o_48"
+  - first:
+      213: 8095235923397765804
+    second: "peque\xF1o_49"
+  - first:
+      213: 1194104790413854244
+    second: "peque\xF1o_50"
+  - first:
+      213: 4109585184109764016
+    second: "peque\xF1o_51"
+  - first:
+      213: 1281583344732970386
+    second: "peque\xF1o_52"
+  - first:
+      213: 6253340974397821217
+    second: "peque\xF1o_53"
+  - first:
+      213: 5695239407900491792
+    second: "peque\xF1o_54"
+  - first:
+      213: 3766149179441378805
+    second: "peque\xF1o_55"
+  - first:
+      213: 2605058102160889074
+    second: "peque\xF1o_56"
+  - first:
+      213: 335044506404365594
+    second: "peque\xF1o_57"
+  - first:
+      213: 6874507451362575695
+    second: "peque\xF1o_58"
+  - first:
+      213: -1954804873357066592
+    second: "peque\xF1o_59"
+  - first:
+      213: -4404834607591651332
+    second: "peque\xF1o_60"
+  - first:
+      213: 3493081741974577382
+    second: "peque\xF1o_61"
+  - first:
+      213: -1826961709674510834
+    second: "peque\xF1o_62"
+  - first:
+      213: 3080840256936169991
+    second: "peque\xF1o_63"
+  - first:
+      213: 7540946648833973385
+    second: "peque\xF1o_64"
+  - first:
+      213: 1260286395728438710
+    second: "peque\xF1o_65"
+  - first:
+      213: 7851164646558440797
+    second: "peque\xF1o_66"
+  - first:
+      213: 1585213408790668201
+    second: "peque\xF1o_67"
+  - first:
+      213: 5021801419595073019
+    second: "peque\xF1o_68"
+  - first:
+      213: -6845775429515645406
+    second: "peque\xF1o_69"
+  - first:
+      213: 7947178027642244998
+    second: "peque\xF1o_70"
+  - first:
+      213: -4739313997184312016
+    second: "peque\xF1o_71"
+  - first:
+      213: -3092522049631282689
+    second: "peque\xF1o_72"
+  - first:
+      213: -4766474262387571588
+    second: "peque\xF1o_73"
+  - first:
+      213: 247353572093217961
+    second: "peque\xF1o_74"
+  - first:
+      213: 6539426146424033210
+    second: "peque\xF1o_75"
+  - first:
+      213: -8026915129874076275
+    second: "peque\xF1o_76"
+  - first:
+      213: -8781056627093997735
+    second: "peque\xF1o_77"
+  - first:
+      213: 3058774049776709229
+    second: "peque\xF1o_78"
+  - first:
+      213: -6898665519278692535
+    second: "peque\xF1o_79"
+  - first:
+      213: 5816979567291033961
+    second: "peque\xF1o_80"
+  - first:
+      213: -2690655455080538426
+    second: "peque\xF1o_81"
+  - first:
+      213: -5907485824114770042
+    second: "peque\xF1o_82"
+  - first:
+      213: 2152979987896158582
+    second: "peque\xF1o_83"
+  - first:
+      213: -5885072788596187058
+    second: "peque\xF1o_84"
+  - first:
+      213: -5446666528604537321
+    second: "peque\xF1o_85"
+  - first:
+      213: -9170666646695533649
+    second: "peque\xF1o_86"
+  - first:
+      213: -950202814476448493
+    second: "peque\xF1o_87"
+  - first:
+      213: -239974136357494403
+    second: "peque\xF1o_88"
+  - first:
+      213: -854021905590545417
+    second: "peque\xF1o_89"
+  - first:
+      213: -2513128144238822864
+    second: "peque\xF1o_90"
+  - first:
+      213: 6173925320981705742
+    second: "peque\xF1o_91"
+  - first:
+      213: 3268915316911461023
+    second: "peque\xF1o_92"
+  - first:
+      213: -308473316466052175
+    second: "peque\xF1o_93"
+  - first:
+      213: 1682310390249337313
+    second: "peque\xF1o_94"
+  - first:
+      213: 844175787654108931
+    second: "peque\xF1o_95"
+  - first:
+      213: 8823091750011534863
+    second: "peque\xF1o_96"
+  - first:
+      213: 7988560726198377605
+    second: "peque\xF1o_97"
+  - first:
+      213: 6237700562650079117
+    second: "peque\xF1o_98"
+  - first:
+      213: 9090513020633622096
+    second: "peque\xF1o_99"
+  - first:
+      213: 8871919994186592803
+    second: "peque\xF1o_100"
+  - first:
+      213: 336124529586379655
+    second: "peque\xF1o_101"
+  - first:
+      213: -4212694830995112252
+    second: "peque\xF1o_102"
+  - first:
+      213: -5818616334599614833
+    second: "peque\xF1o_103"
+  - first:
+      213: -3319188195952612355
+    second: "peque\xF1o_104"
+  - first:
+      213: 1347840400307337663
+    second: "peque\xF1o_105"
+  - first:
+      213: -2994236263505437187
+    second: "peque\xF1o_106"
+  - first:
+      213: 7929381097670892794
+    second: "peque\xF1o_107"
+  - first:
+      213: -3081794656187102534
+    second: "peque\xF1o_108"
+  - first:
+      213: 211002073518530564
+    second: "peque\xF1o_109"
+  - first:
+      213: -8386973190701454577
+    second: "peque\xF1o_110"
+  - first:
+      213: 6002397956725901557
+    second: "peque\xF1o_111"
+  - first:
+      213: -3539716992813458179
+    second: "peque\xF1o_112"
+  - first:
+      213: -5577973288135699840
+    second: "peque\xF1o_113"
+  - first:
+      213: -8155935011697116834
+    second: "peque\xF1o_114"
+  - first:
+      213: 2532726078664683170
+    second: "peque\xF1o_115"
+  - first:
+      213: 440688607069813460
+    second: "peque\xF1o_116"
+  - first:
+      213: -2436144694246207973
+    second: "peque\xF1o_117"
+  - first:
+      213: 9215285546187209145
+    second: "peque\xF1o_118"
+  - first:
+      213: 6295558358575213967
+    second: "peque\xF1o_119"
+  - first:
+      213: 5565974531710883798
+    second: "peque\xF1o_120"
+  - first:
+      213: 7581291591067784347
+    second: "peque\xF1o_121"
+  - first:
+      213: -234461583799706469
+    second: "peque\xF1o_122"
+  - first:
+      213: -5902477104176540281
+    second: "peque\xF1o_123"
+  - first:
+      213: 2003297037951730678
+    second: "peque\xF1o_124"
+  - first:
+      213: -5603598774436453943
+    second: "peque\xF1o_125"
+  - first:
+      213: -1719107245216447881
+    second: "peque\xF1o_126"
+  - first:
+      213: 8884486879281559321
+    second: "peque\xF1o_127"
+  - first:
+      213: 2746551885309348610
+    second: "peque\xF1o_128"
+  - first:
+      213: 3275246266343021359
+    second: "peque\xF1o_129"
+  - first:
+      213: -4448316752503727172
+    second: "peque\xF1o_130"
+  - first:
+      213: -1501546077487780670
+    second: "peque\xF1o_131"
+  - first:
+      213: -4825283076066300889
+    second: "peque\xF1o_132"
+  - first:
+      213: -9066560419549429704
+    second: "peque\xF1o_133"
+  - first:
+      213: -8684150994025263418
+    second: "peque\xF1o_134"
+  - first:
+      213: 4707744125339351718
+    second: "peque\xF1o_135"
+  - first:
+      213: -6899104466431400879
+    second: "peque\xF1o_136"
+  - first:
+      213: -8003427458727976768
+    second: "peque\xF1o_137"
+  - first:
+      213: -6474728157017749595
+    second: "peque\xF1o_138"
+  - first:
+      213: 1858279226398469476
+    second: "peque\xF1o_139"
+  - first:
+      213: 6419807419367670192
+    second: "peque\xF1o_140"
+  - first:
+      213: 3223441977565323859
+    second: "peque\xF1o_141"
+  - first:
+      213: -8066744759511449205
+    second: "peque\xF1o_142"
+  - first:
+      213: 1087296053721329053
+    second: "peque\xF1o_143"
+  - first:
+      213: -8854094371153464687
+    second: "peque\xF1o_144"
+  - first:
+      213: 6160580551072837812
+    second: "peque\xF1o_145"
+  - first:
+      213: -3211296879178245903
+    second: "peque\xF1o_146"
+  - first:
+      213: -3567181177637798840
+    second: "peque\xF1o_147"
+  - first:
+      213: 8813604842589550941
+    second: "peque\xF1o_148"
+  - first:
+      213: 3047051182739707991
+    second: "peque\xF1o_149"
+  - first:
+      213: 8806020008639318997
+    second: "peque\xF1o_150"
+  - first:
+      213: 7401987887336980354
+    second: "peque\xF1o_151"
+  - first:
+      213: -9216293637705193399
+    second: "peque\xF1o_152"
+  - first:
+      213: 3730519859729598151
+    second: "peque\xF1o_153"
+  - first:
+      213: 8705425326349591668
+    second: "peque\xF1o_154"
+  - first:
+      213: -8771016824574410739
+    second: "peque\xF1o_155"
+  - first:
+      213: 6688914188272358346
+    second: "peque\xF1o_156"
+  - first:
+      213: -8453212279417994336
+    second: "peque\xF1o_157"
+  - first:
+      213: -6092491367900171425
+    second: "peque\xF1o_158"
+  - first:
+      213: 5941441147146739586
+    second: "peque\xF1o_159"
+  - first:
+      213: -4938833467162632694
+    second: "peque\xF1o_160"
+  - first:
+      213: -2308260657591616849
+    second: "peque\xF1o_161"
+  - first:
+      213: 8196028446341057104
+    second: "peque\xF1o_162"
+  - first:
+      213: -3535472679352226604
+    second: "peque\xF1o_163"
+  - first:
+      213: -5626005254298770037
+    second: "peque\xF1o_164"
+  - first:
+      213: -5609447420384436196
+    second: "peque\xF1o_165"
+  - first:
+      213: -5639624555997632464
+    second: "peque\xF1o_166"
+  - first:
+      213: 4589513774847466721
+    second: "peque\xF1o_167"
+  - first:
+      213: -3459173806438022751
+    second: "peque\xF1o_168"
+  - first:
+      213: -8105704763218679908
+    second: "peque\xF1o_169"
+  - first:
+      213: -9205926036327854393
+    second: "peque\xF1o_170"
+  - first:
+      213: 5378504276909430429
+    second: "peque\xF1o_171"
+  - first:
+      213: 252971379335918930
+    second: "peque\xF1o_172"
+  - first:
+      213: 7237785835556249182
+    second: "peque\xF1o_173"
+  - first:
+      213: 3874538900590956340
+    second: "peque\xF1o_174"
+  - first:
+      213: -5380984112146122137
+    second: "peque\xF1o_175"
+  - first:
+      213: 142559933865268785
+    second: "peque\xF1o_176"
+  - first:
+      213: -1693808862579344397
+    second: "peque\xF1o_177"
+  - first:
+      213: 1576369207237223786
+    second: "peque\xF1o_178"
+  - first:
+      213: -6345719418532228681
+    second: "peque\xF1o_179"
+  - first:
+      213: -7771369566920124813
+    second: "peque\xF1o_180"
+  - first:
+      213: 8399617166025706664
+    second: "peque\xF1o_181"
+  - first:
+      213: -5897816063810665582
+    second: "peque\xF1o_182"
+  - first:
+      213: -3185072928435323929
+    second: "peque\xF1o_183"
+  - first:
+      213: 4596046334675176963
+    second: "peque\xF1o_184"
+  - first:
+      213: -6634625524880709301
+    second: "peque\xF1o_185"
+  - first:
+      213: -233558327381739775
+    second: "peque\xF1o_186"
+  - first:
+      213: 6204857675713752993
+    second: "peque\xF1o_187"
+  - first:
+      213: -2280837788412827535
+    second: "peque\xF1o_188"
+  - first:
+      213: 6223437515365111642
+    second: "peque\xF1o_189"
+  - first:
+      213: 7027261628256072465
+    second: "peque\xF1o_190"
+  - first:
+      213: 7949094164848660705
+    second: "peque\xF1o_191"
+  - first:
+      213: -6662795208098725396
+    second: "peque\xF1o_192"
+  - first:
+      213: 2504174623464022252
+    second: "peque\xF1o_193"
+  - first:
+      213: 2836742525179983759
+    second: "peque\xF1o_194"
+  - first:
+      213: -3530132333169793866
+    second: "peque\xF1o_195"
+  - first:
+      213: 7155935325544608666
+    second: "peque\xF1o_196"
+  - first:
+      213: -2515593958909993360
+    second: "peque\xF1o_197"
+  - first:
+      213: 8311433845974192191
+    second: "peque\xF1o_198"
+  - first:
+      213: 6191657095873531608
+    second: "peque\xF1o_199"
+  - first:
+      213: 2144558931393408788
+    second: "peque\xF1o_200"
+  - first:
+      213: 6330860716227277942
+    second: "peque\xF1o_201"
+  - first:
+      213: -8273843360325637356
+    second: "peque\xF1o_202"
+  - first:
+      213: -7892458270589814246
+    second: "peque\xF1o_203"
+  - first:
+      213: 6047340868615454476
+    second: "peque\xF1o_204"
+  - first:
+      213: -5531131070312371257
+    second: "peque\xF1o_205"
+  - first:
+      213: 2470236251164651628
+    second: "peque\xF1o_206"
+  - first:
+      213: 1718207012584150400
+    second: "peque\xF1o_207"
+  - first:
+      213: 2322770092455632118
+    second: "peque\xF1o_208"
+  - first:
+      213: 7240994009548316112
+    second: "peque\xF1o_209"
+  - first:
+      213: 2736565948075391717
+    second: "peque\xF1o_210"
+  - first:
+      213: 6064927264440915621
+    second: "peque\xF1o_211"
+  - first:
+      213: 8898804510072509015
+    second: "peque\xF1o_212"
+  - first:
+      213: 8013319003168647847
+    second: "peque\xF1o_213"
+  - first:
+      213: 6530524749500171358
+    second: "peque\xF1o_214"
+  - first:
+      213: 7508518409391891301
+    second: "peque\xF1o_215"
+  - first:
+      213: 2325819478997280993
+    second: "peque\xF1o_216"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "peque\xF1o_1"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1530
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594a2d87035dc71a0800000000000000
+      internalID: -6810334132328815467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_2"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1533
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06947356234d1f4b0800000000000000
+      internalID: -5408308364583679648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_3"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1533
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14709bb78c5036c0800000000000000
+      internalID: -4165727917280562147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_4"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1533
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44eb9710c4bec210800000000000000
+      internalID: 1355219275007910987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_5"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1533
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9157e9359d48f78d0800000000000000
+      internalID: -2846410370529200871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_6"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1533
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a8265236b24540800000000000000
+      internalID: 4990751664390055774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_7"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1533
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680b9dffcaf31a400800000000000000
+      internalID: 333617859661508742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_8"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1533
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781e95156eee3e3e0800000000000000
+      internalID: -2025512734411857529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_9"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1529
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b73704ff3653120800000000000000
+      internalID: 2392928724966406978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_10"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1531
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6727905e2d1baabb0800000000000000
+      internalID: -4923927723232365962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_12"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1531
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48bef90b5539b70800000000000000
+      internalID: 8904555105327219959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_14"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1533
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9ca1dcde9ebf860800000000000000
+      internalID: 7564897206656485799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_15"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1533
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be9216c3f76029a0800000000000000
+      internalID: -6259889185347166541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_16"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1533
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffe1098ef3084df0800000000000000
+      internalID: -195902192035434508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_18"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1525
+        width: 111
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d970e71e5befc58b0800000000000000
+      internalID: -5161971015747762275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_19"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1513
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abe9b8aa376a9700800000000000000
+      internalID: 547863806315457445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_20"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1441
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7145e368c82724c0800000000000000
+      internalID: -4312433277049421446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_21"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1442
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2aac729b302a270800000000000000
+      internalID: 8260168760322335429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_22"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1442
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efef0c5ba2b23b00800000000000000
+      internalID: 806903732306440168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_23"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1442
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6f959d6139fb380800000000000000
+      internalID: -8953275807844141327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_24"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1442
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c65ff7cf029a440800000000000000
+      internalID: 4947521934493838390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_25"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1442
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cbdf6c7ef8e0100800000000000000
+      internalID: 76156469350612094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_26"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1442
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c860aa79c6348c0800000000000000
+      internalID: -4016247044035933169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_27"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1442
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1278ad55567a3a0800000000000000
+      internalID: -6654238505003703872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_28"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1442
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df981a60a7c4a780800000000000000
+      internalID: -8672587490620039216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_29"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1442
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca0cf9403bfc420800000000000000
+      internalID: 2652535537985957043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_30"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1442
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217cfb5d596aa5030800000000000000
+      internalID: 3484280424190953234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_31"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1442
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051e45a2c3961b320800000000000000
+      internalID: 2571952569334423888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_32"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1387
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577f751a3286e04a0800000000000000
+      internalID: -6625243499575380107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_33"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1387
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8397066af51405a70800000000000000
+      internalID: 8813616349833099576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_34"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1388
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a2b3a325e5b3170800000000000000
+      internalID: 8159218857169070751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_35"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1388
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb47e5f1bb571200800000000000000
+      internalID: 150689932433116083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_36"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1388
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a9a286984a51a0800000000000000
+      internalID: -6820058874424743445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_37"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1388
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9e7bccadde75650800000000000000
+      internalID: 6221702934228887978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_38"
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1400
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f702a79c0b5fa70800000000000000
+      internalID: 8860182221305184100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_39"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1388
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79517ce0765f8930800000000000000
+      internalID: 4147628824834693503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_40"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1392
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f2d0052c0e4a60800000000000000
+      internalID: 7660073369270939649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_41"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1387
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf2633c47dd47810800000000000000
+      internalID: 1762276847769759659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_42"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1396
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14468b4b91f40a3c0800000000000000
+      internalID: -4350390268215139263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_43"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1367
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7fccf1239c9f910800000000000000
+      internalID: 1871748337268225996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_44"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1362
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac906583d2ef56c70800000000000000
+      internalID: 8963850103522986442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_45"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1328
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0b7ced040995410800000000000000
+      internalID: 1466361761975742680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_46"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1328
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94da1ab5047af6c40800000000000000
+      internalID: 5507804764154473801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_47"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1328
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cf52813aa58c950800000000000000
+      internalID: 6469520521249029171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_48"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1328
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65da345e10036a590800000000000000
+      internalID: -7663384931224801962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_49"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1327
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaea139e2e085070800000000000000
+      internalID: 8095235923397765804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_50"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1327
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426c531faff429010800000000000000
+      internalID: 1194104790413854244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_51"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1327
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd121193fd280930800000000000000
+      internalID: 4109585184109764016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_52"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1327
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d9ddc034919c110800000000000000
+      internalID: 1281583344732970386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_53"
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1354
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121906e0c7458c650800000000000000
+      internalID: 6253340974397821217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_54"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1329
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01007ba111e890f40800000000000000
+      internalID: 5695239407900491792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_55"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1333
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f57bbb89bc044430800000000000000
+      internalID: 3766149179441378805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_56"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1333
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f49d8eaa86072420800000000000000
+      internalID: 2605058102160889074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_57"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1327
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15ad24143156a400800000000000000
+      internalID: 335044506404365594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_58"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1327
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f450e34ba18276f50800000000000000
+      internalID: 6874507451362575695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_59"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1327
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae795e13532fd4e0800000000000000
+      internalID: -1954804873357066592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_60"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1327
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf707202342eed2c0800000000000000
+      internalID: -4404834607591651332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_61"
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1329
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e02cc1565be97030800000000000000
+      internalID: 3493081741974577382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_62"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1328
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e064c94310455a6e0800000000000000
+      internalID: -1826961709674510834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_63"
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1332
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702576404e751ca20800000000000000
+      internalID: 3080840256936169991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_64"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1294
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cdbe10603d6a860800000000000000
+      internalID: 7540946648833973385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_65"
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5a6a4bccf6d7110800000000000000
+      internalID: 1260286395728438710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_66"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1286
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d983716a0f4fc60800000000000000
+      internalID: 7851164646558440797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_67"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1286
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3672c423fcff510800000000000000
+      internalID: 1585213408790668201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_68"
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1286
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf54483d8c501b540800000000000000
+      internalID: 5021801419595073019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_69"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1283
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e6f9f648beef0a0800000000000000
+      internalID: -6845775429515645406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_70"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1283
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fc7686f4c0a4e60800000000000000
+      internalID: 7947178027642244998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_71"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1283
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ddace87039a3eb0800000000000000
+      internalID: -4739313997184312016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_72"
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1286
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff91aaba4972515d0800000000000000
+      internalID: -3092522049631282689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_73"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1286
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c85789e41addb0800000000000000
+      internalID: -4766474262387571588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_74"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1279
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac4a8663c6ce6300800000000000000
+      internalID: 247353572093217961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_75"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1306
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf818cce65b0ca50800000000000000
+      internalID: 6539426146424033210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_76"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1288
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8da5a1c73baa9090800000000000000
+      internalID: -8026915129874076275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_77"
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1287
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957f87d858b632680800000000000000
+      internalID: -8781056627093997735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_78"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1288
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eaf1dcac2f27a20800000000000000
+      internalID: 3058774049776709229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_79"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1285
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947682bc2440340a0800000000000000
+      internalID: -6898665519278692535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_80"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1285
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9696616c8101ab050800000000000000
+      internalID: 5816979567291033961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_81"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1285
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce15fa8e1fd8aad0800000000000000
+      internalID: -2690655455080538426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_82"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1286
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fbbf131f4640ea0800000000000000
+      internalID: -5907485824114770042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_83"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1286
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679431b54ebe0ed10800000000000000
+      internalID: 2152979987896158582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_84"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1289
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40286eaa75045ea0800000000000000
+      internalID: -5885072788596187058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_85"
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1296
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e348066ad8964b0800000000000000
+      internalID: -5446666528604537321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_86"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1290
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3a03ae54f3bb080800000000000000
+      internalID: -9170666646695533649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_87"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1275
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d0e8a139330d2f0800000000000000
+      internalID: -950202814476448493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_88"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1280
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71612f5bc07bacf0800000000000000
+      internalID: -239974136357494403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_89"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1224
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f39fd60a97e524f0800000000000000
+      internalID: -854021905590545417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_90"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1224
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03abb9794439f1dd0800000000000000
+      internalID: -2513128144238822864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_91"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1231
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0477ea5e503ea550800000000000000
+      internalID: 6173925320981705742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_92"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1217
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92575949258d5d20800000000000000
+      internalID: 3268915316911461023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_93"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1210
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3ba5d272518bbf0800000000000000
+      internalID: -308473316466052175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_94"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1203
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1b2ccf264c85710800000000000000
+      internalID: 1682310390249337313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_95"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1207
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307db1ff76d17bb00800000000000000
+      internalID: 844175787654108931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_96"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1207
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0efd1c233be17a70800000000000000
+      internalID: 8823091750011534863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_97"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1213
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cd0bfb7a11dde60800000000000000
+      internalID: 7988560726198377605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_98"
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1248
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f130cec93c09650800000000000000
+      internalID: 6237700562650079117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_99"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1209
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0562eecbd6df72e70800000000000000
+      internalID: 9090513020633622096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_100"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1241
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3227d21ba346f1b70800000000000000
+      internalID: 8871919994186592803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_101"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1234
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b9a429a772aa400800000000000000
+      internalID: 336124529586379655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_102"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1235
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce796bfe508985c0800000000000000
+      internalID: -4212694830995112252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_103"
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1240
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e87e3a54f104fa0800000000000000
+      internalID: -5818616334599614833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_104"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1215
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb239debefdfe1d0800000000000000
+      internalID: -3319188195952612355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_105"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1223
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb93d32f3bd74b210800000000000000
+      internalID: 1347840400307337663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_106"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1215
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd5a248bf55276d0800000000000000
+      internalID: -2994236263505437187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_107"
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1226
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcde5fb812da0e60800000000000000
+      internalID: 7929381097670892794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_108"
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1211
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba454796144b35d0800000000000000
+      internalID: -3081794656187102534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_109"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1214
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40061f69441ade200800000000000000
+      internalID: 211002073518530564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_110"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1217
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be383b15c7b9b80800000000000000
+      internalID: -8386973190701454577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_111"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1188
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88d2bb32dcc4350800000000000000
+      internalID: 6002397956725901557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_112"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1188
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc90f5362660eec0800000000000000
+      internalID: -3539716992813458179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_113"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1204
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082dd0a09de0792b0800000000000000
+      internalID: -5577973288135699840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_114"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1132
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e593f90a15c40de80800000000000000
+      internalID: -8155935011697116834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_115"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1132
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae2d2813fc062320800000000000000
+      internalID: 2532726078664683170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_116"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1138
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da35f804f3ad1600800000000000000
+      internalID: 440688607069813460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_119"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1138
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ded99c8f05e5750800000000000000
+      internalID: 6295558358575213967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_120"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1138
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d79f77c8505e3d40800000000000000
+      internalID: 5565974531710883798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_123"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1084
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7855eaea850361ea0800000000000000
+      internalID: -5902477104176540281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_124"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1084
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f384b6ca042dcb10800000000000000
+      internalID: 2003297037951730678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_125"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1095
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1a6e19a940c32b0800000000000000
+      internalID: -5603598774436453943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_126"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1085
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c21691118428e0800000000000000
+      internalID: -1719107245216447881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_127"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1085
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9173233aeb90c4b70800000000000000
+      internalID: 8884486879281559321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_128"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1086
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b0b094366bd1620800000000000000
+      internalID: 2746551885309348610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_129"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1088
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bdc415023047d20800000000000000
+      internalID: 3275246266343021359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_130"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1083
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb98965b776442c0800000000000000
+      internalID: -4448316752503727172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_131"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1082
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca57d4ccf692be0800000000000000
+      internalID: -1501546077487780670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_132"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1074
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c2d569b96290db0800000000000000
+      internalID: -4825283076066300889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_133"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1080
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830c32ac55b1d2280800000000000000
+      internalID: -9066560419549429704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_134"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1081
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cec4497ea2bb7780800000000000000
+      internalID: -8684150994025263418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_135"
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1052
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab84cd654455140800000000000000
+      internalID: 4707744125339351718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_136"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 999
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ab027a057140a0800000000000000
+      internalID: -6899104466431400879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_137"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 998
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c069e8512d1ee090800000000000000
+      internalID: -8003427458727976768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_138"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1040
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7ccb7bb052526a0800000000000000
+      internalID: -6474728157017749595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_139"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1004
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46de7fe5c1fe9c910800000000000000
+      internalID: 1858279226398469476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_140"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1004
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c3d595dcb71950800000000000000
+      internalID: 6419807419367670192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_141"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1009
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522dda6667fbbc20800000000000000
+      internalID: 3223441977565323859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_142"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1008
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b818393716a2d0090800000000000000
+      internalID: -8066744759511449205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_143"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 998
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d6eb7000ad61f00800000000000000
+      internalID: 1087296053721329053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_144"
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1004
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192bc979410ff1580800000000000000
+      internalID: -8854094371153464687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_145"
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1009
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b070ecfe57ce7550800000000000000
+      internalID: 6160580551072837812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_146"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 999
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f89248a08e2f63d0800000000000000
+      internalID: -3211296879178245903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_147"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 994
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c70716e93de7ec0800000000000000
+      internalID: -3567181177637798840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_148"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 920
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59763968e6305a70800000000000000
+      internalID: 8813604842589550941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_149"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 953
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75852af18ec494a20800000000000000
+      internalID: 3047051182739707991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_150"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 920
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbcde3aa84453a70800000000000000
+      internalID: 8806020008639318997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_151"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 920
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ff67024c429b660800000000000000
+      internalID: 7401987887336980354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_156"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 926
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac35b0dc30cc3dc50800000000000000
+      internalID: 6688914188272358346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_157"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 933
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3025a083820ba80800000000000000
+      internalID: -8453212279417994336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_158"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 937
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f533d2b516f137ba0800000000000000
+      internalID: -6092491367900171425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_159"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 937
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f12958e3d347250800000000000000
+      internalID: 5941441147146739586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_160"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 939
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed5f0f02db57bb0800000000000000
+      internalID: -4938833467162632694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_161"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 937
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faafd3f592967ffd0800000000000000
+      internalID: -2308260657591616849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_163"
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 906
+        width: 89
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4662594, y: 0.5180151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcac12745a7feec0800000000000000
+      internalID: -3535472679352226604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_169"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 739
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97a826b670c28f80800000000000000
+      internalID: -8105704763218679908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_170"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 739
+        width: 54
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce88288b0bfd3080800000000000000
+      internalID: -9205926036327854393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_171"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 739
+        width: 52
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d961b10b42944aa40800000000000000
+      internalID: 5378504276909430429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_172"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 739
+        width: 54
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25578a3112cb28300800000000000000
+      internalID: 252971379335918930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_173"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 741
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e1fa8bed7c17460800000000000000
+      internalID: 7237785835556249182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_174"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 775
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f08261a9025c530800000000000000
+      internalID: 3874538900590956340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_176"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 740
+        width: 60
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1361e3921897af100800000000000000
+      internalID: 142559933865268785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_179"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 743
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b196165fc97fe7a0800000000000000
+      internalID: -6345719418532228681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_184"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 651
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ecc8d5acf68cf30800000000000000
+      internalID: 4596046334675176963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_185"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 654
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49eeb3ac331de3a0800000000000000
+      internalID: -6634625524880709301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_186"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 663
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b31e40fb32ccf0800000000000000
+      internalID: -233558327381739775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_187"
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 669
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af26ca6e251c1650800000000000000
+      internalID: 6204857675713752993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_188"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 658
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178ad57ad16d850e0800000000000000
+      internalID: -2280837788412827535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_189"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 617
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a575d2172771e5650800000000000000
+      internalID: 6223437515365111642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_190"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 604
+        width: 161
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113bfe70839d58160800000000000000
+      internalID: 7027261628256072465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_191"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 536
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e05fedd60bd05e60800000000000000
+      internalID: 7949094164848660705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_192"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 515
+        width: 256
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1c91a2f0ff883a0800000000000000
+      internalID: -6662795208098725396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_193"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 391
+        width: 96
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0ee176d8d90c220800000000000000
+      internalID: 2504174623464022252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_194"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 455
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87f8940c422e5720800000000000000
+      internalID: 2836742525179983759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_195"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 433
+        width: 264
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b42b4fa853720fc0800000000000000
+      internalID: -3530132333169793866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_196"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 374
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9371cac34dfe4360800000000000000
+      internalID: 7155935325544608666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_197"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 363
+        width: 248
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e1d006f90d61dd0800000000000000
+      internalID: -2515593958909993360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_198"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 299
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30537b0c05285370800000000000000
+      internalID: 8311433845974192191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_199"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 299
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de819ae25f2de550800000000000000
+      internalID: 6191657095873531608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_200"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 299
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f68995cf003cd10800000000000000
+      internalID: 2144558931393408788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_201"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 299
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674b331774cbbd750800000000000000
+      internalID: 6330860716227277942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_202"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 299
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41be09cec476d2d80800000000000000
+      internalID: -8273843360325637356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_203"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 299
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a76e8d40b587290800000000000000
+      internalID: -7892458270589814246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_204"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 299
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fb685da787ce350800000000000000
+      internalID: 6047340868615454476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_205"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 299
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cba7e3c8997d33b0800000000000000
+      internalID: -5531131070312371257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_206"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6036f558ca084220800000000000000
+      internalID: 2470236251164651628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_207"
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 299
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085d9abac2c48d710800000000000000
+      internalID: 1718207012584150400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_208"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 179
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc18bfa7132c3020800000000000000
+      internalID: 2322770092455632118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_209"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 179
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dddbdfefad2d7460800000000000000
+      internalID: 7240994009548316112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_210"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 179
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eab6771b3c3af520800000000000000
+      internalID: 2736565948075391717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_211"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 179
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a61591b633fa2450800000000000000
+      internalID: 6064927264440915621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_212"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 179
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7521484dd87ee7b70800000000000000
+      internalID: 8898804510072509015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_213"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 180
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa21cf4d27053f60800000000000000
+      internalID: 8013319003168647847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_214"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 183
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54cad2d8a511aa50800000000000000
+      internalID: 6530524749500171358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "peque\xF1o_215"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 310
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563e84526bd933860800000000000000
+      internalID: 7508518409391891301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

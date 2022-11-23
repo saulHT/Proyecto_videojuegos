@@ -1,0 +1,2256 @@
+fileFormatVersion: 2
+guid: 40400ba62fb606240ad1acd340b887c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6385375223302928296
+    second: brol_0
+  - first:
+      213: 1102302042901867396
+    second: brol_1
+  - first:
+      213: 7801195574578351241
+    second: brol_2
+  - first:
+      213: 6504118317285646442
+    second: brol_3
+  - first:
+      213: -1121907649370743168
+    second: brol_4
+  - first:
+      213: 3772919268807591652
+    second: brol_5
+  - first:
+      213: 5919239970584481675
+    second: brol_6
+  - first:
+      213: -8925109473564703180
+    second: brol_7
+  - first:
+      213: 199313962631024114
+    second: brol_8
+  - first:
+      213: 6745946743409133838
+    second: brol_9
+  - first:
+      213: -460561117222538245
+    second: brol_10
+  - first:
+      213: 4838069712503070238
+    second: brol_11
+  - first:
+      213: -2258760638458524418
+    second: brol_12
+  - first:
+      213: -9037556301422509820
+    second: brol_13
+  - first:
+      213: -8583704026028376521
+    second: brol_14
+  - first:
+      213: 7384149448769175443
+    second: brol_15
+  - first:
+      213: 8553659606644951638
+    second: brol_16
+  - first:
+      213: -8648946616226265274
+    second: brol_17
+  - first:
+      213: 6725162712181900650
+    second: brol_18
+  - first:
+      213: -741317345783868753
+    second: brol_19
+  - first:
+      213: -6747508741532814183
+    second: brol_20
+  - first:
+      213: 7709904471287245108
+    second: brol_21
+  - first:
+      213: -5466802859576432378
+    second: brol_22
+  - first:
+      213: 6632968133041575941
+    second: brol_23
+  - first:
+      213: -5784194726362947388
+    second: brol_24
+  - first:
+      213: -7673160615996208797
+    second: brol_25
+  - first:
+      213: 7194338543175305124
+    second: brol_26
+  - first:
+      213: 7084231139039377129
+    second: brol_27
+  - first:
+      213: 602935857784873286
+    second: brol_28
+  - first:
+      213: 5376089204536054528
+    second: brol_29
+  - first:
+      213: -6401011022216791308
+    second: brol_30
+  - first:
+      213: 7429100464540478552
+    second: brol_31
+  - first:
+      213: -8325616161784404223
+    second: brol_32
+  - first:
+      213: -8727341304040495524
+    second: brol_33
+  - first:
+      213: 972484839560548595
+    second: brol_34
+  - first:
+      213: 5281358158489067893
+    second: brol_35
+  - first:
+      213: 8417427340973247390
+    second: brol_36
+  - first:
+      213: 184755865430780499
+    second: brol_37
+  - first:
+      213: 6284849541461124299
+    second: brol_38
+  - first:
+      213: 8492695376083521085
+    second: brol_39
+  - first:
+      213: -6645281018311102109
+    second: brol_40
+  - first:
+      213: -9061829831434366845
+    second: brol_41
+  - first:
+      213: -3918050129360669582
+    second: brol_42
+  - first:
+      213: -7673431749181172184
+    second: brol_43
+  - first:
+      213: 1085710632881899526
+    second: brol_44
+  - first:
+      213: 3754931182562882180
+    second: brol_45
+  - first:
+      213: -6320195167996795635
+    second: brol_46
+  - first:
+      213: -8359347908688887369
+    second: brol_47
+  - first:
+      213: -5191148335021600680
+    second: brol_48
+  - first:
+      213: 2376549345161236688
+    second: brol_49
+  - first:
+      213: -4966550186687488894
+    second: brol_50
+  - first:
+      213: 4193832135215292477
+    second: brol_51
+  - first:
+      213: 5054860147186599946
+    second: brol_52
+  - first:
+      213: 5262012056500389722
+    second: brol_53
+  - first:
+      213: -2755807062162999301
+    second: brol_54
+  - first:
+      213: 1237397419971807031
+    second: brol_55
+  - first:
+      213: 8284106475564040632
+    second: brol_56
+  - first:
+      213: -8604356520098758707
+    second: brol_57
+  - first:
+      213: -3158849547815845706
+    second: brol_58
+  - first:
+      213: -9115935867907258527
+    second: brol_59
+  - first:
+      213: -8537763895613966107
+    second: brol_60
+  - first:
+      213: -1088063400447383048
+    second: brol_61
+  - first:
+      213: 1133964791601044123
+    second: brol_62
+  - first:
+      213: 4067880695522343291
+    second: brol_63
+  - first:
+      213: -3758819080708490507
+    second: brol_64
+  - first:
+      213: 1417363674858220271
+    second: brol_65
+  - first:
+      213: 1675726764915639804
+    second: brol_66
+  - first:
+      213: 3636491921236576879
+    second: brol_67
+  - first:
+      213: -7194289430561609138
+    second: brol_68
+  - first:
+      213: 2644252364180927311
+    second: brol_69
+  - first:
+      213: -5827127220382755282
+    second: brol_70
+  - first:
+      213: -7537749106878815093
+    second: brol_71
+  - first:
+      213: -3621548442794179410
+    second: brol_72
+  - first:
+      213: 5722386067829346072
+    second: brol_73
+  - first:
+      213: -8520957677106526173
+    second: brol_74
+  - first:
+      213: 8906164682057871856
+    second: brol_75
+  - first:
+      213: 4801143455300058436
+    second: brol_76
+  - first:
+      213: 7542220085774517549
+    second: brol_77
+  - first:
+      213: -2938608324843643977
+    second: brol_78
+  - first:
+      213: 6203927450438718584
+    second: brol_79
+  - first:
+      213: -2849531621683356393
+    second: brol_80
+  - first:
+      213: 561454764662994329
+    second: brol_81
+  - first:
+      213: -8563394012363245984
+    second: brol_82
+  - first:
+      213: -1688513513221765560
+    second: brol_83
+  - first:
+      213: 5234860003167247944
+    second: brol_84
+  - first:
+      213: 6053679046400100749
+    second: brol_85
+  - first:
+      213: -1559197287035862904
+    second: brol_86
+  - first:
+      213: 370591868098668029
+    second: brol_87
+  - first:
+      213: 3218104624007107843
+    second: brol_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brol_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1618
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a73d863fe86d9850800000000000000
+      internalID: 6385375223302928296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1618
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b6a562ed92c4f00800000000000000
+      internalID: 1102302042901867396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1617
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c8716ea0a634c60800000000000000
+      internalID: 7801195574578351241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1617
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a602ce63625434a50800000000000000
+      internalID: 6504118317285646442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1618
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9670efee2e60f0800000000000000
+      internalID: -1121907649370743168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1620
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c08fc51a1c5430800000000000000
+      internalID: 3772919268807591652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1620
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f4bfa446d552250800000000000000
+      internalID: 5919239970584481675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1510
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436c3b69834a32480800000000000000
+      internalID: -8925109473564703180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1511
+        width: 31
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdc5653efa14c200800000000000000
+      internalID: 199313962631024114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1509
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09ca9252da6e9d50800000000000000
+      internalID: 6745946743409133838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1508
+        width: 32
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f792aa12cb99f0800000000000000
+      internalID: -460561117222538245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1505
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e525435c6442340800000000000000
+      internalID: 4838069712503070238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1508
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc8b00ba2547a0e0800000000000000
+      internalID: -2258760638458524418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1523
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4014e184d66249280800000000000000
+      internalID: -9037556301422509820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1408
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73efc7faaae80e880800000000000000
+      internalID: -8583704026028376521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1409
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f784efcc4c97660800000000000000
+      internalID: 7384149448769175443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1401
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a0eafc714b4b670800000000000000
+      internalID: 8553659606644951638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1432
+        width: 153
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647448a60e4c8f780800000000000000
+      internalID: -8648946616226265274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1287
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a650e44fad3945d50800000000000000
+      internalID: 6725162712181900650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1286
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa297ba3dcf46b5f0800000000000000
+      internalID: -741317345783868753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1291
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f716ac880c52a0800000000000000
+      internalID: -6747508741532814183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1293
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439a54f84451ffa60800000000000000
+      internalID: 7709904471287245108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1178
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6096bd973c30224b0800000000000000
+      internalID: -5466802859576432378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1176
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508dd60cf590d0c50800000000000000
+      internalID: 6632968133041575941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1173
+        width: 153
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e277da896abfa0800000000000000
+      internalID: -5784194726362947388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1175
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369470be215738590800000000000000
+      internalID: -7673160615996208797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1067
+        width: 53
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a78ddba9cc67d360800000000000000
+      internalID: 7194338543175305124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1062
+        width: 25
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6f335efae305260800000000000000
+      internalID: 7084231139039377129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1064
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641ec99d7fe0e5800800000000000000
+      internalID: 602935857784873286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1070
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0031f25d5a4bb9a40800000000000000
+      internalID: 5376089204536054528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1120
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa7869a36a0b27a0800000000000000
+      internalID: -6401011022216791308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_31
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1105
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cef9de287791760800000000000000
+      internalID: 7429100464540478552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1105
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107e69c3638757c80800000000000000
+      internalID: -8325616161784404223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56621bc25142e680800000000000000
+      internalID: -8727341304040495524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_34
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1089
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f095732fc5fe7d00800000000000000
+      internalID: 972484839560548595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1087
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5712a5863472b4940800000000000000
+      internalID: 5281358158489067893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 993
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b0f55b195b0d470800000000000000
+      internalID: 8417427340973247390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 992
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aeb211b72609200800000000000000
+      internalID: 184755865430780499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 925
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc421910c55483750800000000000000
+      internalID: 6284849541461124299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 924
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e8f05c27d1cd570800000000000000
+      internalID: 8492695376083521085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 926
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361bbee3f1837c3a0800000000000000
+      internalID: -6645281018311102109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 928
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380115aa7c9ed3280800000000000000
+      internalID: -9061829831434366845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 820
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274b8438a2a40a9c0800000000000000
+      internalID: -3918050129360669582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 823
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8261addca7e728590800000000000000
+      internalID: -7673431749181172184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 821
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6084ac97118311f00800000000000000
+      internalID: 1085710632881899526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 817
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482b2bc14023c1430800000000000000
+      internalID: 3754931182562882180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 707
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0529640bf72a48a0800000000000000
+      internalID: -6320195167996795635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 708
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1c1b4ed51adfb80800000000000000
+      internalID: -8359347908688887369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 716
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505daad71655f7b0800000000000000
+      internalID: -5191148335021600680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_49
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 750
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d585b9033bf020800000000000000
+      internalID: 2376549345161236688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_50
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 746
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c975b4be4431bb0800000000000000
+      internalID: -4966550186687488894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 742
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30202b6b1c733a30800000000000000
+      internalID: 4193832135215292477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_52
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 742
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a080656a588762640800000000000000
+      internalID: 5054860147186599946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 601
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a574787061c660940800000000000000
+      internalID: 5262012056500389722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 600
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7f24ee31861c9d0800000000000000
+      internalID: -2755807062162999301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_55
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 603
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737876fb56e1c2110800000000000000
+      internalID: 1237397419971807031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 605
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1028dc2fe07f270800000000000000
+      internalID: 8284106475564040632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 642
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf72b2355f279880800000000000000
+      internalID: -8604356520098758707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 492
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0888392138924d0800000000000000
+      internalID: -3158849547815845706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 493
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167452e50a0bd7180800000000000000
+      internalID: -9115935867907258527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_60
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 496
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e836c1d8f4c38980800000000000000
+      internalID: -8537763895613966107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 527
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9ea332a1c66e0f0800000000000000
+      internalID: -1088063400447383048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_62
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 566
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a1e2f48f6acbf00800000000000000
+      internalID: 1133964791601044123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_63
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 498
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b793745a0f3047830800000000000000
+      internalID: 4067880695522343291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 383
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf86f06fdf5dbc0800000000000000
+      internalID: -3758819080708490507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_65
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 383
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea6775b0cc7ba310800000000000000
+      internalID: 1417363674858220271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 323
+        width: 100
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf549634d90614710800000000000000
+      internalID: 1675726764915639804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_67
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 385
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a42e9a22a677230800000000000000
+      internalID: 3636491921236576879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_68
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 389
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a270041efb82c90800000000000000
+      internalID: -7194289430561609138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_69
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 342
+        width: 39
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43bd7fe38542b420800000000000000
+      internalID: 2644252364180927311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 298
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e269310aaa2e12fa0800000000000000
+      internalID: -5827127220382755282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_71
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 337
+        width: 101
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84687ebf19846790800000000000000
+      internalID: -7537749106878815093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 220
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4426a01ecadbdc0800000000000000
+      internalID: -3621548442794179410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 224
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fcc986fcff96f40800000000000000
+      internalID: 5722386067829346072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 222
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3288ded732a7fb980800000000000000
+      internalID: -8520957677106526173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_75
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 221
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f17039679d099b70800000000000000
+      internalID: 8906164682057871856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_76
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 224
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44df9d8f88611a240800000000000000
+      internalID: 4801143455300058436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_77
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 115
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25086625395ba860800000000000000
+      internalID: 7542220085774517549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_78
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 113
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb50b74c47f737d0800000000000000
+      internalID: -2938608324843643977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_79
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 114
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874d1b77527c81650800000000000000
+      internalID: 6203927450438718584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_80
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 114
+        width: 36
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d1259661e6478d0800000000000000
+      internalID: -2849531621683356393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_81
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 116
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995303d3220bac700800000000000000
+      internalID: 561454764662994329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_82
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 113
+        width: 36
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b16d3486b82980800000000000000
+      internalID: -8563394012363245984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 110
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84648f5e7e13198e0800000000000000
+      internalID: -1688513513221765560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_84
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 110
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e1fa9ff65f5a840800000000000000
+      internalID: 5234860003167247944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_85
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8947e8d40df20450800000000000000
+      internalID: 6053679046400100749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_86
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 36
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8808973145e9c5ae0800000000000000
+      internalID: -1559197287035862904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_87
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 9
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df56bae275b942500800000000000000
+      internalID: 370591868098668029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brol_88
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7
+        width: 36
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3055cf3fa1109ac20800000000000000
+      internalID: 3218104624007107843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: fc79546b9596d154d8f726e1854c4087
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6610125178727817572
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_0
+  - first:
+      213: 8533260831278376727
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_1
+  - first:
+      213: 2921126884307997919
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_2
+  - first:
+      213: 1444459128409544436
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_3
+  - first:
+      213: -2109825952317641842
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_4
+  - first:
+      213: 2164503605478125247
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_5
+  - first:
+      213: -1379251996258079700
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_6
+  - first:
+      213: 4403298393119129514
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_7
+  - first:
+      213: -8214201896456233138
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_8
+  - first:
+      213: 912930868480765481
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_9
+  - first:
+      213: -4939709444300533242
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_10
+  - first:
+      213: 36050551245535364
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_11
+  - first:
+      213: 3803481215118778590
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_12
+  - first:
+      213: -3846847857493397820
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_13
+  - first:
+      213: -3470130714229685081
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_14
+  - first:
+      213: 1292621088292580328
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_15
+  - first:
+      213: 3164801427738630937
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_16
+  - first:
+      213: -7927712903226154064
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_17
+  - first:
+      213: 4335654018242351193
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_18
+  - first:
+      213: 8863940803166873651
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_19
+  - first:
+      213: -8892671969480186633
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_20
+  - first:
+      213: 1124887514703060200
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_21
+  - first:
+      213: 31677319753355988
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_22
+  - first:
+      213: 8499655779852677852
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_23
+  - first:
+      213: -7586884122785114419
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_24
+  - first:
+      213: 5200270086094146665
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_25
+  - first:
+      213: 4534698976189386352
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_26
+  - first:
+      213: 2194558260283224915
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_27
+  - first:
+      213: -3808252329356277710
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_28
+  - first:
+      213: -3905205551010186789
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_29
+  - first:
+      213: -693169483712963619
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_30
+  - first:
+      213: 2176218545410598992
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_31
+  - first:
+      213: 7549087205039509274
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_32
+  - first:
+      213: -99673204851664498
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_33
+  - first:
+      213: 8877982735437034536
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_34
+  - first:
+      213: 3546578699828570995
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_35
+  - first:
+      213: 2558270151241329434
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_36
+  - first:
+      213: 6564742817591431115
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_37
+  - first:
+      213: 4676949601808433202
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_38
+  - first:
+      213: -3066963098699451850
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_39
+  - first:
+      213: -7487368843900411535
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_40
+  - first:
+      213: -4429382345769820347
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_41
+  - first:
+      213: 5640363252127833614
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_42
+  - first:
+      213: -430568685068251975
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_43
+  - first:
+      213: -1811583910752344165
+    second: goku__halo__by_lorisc93_ddqyfn8-fullview_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 516
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e10110c2e1444a0800000000000000
+      internalID: -6610125178727817572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 255
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7172a10d38b3c6670800000000000000
+      internalID: 8533260831278376727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 453
+        width: 555
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4950bac6de98820800000000000000
+      internalID: 2921126884307997919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 400
+        width: 191
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6db699cefbb0410800000000000000
+      internalID: 1444459128409544436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 370
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be436897468b2e0800000000000000
+      internalID: -2109825952317641842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 368
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6397af8cd90e10800000000000000
+      internalID: 2164503605478125247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 357
+        width: 118
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ce943fd99ebdce0800000000000000
+      internalID: -1379251996258079700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 362
+        width: 107
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaff9e11f88ab1d30800000000000000
+      internalID: 4403298393119129514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 364
+        width: 107
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fd26855ea410e80800000000000000
+      internalID: -8214201896456233138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 379
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ee848b9c16bac00800000000000000
+      internalID: 912930868480765481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 378
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60213de9e60a27bb0800000000000000
+      internalID: -4939709444300533242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 415
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48872fc09c3108000800000000000000
+      internalID: 36050551245535364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 382
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0a601730ea8c430800000000000000
+      internalID: 3803481215118778590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 378
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce222d41404d9ac0800000000000000
+      internalID: -3846847857493397820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 300
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4ca2e308e97dfc0800000000000000
+      internalID: -3470130714229685081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 299
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebabdcf70050f110800000000000000
+      internalID: 1292621088292580328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 258
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b92057122abeb20800000000000000
+      internalID: 3164801427738630937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 257
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3ace90e1b1bf190800000000000000
+      internalID: -7927712903226154064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 264
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950945abb565b2c30800000000000000
+      internalID: 4335654018242351193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 266
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3382ad2823b030b70800000000000000
+      internalID: 8863940803166873651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 265
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f46f0b85f1e69480800000000000000
+      internalID: -8892671969480186633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 266
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecd5261c376c9f00800000000000000
+      internalID: 1124887514703060200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 269
+        width: 143
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2d55fba5a807000800000000000000
+      internalID: 31677319753355988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 271
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2f63f06e7d4f570800000000000000
+      internalID: 8499655779852677852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 273
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6975d5619f5b690800000000000000
+      internalID: -7586884122785114419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 204
+        width: 103
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c4bb157121b2840800000000000000
+      internalID: 5200270086094146665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 204
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e881761bc7eee30800000000000000
+      internalID: 4534698976189386352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 256
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353b4174c13a47e10800000000000000
+      internalID: 2194558260283224915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_28
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 175
+        width: 178
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2384aa5feae562bc0800000000000000
+      internalID: -3808252329356277710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_29
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 83
+        width: 86
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd97725fd3cedc9c0800000000000000
+      internalID: -3905205551010186789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_30
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 89
+        width: 118
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbd522f60e5166f0800000000000000
+      internalID: -693169483712963619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 94
+        width: 77
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e0d8ac3b733e10800000000000000
+      internalID: 2176218545410598992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 93
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f83d2f0deb3c860800000000000000
+      internalID: 7549087205039509274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 157
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89113f8fb3ed9ef0800000000000000
+      internalID: -99673204851664498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_34
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 156
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82476c3a24ee43b70800000000000000
+      internalID: 8877982735437034536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_35
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 166
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37baf33798af73130800000000000000
+      internalID: 3546578699828570995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 164
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6934f52dc08320800000000000000
+      internalID: 2558270151241329434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_37
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 111
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf8554afc6aa1b50800000000000000
+      internalID: 6564742817591431115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_38
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 113
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230423022ecd7e040800000000000000
+      internalID: 4676949601808433202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632b9caaf45ff65d0800000000000000
+      internalID: -3066963098699451850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1712dfcc4b5871890800000000000000
+      internalID: -7487368843900411535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 54
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fd002793ca782c0800000000000000
+      internalID: -4429382345769820347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_42
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 54
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e1f3f6e78964e40800000000000000
+      internalID: 5640363252127833614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 85
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc891bef00560af0800000000000000
+      internalID: -430568685068251975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku__halo__by_lorisc93_ddqyfn8-fullview_44
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 85
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b972bc60806fbd6e0800000000000000
+      internalID: -1811583910752344165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

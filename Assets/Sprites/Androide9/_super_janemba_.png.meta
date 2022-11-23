@@ -1,0 +1,1488 @@
+fileFormatVersion: 2
+guid: 2a7a06f02e51556458c13d50b7036501
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2654579035727171611
+    second: _super_janemba__0
+  - first:
+      213: -7991932505023193163
+    second: _super_janemba__1
+  - first:
+      213: -3798708604104230363
+    second: _super_janemba__2
+  - first:
+      213: 3715537327642495673
+    second: _super_janemba__3
+  - first:
+      213: -4076891522363500754
+    second: _super_janemba__4
+  - first:
+      213: -3749586599362199220
+    second: _super_janemba__5
+  - first:
+      213: 7874325495373035299
+    second: _super_janemba__6
+  - first:
+      213: 3584421628653088113
+    second: _super_janemba__7
+  - first:
+      213: 569053882370621166
+    second: _super_janemba__8
+  - first:
+      213: -8961520628391599483
+    second: _super_janemba__9
+  - first:
+      213: 6869048989614889399
+    second: _super_janemba__10
+  - first:
+      213: -4438841116375062317
+    second: _super_janemba__11
+  - first:
+      213: -7666302753076018568
+    second: _super_janemba__12
+  - first:
+      213: 6624557433286753551
+    second: _super_janemba__13
+  - first:
+      213: -2439323463427518870
+    second: _super_janemba__14
+  - first:
+      213: 5499221854947884909
+    second: _super_janemba__15
+  - first:
+      213: 2152412159539878123
+    second: _super_janemba__16
+  - first:
+      213: -3648487073812890939
+    second: _super_janemba__17
+  - first:
+      213: -4084140686449077817
+    second: _super_janemba__18
+  - first:
+      213: 4089671518112413925
+    second: _super_janemba__19
+  - first:
+      213: 8287256641364582368
+    second: _super_janemba__20
+  - first:
+      213: 4206305464436536517
+    second: _super_janemba__21
+  - first:
+      213: -1401387786860618530
+    second: _super_janemba__22
+  - first:
+      213: -3115674467998085941
+    second: _super_janemba__23
+  - first:
+      213: -2810911353809821543
+    second: _super_janemba__24
+  - first:
+      213: 8985630126558687172
+    second: _super_janemba__25
+  - first:
+      213: -2666279630929824028
+    second: _super_janemba__26
+  - first:
+      213: -5764610869637805933
+    second: _super_janemba__27
+  - first:
+      213: 7678253127370133720
+    second: _super_janemba__28
+  - first:
+      213: -6883941763771544822
+    second: _super_janemba__29
+  - first:
+      213: 3645558217403511360
+    second: _super_janemba__30
+  - first:
+      213: 1633913028787328605
+    second: _super_janemba__31
+  - first:
+      213: -301734922666274027
+    second: _super_janemba__32
+  - first:
+      213: 3568172820979231979
+    second: _super_janemba__33
+  - first:
+      213: 8447171717769342283
+    second: _super_janemba__34
+  - first:
+      213: -1093623367971939892
+    second: _super_janemba__35
+  - first:
+      213: 7774191292965147394
+    second: _super_janemba__36
+  - first:
+      213: -2791366950738086202
+    second: _super_janemba__37
+  - first:
+      213: 2050692707548544482
+    second: _super_janemba__38
+  - first:
+      213: 4576597418279910554
+    second: _super_janemba__39
+  - first:
+      213: 4962355815495766864
+    second: _super_janemba__40
+  - first:
+      213: -7211728364490677300
+    second: _super_janemba__41
+  - first:
+      213: 5875869797981706620
+    second: _super_janemba__42
+  - first:
+      213: -5998784746121505197
+    second: _super_janemba__43
+  - first:
+      213: 5785069551559693958
+    second: _super_janemba__44
+  - first:
+      213: 1783667915905482478
+    second: _super_janemba__45
+  - first:
+      213: 1074964698900671636
+    second: _super_janemba__46
+  - first:
+      213: -697011368810385590
+    second: _super_janemba__47
+  - first:
+      213: -1666368514946048126
+    second: _super_janemba__48
+  - first:
+      213: -3450059466271943297
+    second: _super_janemba__49
+  - first:
+      213: 2841850566222991500
+    second: _super_janemba__50
+  - first:
+      213: 9071996460216288661
+    second: _super_janemba__51
+  - first:
+      213: -1001984697272644520
+    second: _super_janemba__52
+  - first:
+      213: -1036754649816548062
+    second: _super_janemba__53
+  - first:
+      213: -3091436743864605725
+    second: _super_janemba__54
+  - first:
+      213: -7811851207649506609
+    second: _super_janemba__55
+  - first:
+      213: -2497466580617640418
+    second: _super_janemba__56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _super_janemba__0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2293
+        width: 395
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1097b48195f6d420800000000000000
+      internalID: 2654579035727171611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2319
+        width: 426
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfd131dab3f61190800000000000000
+      internalID: -7991932505023193163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__2
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2455
+        width: 240
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab527a6a6484bc0800000000000000
+      internalID: -3798708604104230363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__3
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2312
+        width: 134
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bac5d3838d309330800000000000000
+      internalID: 3715537327642495673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__4
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2453
+        width: 189
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27d8bdb2c8fb67c0800000000000000
+      internalID: -4076891522363500754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__5
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2328
+        width: 199
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c418372aadac6fbc0800000000000000
+      internalID: -3749586599362199220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2093
+        width: 214
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327f28d6159374d60800000000000000
+      internalID: 7874325495373035299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2093
+        width: 214
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d281dea7c6eb130800000000000000
+      internalID: 3584421628653088113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2117
+        width: 232
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef1c4bd7fa5e700800000000000000
+      internalID: 569053882370621166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__9
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2115
+        width: 206
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5822269f77842a380800000000000000
+      internalID: -8961520628391599483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__10
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 2156
+        width: 155
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b950ca89a3c35f50800000000000000
+      internalID: 6869048989614889399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__11
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1958
+        width: 137
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8e01cc5811662c0800000000000000
+      internalID: -4438841116375062317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__12
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 2164
+        width: 238
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8720e4e8342db9590800000000000000
+      internalID: -7666302753076018568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1959
+        width: 188
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dfa3d13e72feb50800000000000000
+      internalID: 6624557433286753551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__14
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1962
+        width: 187
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e802eeb38c52ed0800000000000000
+      internalID: -2439323463427518870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__15
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1968
+        width: 180
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fbb351429215c40800000000000000
+      internalID: 5499221854947884909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__16
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be81b938477eedd10800000000000000
+      internalID: 2152412159539878123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1981
+        width: 219
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca37cd3658fd5dc0800000000000000
+      internalID: -3648487073812890939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1973
+        width: 218
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c19b733fa73257c0800000000000000
+      internalID: -4084140686449077817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1779
+        width: 148
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e87f15e39e61c830800000000000000
+      internalID: 4089671518112413925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1781
+        width: 147
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef580fe100420370800000000000000
+      internalID: 8287256641364582368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1760
+        width: 224
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c43680b88ccf5a30800000000000000
+      internalID: 4206305464436536517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__22
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1755
+        width: 152
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc1a939b354d8ce0800000000000000
+      internalID: -1401387786860618530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__23
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1755
+        width: 82
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc48333496e2c4d0800000000000000
+      internalID: -3115674467998085941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__24
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1764
+        width: 109
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ad0d3403adf8d0800000000000000
+      internalID: -2810911353809821543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__25
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1835
+        width: 346
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf24900efe53bc70800000000000000
+      internalID: 8985630126558687172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1636
+        width: 171
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6719e5dc87ffad0800000000000000
+      internalID: -2666279630929824028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1632
+        width: 250
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39802eec4fcffffa0800000000000000
+      internalID: -5764610869637805933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1553
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0dd68c982ae8a60800000000000000
+      internalID: 7678253127370133720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__29
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1553
+        width: 94
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bcbe340735770a0800000000000000
+      internalID: -6883941763771544822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__30
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1568
+        width: 429
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042b75c32ef979230800000000000000
+      internalID: 3645558217403511360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__31
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1429
+        width: 256
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5650ca2e33dca610800000000000000
+      internalID: 1633913028787328605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__32
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1632
+        width: 117
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513952ebfa500dbf0800000000000000
+      internalID: -301734922666274027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1423
+        width: 202
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becaba39642b48130800000000000000
+      internalID: 3568172820979231979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1433
+        width: 195
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2e5a1ce16a3570800000000000000
+      internalID: 8447171717769342283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__35
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1403
+        width: 217
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc957f1575ba2d0f0800000000000000
+      internalID: -1093623367971939892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__36
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1403
+        width: 218
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035f11aac973eb60800000000000000
+      internalID: 7774191292965147394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__37
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1421
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6bd7f2c821349d0800000000000000
+      internalID: -2791366950738086202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 148
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed3ae80726857c10800000000000000
+      internalID: 2050692707548544482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1215
+        width: 165
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c3b84aa17538f30800000000000000
+      internalID: 4576597418279910554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__40
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1219
+        width: 208
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05318bf8254ddd440800000000000000
+      internalID: 4962355815495766864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__41
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1219
+        width: 211
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3ace9034bcaeb90800000000000000
+      internalID: -7211728364490677300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__42
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1209
+        width: 214
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79552713784b8150800000000000000
+      internalID: 5875869797981706620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__43
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1046
+        width: 217
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356556b6e0900cca0800000000000000
+      internalID: -5998784746121505197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__44
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1209
+        width: 212
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686d4a54b12b84050800000000000000
+      internalID: 5785069551559693958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__45
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeebecce48cd0c810800000000000000
+      internalID: 1783667915905482478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 947
+        width: 312
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c2f00c2ba0bee00800000000000000
+      internalID: 1074964698900671636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__47
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 935
+        width: 189
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe5ad5ad7b356f0800000000000000
+      internalID: -697011368810385590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__48
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1045
+        width: 216
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fdeb91aaedfd8e0800000000000000
+      internalID: -1666368514946048126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 472
+        height: 916
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7513e2d13dee10d0800000000000000
+      internalID: -3450059466271943297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 748
+        width: 33
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80d6708808407720800000000000000
+      internalID: 2841850566222991500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__51
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 459
+        width: 500
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5950bce07b436ed70800000000000000
+      internalID: 9071996460216288661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__52
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 729
+        width: 117
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ccfa00a3c3812f0800000000000000
+      internalID: -1001984697272644520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__53
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 727
+        width: 95
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d33729325bc91f0800000000000000
+      internalID: -1036754649816548062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 47
+        width: 301
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e32c5c19a20915d0800000000000000
+      internalID: -3091436743864605725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__55
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 212
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca48d137bab69390800000000000000
+      internalID: -7811851207649506609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _super_janemba__56
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 0
+        width: 214
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1640e78067375dd0800000000000000
+      internalID: -2497466580617640418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

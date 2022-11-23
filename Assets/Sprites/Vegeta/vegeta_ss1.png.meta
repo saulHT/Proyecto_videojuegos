@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 40ca2cb7f4a5d1248830762dc6af021d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5279466583187523264
+    second: vegeta_ss1_0
+  - first:
+      213: 2230708425490464604
+    second: vegeta_ss1_1
+  - first:
+      213: -3303021917479433598
+    second: vegeta_ss1_2
+  - first:
+      213: -7900249343807008098
+    second: vegeta_ss1_3
+  - first:
+      213: 7597863302915145366
+    second: vegeta_ss1_4
+  - first:
+      213: 7670113374039068527
+    second: vegeta_ss1_5
+  - first:
+      213: -2058032461134703918
+    second: vegeta_ss1_6
+  - first:
+      213: 316018684976241055
+    second: vegeta_ss1_7
+  - first:
+      213: -7984173345186843118
+    second: vegeta_ss1_8
+  - first:
+      213: 4137167395130784543
+    second: vegeta_ss1_9
+  - first:
+      213: -5229662325233109647
+    second: vegeta_ss1_10
+  - first:
+      213: 8640323763911809141
+    second: vegeta_ss1_11
+  - first:
+      213: -6864242747135390748
+    second: vegeta_ss1_12
+  - first:
+      213: 4126678162162745474
+    second: vegeta_ss1_13
+  - first:
+      213: 5143101555831326623
+    second: vegeta_ss1_14
+  - first:
+      213: -7865490613691172906
+    second: vegeta_ss1_15
+  - first:
+      213: -7741754427215959370
+    second: vegeta_ss1_16
+  - first:
+      213: 7785766744033478960
+    second: vegeta_ss1_17
+  - first:
+      213: 2728927867625201821
+    second: vegeta_ss1_18
+  - first:
+      213: -6096385007391481766
+    second: vegeta_ss1_19
+  - first:
+      213: -3197107078995414886
+    second: vegeta_ss1_20
+  - first:
+      213: 145949305963377314
+    second: vegeta_ss1_21
+  - first:
+      213: -3863477812943338311
+    second: vegeta_ss1_22
+  - first:
+      213: 6850424055434992385
+    second: vegeta_ss1_23
+  - first:
+      213: 5315769666434375597
+    second: vegeta_ss1_24
+  - first:
+      213: 80534643678629909
+    second: vegeta_ss1_25
+  - first:
+      213: 6805795823715196265
+    second: vegeta_ss1_26
+  - first:
+      213: -1495132567959920736
+    second: vegeta_ss1_27
+  - first:
+      213: -6944868221510706607
+    second: vegeta_ss1_28
+  - first:
+      213: 7687308380983795435
+    second: vegeta_ss1_29
+  - first:
+      213: -4190430297344645312
+    second: vegeta_ss1_30
+  - first:
+      213: -96370717201600708
+    second: vegeta_ss1_31
+  - first:
+      213: -3995691168284606517
+    second: vegeta_ss1_32
+  - first:
+      213: 3248377721558815336
+    second: vegeta_ss1_33
+  - first:
+      213: 738352088338888339
+    second: vegeta_ss1_34
+  - first:
+      213: 1110239392574122218
+    second: vegeta_ss1_35
+  - first:
+      213: -717374431748390105
+    second: vegeta_ss1_36
+  - first:
+      213: 1426968028165332916
+    second: vegeta_ss1_37
+  - first:
+      213: -4323074838972824329
+    second: vegeta_ss1_38
+  - first:
+      213: -1116732208978542116
+    second: vegeta_ss1_39
+  - first:
+      213: 6905609560437996150
+    second: vegeta_ss1_40
+  - first:
+      213: -1707157948212545548
+    second: vegeta_ss1_41
+  - first:
+      213: 237916621373979299
+    second: vegeta_ss1_42
+  - first:
+      213: 8449009335411171093
+    second: vegeta_ss1_43
+  - first:
+      213: -4942273717267136043
+    second: vegeta_ss1_44
+  - first:
+      213: 5215847089921051352
+    second: vegeta_ss1_45
+  - first:
+      213: 1145001336358933166
+    second: vegeta_ss1_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vegeta_ss1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1994
+        width: 458
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c60076b2ee644940800000000000000
+      internalID: 5279466583187523264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_1
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2181
+        width: 99
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f74d28e7115fe10800000000000000
+      internalID: 2230708425490464604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_2
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2179
+        width: 129
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a0f43f01f4922d0800000000000000
+      internalID: -3303021917479433598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1799
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92de51441dac5290800000000000000
+      internalID: -7900249343807008098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1791
+        width: 156
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ebb363b68017960800000000000000
+      internalID: 7597863302915145366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_5
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1788
+        width: 157
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f4296c977b17a60800000000000000
+      internalID: 7670113374039068527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_6
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1951
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2d7d961666073e0800000000000000
+      internalID: -2058032461134703918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_7
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1948
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f991564d159b26400800000000000000
+      internalID: 316018684976241055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1616
+        width: 197
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216fefef4a4823190800000000000000
+      internalID: -7984173345186843118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1617
+        width: 198
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b391383db2a6930800000000000000
+      internalID: 4137167395130784543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1618
+        width: 166
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175bc39b2d18c67b0800000000000000
+      internalID: -5229662325233109647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1614
+        width: 165
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57854545fa898e770800000000000000
+      internalID: 8640323763911809141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_12
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1777
+        width: 216
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb81fcf69f4db0a0800000000000000
+      internalID: -6864242747135390748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_13
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1691
+        width: 166
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2808216ace7e44930800000000000000
+      internalID: 4126678162162745474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_14
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1775
+        width: 216
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97c51f9d97ff5740800000000000000
+      internalID: 5143101555831326623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_15
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1690
+        width: 167
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7b4c2c5f928d290800000000000000
+      internalID: -7865490613691172906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1388
+        width: 118
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba2c73bd53cf8490800000000000000
+      internalID: -7741754427215959370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1389
+        width: 120
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0394a2a5a999c0c60800000000000000
+      internalID: 7785766744033478960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1390
+        width: 102
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90e677ef691fd520800000000000000
+      internalID: 2728927867625201821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1389
+        width: 130
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e964c22a456ba0800000000000000
+      internalID: -6096385007391481766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_20
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1387
+        width: 133
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a907797fc0891a3d0800000000000000
+      internalID: -3197107078995414886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_21
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1469
+        width: 168
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a27929de14860200800000000000000
+      internalID: 145949305963377314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1345
+        width: 119
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4c8e1166b226ac0800000000000000
+      internalID: -3863477812943338311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1465
+        width: 179
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b5ef02268911f50800000000000000
+      internalID: 6850424055434992385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1146
+        width: 119
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf1e93f85865c940800000000000000
+      internalID: 5315769666434375597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1148
+        width: 118
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510d39ce4dd1e1100800000000000000
+      internalID: 80534643678629909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1159
+        width: 118
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d91663e3b037e50800000000000000
+      internalID: 6805795823715196265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1159
+        width: 118
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af91aad9d8304be0800000000000000
+      internalID: -1495132567959920736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1194
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a94f4e52fde9f90800000000000000
+      internalID: -6944868221510706607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_29
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1193
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee1c6f4e3eceaa60800000000000000
+      internalID: 7687308380983795435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_30
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1156
+        width: 178
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047ecbea8d998d5c0800000000000000
+      internalID: -4190430297344645312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_31
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1156
+        width: 178
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fe272e75f99aef0800000000000000
+      internalID: -96370717201600708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 946
+        width: 177
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcffa327d047c88c0800000000000000
+      internalID: -3995691168284606517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_33
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 947
+        width: 177
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8625ecdb35e841d20800000000000000
+      internalID: 3248377721558815336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 960
+        width: 180
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3967b98ff472f3a00800000000000000
+      internalID: 738352088338888339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 959
+        width: 181
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8a60268dc586f00800000000000000
+      internalID: 1110239392574122218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_36
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 964
+        width: 178
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72380b051cf5b06f0800000000000000
+      internalID: -717374431748390105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_37
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 965
+        width: 179
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf52a87cdb9dc310800000000000000
+      internalID: 1426968028165332916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_38
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 767
+        width: 156
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4889da65a5104c0800000000000000
+      internalID: -4323074838972824329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 775
+        width: 177
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1c89ef8f19080f0800000000000000
+      internalID: -1116732208978542116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_40
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 775
+        width: 177
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ab277ce47a5df50800000000000000
+      internalID: 6905609560437996150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_41
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 756
+        width: 173
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f77e4914e4fe48e0800000000000000
+      internalID: -1707157948212545548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_42
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 755
+        width: 173
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa382718ef3d4300800000000000000
+      internalID: 237916621373979299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 344
+        width: 171
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f542dc939e04570800000000000000
+      internalID: 8449009335411171093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 383
+        width: 174
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d10b8b4d34896bb0800000000000000
+      internalID: -4942273717267136043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 317
+        height: 730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dacf752b49626840800000000000000
+      internalID: 5215847089921051352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegeta_ss1_46
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 240
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2950126acd3ef00800000000000000
+      internalID: 1145001336358933166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

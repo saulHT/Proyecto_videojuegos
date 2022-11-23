@@ -1,0 +1,1728 @@
+fileFormatVersion: 2
+guid: 03c1fffc229a54141ae8fd40461d6427
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3230817584538715533
+    second: frezer1_0
+  - first:
+      213: 8120920458143575526
+    second: frezer1_1
+  - first:
+      213: 4172264806595239505
+    second: frezer1_2
+  - first:
+      213: -662256376727732023
+    second: frezer1_3
+  - first:
+      213: 1220607567654430560
+    second: frezer1_4
+  - first:
+      213: 404166705440384370
+    second: frezer1_5
+  - first:
+      213: 7852415225161196621
+    second: frezer1_6
+  - first:
+      213: 6723817023528005419
+    second: frezer1_7
+  - first:
+      213: 3517726295374834062
+    second: frezer1_8
+  - first:
+      213: -847959134724034098
+    second: frezer1_9
+  - first:
+      213: -3084790583890492908
+    second: frezer1_10
+  - first:
+      213: 2402453916808324044
+    second: frezer1_11
+  - first:
+      213: -172124438630916287
+    second: frezer1_12
+  - first:
+      213: 6856799696625051054
+    second: frezer1_13
+  - first:
+      213: -6180784343370689668
+    second: frezer1_14
+  - first:
+      213: -3469762075028430128
+    second: frezer1_15
+  - first:
+      213: 4030232197050517212
+    second: frezer1_16
+  - first:
+      213: 2088499811451620269
+    second: frezer1_17
+  - first:
+      213: -4171150503557505067
+    second: frezer1_18
+  - first:
+      213: 6733556567223168190
+    second: frezer1_19
+  - first:
+      213: 7147513336712123267
+    second: frezer1_20
+  - first:
+      213: -5931722138437576605
+    second: frezer1_21
+  - first:
+      213: 5330640845493294614
+    second: frezer1_22
+  - first:
+      213: 5323186896695176511
+    second: frezer1_23
+  - first:
+      213: -9024658943042692166
+    second: frezer1_24
+  - first:
+      213: 7947522972931221411
+    second: frezer1_25
+  - first:
+      213: -6574945025304695162
+    second: frezer1_26
+  - first:
+      213: -1037945663881887340
+    second: frezer1_27
+  - first:
+      213: -3646827464666456128
+    second: frezer1_28
+  - first:
+      213: 525757831899283298
+    second: frezer1_29
+  - first:
+      213: -8550101709971529990
+    second: frezer1_30
+  - first:
+      213: 4105450964033505983
+    second: frezer1_31
+  - first:
+      213: 8358891446433152069
+    second: frezer1_32
+  - first:
+      213: -3191427270796170598
+    second: frezer1_33
+  - first:
+      213: -2145925667885167015
+    second: frezer1_34
+  - first:
+      213: 8015134884827509895
+    second: frezer1_35
+  - first:
+      213: 2198844768402110399
+    second: frezer1_36
+  - first:
+      213: -6576679866594516531
+    second: frezer1_37
+  - first:
+      213: 8805144737029521321
+    second: frezer1_38
+  - first:
+      213: -2702145289014781653
+    second: frezer1_39
+  - first:
+      213: -8675934725438425702
+    second: frezer1_40
+  - first:
+      213: -4140520353130713732
+    second: frezer1_41
+  - first:
+      213: 7482032664369423908
+    second: frezer1_42
+  - first:
+      213: -1356216043811998941
+    second: frezer1_43
+  - first:
+      213: -1173861907072497503
+    second: frezer1_44
+  - first:
+      213: 6131060833384741468
+    second: frezer1_45
+  - first:
+      213: -4268983447197038135
+    second: frezer1_46
+  - first:
+      213: -2135093258572855206
+    second: frezer1_47
+  - first:
+      213: 7851228369190335133
+    second: frezer1_48
+  - first:
+      213: -8555455398575155590
+    second: frezer1_49
+  - first:
+      213: -4691978518100563520
+    second: frezer1_50
+  - first:
+      213: -7406753628802017513
+    second: frezer1_51
+  - first:
+      213: 6996510188726332124
+    second: frezer1_52
+  - first:
+      213: -8628467697067166934
+    second: frezer1_53
+  - first:
+      213: -6165899982426820496
+    second: frezer1_54
+  - first:
+      213: -3290004466447298934
+    second: frezer1_55
+  - first:
+      213: -1988734840935408968
+    second: frezer1_56
+  - first:
+      213: -3902380967494918065
+    second: frezer1_57
+  - first:
+      213: 6847334770117814498
+    second: frezer1_58
+  - first:
+      213: -1062412377731753264
+    second: frezer1_59
+  - first:
+      213: 671174251634502699
+    second: frezer1_60
+  - first:
+      213: 3346230683875821440
+    second: frezer1_61
+  - first:
+      213: 3056057130728039870
+    second: frezer1_62
+  - first:
+      213: 1156775310035436345
+    second: frezer1_63
+  - first:
+      213: -5226852635658871739
+    second: frezer1_64
+  - first:
+      213: 4322510762718483791
+    second: frezer1_65
+  - first:
+      213: 6005060188772231260
+    second: frezer1_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frezer1_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 704
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85048cb97b26dc20800000000000000
+      internalID: 3230817584538715533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 704
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eda9d4512e43b070800000000000000
+      internalID: 8120920458143575526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 704
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e19f96cbcd6e930800000000000000
+      internalID: 4172264806595239505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 704
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c008ea85513fc6f0800000000000000
+      internalID: -662256376727732023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0672230ad1870f010800000000000000
+      internalID: 1220607567654430560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 704
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27560db2a73eb9500800000000000000
+      internalID: 404166705440384370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 704
+        width: 100
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d442a9c1b0269fc60800000000000000
+      internalID: 7852415225161196621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_7
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 704
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f6c1665fbcf4d50800000000000000
+      internalID: 6723817023528005419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 704
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892edc8d6971d030800000000000000
+      internalID: 3517726295374834062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 633
+        width: 704
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1f9bed8a17b34f0800000000000000
+      internalID: -847959134724034098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 630
+        width: 770
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412ccb0de4f9035d0800000000000000
+      internalID: -3084790583890492908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 634
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc32b9ccb1b375120800000000000000
+      internalID: 2402453916808324044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 634
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f9d3a2cbd7c9df0800000000000000
+      internalID: -172124438630916287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 633
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a755cefe382f50800000000000000
+      internalID: 6856799696625051054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 633
+        width: 83
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73181c0361793aa0800000000000000
+      internalID: -6180784343370689668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_15
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 633
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2eeceb6cde8dfc0800000000000000
+      internalID: -3469762075028430128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_16
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 633
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6c98384d24ee730800000000000000
+      internalID: 4030232197050517212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 540
+        width: 636
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab4b0f5387dbfc10800000000000000
+      internalID: 2088499811451620269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 543
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df53ca77b81d16c0800000000000000
+      internalID: -4171150503557505067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_19
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 543
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce550a506627d50800000000000000
+      internalID: 6733556567223168190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 543
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383d716b281113360800000000000000
+      internalID: 7147513336712123267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 543
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3689b18842a4eada0800000000000000
+      internalID: -5931722138437576605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_22
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 543
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d0d42b9d3af940800000000000000
+      internalID: 5330640845493294614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_23
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 543
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3da7827742cfd940800000000000000
+      internalID: 5323186896695176511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 451
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb53e88188f1c280800000000000000
+      internalID: -9024658943042692166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 451
+        width: 100
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a762dd39064b4e60800000000000000
+      internalID: 7947522972931221411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 451
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eedf4c55a11c4a0800000000000000
+      internalID: -6574945025304695162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 451
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c9200be97891f0800000000000000
+      internalID: -1037945663881887340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 451
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfda6b1ebdd36dc0800000000000000
+      internalID: -3646827464666456128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_29
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 451
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f7c3866fddb4700800000000000000
+      internalID: 525757831899283298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_30
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 451
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afedfaf8bcfe75980800000000000000
+      internalID: -8550101709971529990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_31
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 451
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba800276ed79f830800000000000000
+      internalID: 4105450964033505983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_32
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 451
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf2b4bb7fb00470800000000000000
+      internalID: 8358891446433152069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 369
+        width: 838
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a23bd5ec5c5b3d0800000000000000
+      internalID: -3191427270796170598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 369
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ecf4389f32832e0800000000000000
+      internalID: -2145925667885167015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 369
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7843cf436ba7b3f60800000000000000
+      internalID: 8015134884827509895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 369
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb775d8baadd38e10800000000000000
+      internalID: 2198844768402110399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_37
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 369
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1ab2e8180fab4a0800000000000000
+      internalID: -6576679866594516531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 369
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af7b869c78223a70800000000000000
+      internalID: 8805144737029521321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_39
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 369
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2957cc1d2d008ad0800000000000000
+      internalID: -2702145289014781653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_40
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 369
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9534c39553e89780800000000000000
+      internalID: -8675934725438425702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 369
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d6e5e1daae986c0800000000000000
+      internalID: -4140520353130713732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_42
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 369
+        width: 76
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426eb95111585d760800000000000000
+      internalID: 7482032664369423908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 369
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32376e591b0cd2de0800000000000000
+      internalID: -1356216043811998941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_44
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 247
+        width: 814
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8c49d90da95bfe0800000000000000
+      internalID: -1173861907072497503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 247
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a353e1857e51550800000000000000
+      internalID: 6131060833384741468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 247
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c94ccd3c2681c4c0800000000000000
+      internalID: -4268983447197038135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 247
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580f685eff9e52e0800000000000000
+      internalID: -2135093258572855206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_48
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 247
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d923f0caa9a25fc60800000000000000
+      internalID: 7851228369190335133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 247
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76da3cc4aae44980800000000000000
+      internalID: -8555455398575155590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_50
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 247
+        width: 63
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c92ade956eb2eeb0800000000000000
+      internalID: -4691978518100563520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_51
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 247
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7179b6831dce53990800000000000000
+      internalID: -7406753628802017513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 125
+        width: 762
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda2f6292f8981160800000000000000
+      internalID: 6996510188726332124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_53
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 125
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23f0685856814880800000000000000
+      internalID: -8628467697067166934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 125
+        width: 122
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070bcd262a25e6aa0800000000000000
+      internalID: -6165899982426820496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_55
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 125
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ec5f37e5e8752d0800000000000000
+      internalID: -3290004466447298934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_56
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 125
+        width: 145
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba1a9de2389664e0800000000000000
+      internalID: -1988734840935408968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_57
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 125
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40683e8f25f7d9c0800000000000000
+      internalID: -3902380967494918065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_58
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 125
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8ad07d1be960f50800000000000000
+      internalID: 6847334770117814498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 893
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da1254429d8141f0800000000000000
+      internalID: -1062412377731753264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 826
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c20130d6d705900800000000000000
+      internalID: 671174251634502699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0874ee0f313307e20800000000000000
+      internalID: 3346230683875821440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_62
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5285ac4cb496a20800000000000000
+      internalID: 3056057130728039870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_63
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 4
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933ca9ff301bd0010800000000000000
+      internalID: 1156775310035436345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_64
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 4
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c1d3e883d7677b0800000000000000
+      internalID: -5226852635658871739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_65
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 4
+        width: 141
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4553a513a4acfb30800000000000000
+      internalID: 4322510762718483791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frezer1_66
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 4
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58eb9eec62465350800000000000000
+      internalID: 6005060188772231260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

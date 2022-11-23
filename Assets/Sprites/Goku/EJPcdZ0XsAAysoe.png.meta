@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: 05c59eb8775af3243937019b03f4ec00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3660962216833417403
+    second: EJPcdZ0XsAAysoe_0
+  - first:
+      213: 8048709186686008383
+    second: EJPcdZ0XsAAysoe_1
+  - first:
+      213: -6316041418340792813
+    second: EJPcdZ0XsAAysoe_2
+  - first:
+      213: -6394311470698939579
+    second: EJPcdZ0XsAAysoe_3
+  - first:
+      213: -1290609771299416777
+    second: EJPcdZ0XsAAysoe_4
+  - first:
+      213: 3205966435085996065
+    second: EJPcdZ0XsAAysoe_5
+  - first:
+      213: 1531043523464706745
+    second: EJPcdZ0XsAAysoe_6
+  - first:
+      213: -2177472473658162196
+    second: EJPcdZ0XsAAysoe_7
+  - first:
+      213: 1298786170702752421
+    second: EJPcdZ0XsAAysoe_8
+  - first:
+      213: -1385457628485202045
+    second: EJPcdZ0XsAAysoe_9
+  - first:
+      213: 4606409141840638262
+    second: EJPcdZ0XsAAysoe_10
+  - first:
+      213: 5667630872830451792
+    second: EJPcdZ0XsAAysoe_11
+  - first:
+      213: -925832753817948949
+    second: EJPcdZ0XsAAysoe_12
+  - first:
+      213: 6331644031645187929
+    second: EJPcdZ0XsAAysoe_13
+  - first:
+      213: -8434194813738957245
+    second: EJPcdZ0XsAAysoe_14
+  - first:
+      213: 7901589088397073034
+    second: EJPcdZ0XsAAysoe_15
+  - first:
+      213: -2222444903347890599
+    second: EJPcdZ0XsAAysoe_16
+  - first:
+      213: -2543627785782407889
+    second: EJPcdZ0XsAAysoe_17
+  - first:
+      213: 4735729496615275552
+    second: EJPcdZ0XsAAysoe_18
+  - first:
+      213: -314200152912641202
+    second: EJPcdZ0XsAAysoe_19
+  - first:
+      213: -5686357987180512672
+    second: EJPcdZ0XsAAysoe_20
+  - first:
+      213: -8865160266073568374
+    second: EJPcdZ0XsAAysoe_21
+  - first:
+      213: -6589375892884072720
+    second: EJPcdZ0XsAAysoe_22
+  - first:
+      213: 7415304274080420183
+    second: EJPcdZ0XsAAysoe_23
+  - first:
+      213: -6046424021517912163
+    second: EJPcdZ0XsAAysoe_24
+  - first:
+      213: -6141567285079835828
+    second: EJPcdZ0XsAAysoe_25
+  - first:
+      213: 5948968440768193888
+    second: EJPcdZ0XsAAysoe_26
+  - first:
+      213: -7222272112254439282
+    second: EJPcdZ0XsAAysoe_27
+  - first:
+      213: -5180056756263759074
+    second: EJPcdZ0XsAAysoe_28
+  - first:
+      213: -2376488666759963411
+    second: EJPcdZ0XsAAysoe_29
+  - first:
+      213: -3468029485532023935
+    second: EJPcdZ0XsAAysoe_30
+  - first:
+      213: -3336668541337244508
+    second: EJPcdZ0XsAAysoe_31
+  - first:
+      213: -325228964281090738
+    second: EJPcdZ0XsAAysoe_32
+  - first:
+      213: 3965348526787135155
+    second: EJPcdZ0XsAAysoe_33
+  - first:
+      213: 6594932231548558529
+    second: EJPcdZ0XsAAysoe_34
+  - first:
+      213: -6548733249165670924
+    second: EJPcdZ0XsAAysoe_35
+  - first:
+      213: 4936417757400267255
+    second: EJPcdZ0XsAAysoe_36
+  - first:
+      213: 5821002680694546242
+    second: EJPcdZ0XsAAysoe_37
+  - first:
+      213: -4944324692816966646
+    second: EJPcdZ0XsAAysoe_38
+  - first:
+      213: -5585732570196478267
+    second: EJPcdZ0XsAAysoe_39
+  - first:
+      213: -242929483945598266
+    second: EJPcdZ0XsAAysoe_40
+  - first:
+      213: -3706454338017102270
+    second: EJPcdZ0XsAAysoe_41
+  - first:
+      213: 8255519297908908496
+    second: EJPcdZ0XsAAysoe_42
+  - first:
+      213: -649208181039760556
+    second: EJPcdZ0XsAAysoe_43
+  - first:
+      213: -2755341495889503592
+    second: EJPcdZ0XsAAysoe_44
+  - first:
+      213: -1206649421354794397
+    second: EJPcdZ0XsAAysoe_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 698
+        width: 83
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb08b765db95ec230800000000000000
+      internalID: 3660962216833417403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 706
+        width: 109
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cb7d48c52c2bf60800000000000000
+      internalID: 8048709186686008383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 775
+        width: 118
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31684293bc9e858a0800000000000000
+      internalID: -6316041418340792813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 777
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bb8cd8897d247a0800000000000000
+      internalID: -6394311470698939579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_4
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 768
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735dc0e3045d61ee0800000000000000
+      internalID: -1290609771299416777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_5
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 939
+        width: 131
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120502d9c71ed7c20800000000000000
+      internalID: 3205966435085996065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_6
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 772
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bab6c709fb5f3510800000000000000
+      internalID: 1531043523464706745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 446
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce30a6b625018c1e0800000000000000
+      internalID: -2177472473658162196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 508
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa6de71427360210800000000000000
+      internalID: 1298786170702752421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_9
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 646
+        width: 217
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fc8ca90add5cce0800000000000000
+      internalID: -1385457628485202045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_10
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 683
+        width: 145
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631f58d65b04def30800000000000000
+      internalID: 4606409141840638262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 366
+        width: 91
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050a81d104877ae40800000000000000
+      internalID: 5667630872830451792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 411
+        width: 238
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec62430408c623f0800000000000000
+      internalID: -925832753817948949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_13
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 489
+        width: 117
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ffe6643b48ed750800000000000000
+      internalID: 6331644031645187929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 186
+        width: 243
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346c5a0d088b3fa80800000000000000
+      internalID: -8434194813738957245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_15
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 306
+        width: 95
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a9207596518ad60800000000000000
+      internalID: 7901589088397073034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_16
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 407
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956521ba22a4821e0800000000000000
+      internalID: -2222444903347890599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 83
+        width: 240
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d40ab610833bcd0800000000000000
+      internalID: -2543627785782407889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_18
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 182
+        width: 224
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cc71ed2e0b8b140800000000000000
+      internalID: 4735729496615275552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_19
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 240
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43c44920acb3abf0800000000000000
+      internalID: -314200152912641202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 97
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a766cc98ff511b0800000000000000
+      internalID: -5686357987180512672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 16
+        width: 209
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b07c725bf98f480800000000000000
+      internalID: -8865160266073568374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f65f159985dd84a0800000000000000
+      internalID: -6589375892884072720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_23
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 158
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751dff503f378e660800000000000000
+      internalID: 7415304274080420183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_24
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 117
+        width: 155
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9739044369c61ca0800000000000000
+      internalID: -6046424021517912163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 127
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf7a8f715c4caa0800000000000000
+      internalID: -6141567285079835828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_26
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0656ff3274bfe8250800000000000000
+      internalID: 5948968440768193888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_27
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 113
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e803dd577c555cb90800000000000000
+      internalID: -7222272112254439282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_28
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 100
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13598643ddbc18b0800000000000000
+      internalID: -5180056756263759074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_29
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decd7051624050fd0800000000000000
+      internalID: -2376488666759963411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_30
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 112
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183784cae851fdfc0800000000000000
+      internalID: -3468029485532023935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_31
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 96
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac6f5cd3a5c1b1d0800000000000000
+      internalID: -3336668541337244508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_32
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 92
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d7b59eafd8c7bf0800000000000000
+      internalID: -325228964281090738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_33
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 66
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b604cdc97fb70730800000000000000
+      internalID: 3965348526787135155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_34
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd9335ce7e58b50800000000000000
+      internalID: 6594932231548558529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_35
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5c0ba7ec93e15a0800000000000000
+      internalID: -6548733249165670924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_36
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 31
+        width: 140
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f5cccbcda18440800000000000000
+      internalID: 4936417757400267255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 15
+        width: 148
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f156bd81b58c050800000000000000
+      internalID: 5821002680694546242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 34
+        width: 210
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc37653ea326bb0800000000000000
+      internalID: -4944324692816966646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_39
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 67
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6fb1762dd7b72b0800000000000000
+      internalID: -5585732570196478267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_40
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 66
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c224f3ebe0f0acf0800000000000000
+      internalID: -242929483945598266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_41
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 46
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246f84eca67009cc0800000000000000
+      internalID: -3706454338017102270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_42
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d12e34df0f719270800000000000000
+      internalID: 8255519297908908496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_43
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf8d7599c8df6f0800000000000000
+      internalID: -649208181039760556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_44
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 27
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89adc96028f03c9d0800000000000000
+      internalID: -2755341495889503592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EJPcdZ0XsAAysoe_45
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36287bf8ebe114fe0800000000000000
+      internalID: -1206649421354794397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

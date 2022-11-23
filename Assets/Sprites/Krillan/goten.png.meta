@@ -1,0 +1,1320 @@
+fileFormatVersion: 2
+guid: 443eea49abdf3b041810a197029c3d64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7374127803255435817
+    second: goten_0
+  - first:
+      213: 4677113128927921143
+    second: goten_1
+  - first:
+      213: 5229584355536870248
+    second: goten_2
+  - first:
+      213: 6525385405814386636
+    second: goten_3
+  - first:
+      213: -2336331727641333534
+    second: goten_4
+  - first:
+      213: -6650752590275173004
+    second: goten_5
+  - first:
+      213: -2740203116600148245
+    second: goten_6
+  - first:
+      213: 7367202033933151480
+    second: goten_7
+  - first:
+      213: -4919301183387737400
+    second: goten_8
+  - first:
+      213: -2051718652603965580
+    second: goten_9
+  - first:
+      213: -7598014958806202720
+    second: goten_10
+  - first:
+      213: -2216548237006845477
+    second: goten_11
+  - first:
+      213: 2223983205434419425
+    second: goten_12
+  - first:
+      213: -9027283095279500810
+    second: goten_13
+  - first:
+      213: -7249175182899872856
+    second: goten_14
+  - first:
+      213: 6295756072059359791
+    second: goten_15
+  - first:
+      213: 173964866013503343
+    second: goten_16
+  - first:
+      213: -1154355505490720010
+    second: goten_17
+  - first:
+      213: -4257858105352886124
+    second: goten_18
+  - first:
+      213: 6147276543483054397
+    second: goten_19
+  - first:
+      213: -4593702151778307255
+    second: goten_20
+  - first:
+      213: -1320073887623729352
+    second: goten_21
+  - first:
+      213: 1041203851760571370
+    second: goten_22
+  - first:
+      213: -5736985408694696055
+    second: goten_23
+  - first:
+      213: 5285145195407314289
+    second: goten_24
+  - first:
+      213: -8252207926175524317
+    second: goten_25
+  - first:
+      213: -8740436548668178647
+    second: goten_26
+  - first:
+      213: 73852974523271787
+    second: goten_27
+  - first:
+      213: 1325312334608813052
+    second: goten_28
+  - first:
+      213: -2239702167301188514
+    second: goten_29
+  - first:
+      213: -2431343339416296263
+    second: goten_30
+  - first:
+      213: 4336535710950264823
+    second: goten_31
+  - first:
+      213: 7920492659806565416
+    second: goten_32
+  - first:
+      213: -9205152450988702943
+    second: goten_33
+  - first:
+      213: -3486961476578704958
+    second: goten_34
+  - first:
+      213: 6112536905479307283
+    second: goten_35
+  - first:
+      213: 3404911252326479391
+    second: goten_36
+  - first:
+      213: 3539796807394540062
+    second: goten_37
+  - first:
+      213: -1224979918861796610
+    second: goten_38
+  - first:
+      213: 2928721298634259071
+    second: goten_39
+  - first:
+      213: -6512546258926577533
+    second: goten_40
+  - first:
+      213: 3749704273525556069
+    second: goten_41
+  - first:
+      213: 5411994904310515074
+    second: goten_42
+  - first:
+      213: -9024032814453987523
+    second: goten_43
+  - first:
+      213: -4163246202378928909
+    second: goten_44
+  - first:
+      213: -24728882753646525
+    second: goten_45
+  - first:
+      213: 6935581211458321856
+    second: goten_46
+  - first:
+      213: -8125740267010913398
+    second: goten_47
+  - first:
+      213: 9117147208574608490
+    second: goten_48
+  - first:
+      213: -2574139753131846150
+    second: goten_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goten_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 397
+        width: 362
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddc0ae25d5d9a990800000000000000
+      internalID: -7374127803255435817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 395
+        width: 361
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f380104c9178e040800000000000000
+      internalID: 4677113128927921143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 436
+        width: 289
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b17ba8347339840800000000000000
+      internalID: 5229584355536870248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 390
+        width: 190
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfa5102473de8a50800000000000000
+      internalID: 6525385405814386636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_4
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 364
+        width: 98
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0b6701caea39fd0800000000000000
+      internalID: -2336331727641333534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 341
+        width: 155
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475a3af91c7c3b3a0800000000000000
+      internalID: -6650752590275173004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 155
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee31ae98c7d8f9d0800000000000000
+      internalID: -2740203116600148245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 352
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcee1d773f8d3660800000000000000
+      internalID: 7367202033933151480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 355
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e30523a12bbbb0800000000000000
+      internalID: -4919301183387737400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 357
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f5f7481c4d683e0800000000000000
+      internalID: -2051718652603965580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 350
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a68046a6ad6e8690800000000000000
+      internalID: -7598014958806202720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 336
+        width: 150
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd940b94f1d3d31e0800000000000000
+      internalID: -2216548237006845477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 349
+        width: 150
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e86a5231fc2dde10800000000000000
+      internalID: 2223983205434419425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 345
+        width: 150
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f10afa7ad5a8b280800000000000000
+      internalID: -9027283095279500810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_14
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 348
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abfca43491c56b90800000000000000
+      internalID: -7249175182899872856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_15
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 290
+        width: 103
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f225b9b8ac40f5750800000000000000
+      internalID: 6295756072059359791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 231
+        width: 150
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f122abf1c0a6200800000000000000
+      internalID: 173964866013503343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 283
+        width: 150
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa85b6a8c7eaffe0800000000000000
+      internalID: -1154355505490720010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 269
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4986c6ebc9c09e4c0800000000000000
+      internalID: -4257858105352886124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 309
+        width: 150
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39066652738f4550800000000000000
+      internalID: 6147276543483054397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 307
+        width: 150
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9437e4f3b34ef30c0800000000000000
+      internalID: -4593702151778307255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_21
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 310
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f2be21bc72eade0800000000000000
+      internalID: -1320073887623729352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 217
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae315faf269137e00800000000000000
+      internalID: 1041203851760571370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 214
+        width: 145
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9874729aa222260b0800000000000000
+      internalID: -5736985408694696055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 252
+        width: 145
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8d96ad8b985940800000000000000
+      internalID: 5285145195407314289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_25
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 223
+        width: 145
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a15abfc944a7d80800000000000000
+      internalID: -8252207926175524317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_26
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 243
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fbace844bb3b680800000000000000
+      internalID: -8740436548668178647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_27
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 235
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ac01893e0660100800000000000000
+      internalID: 73852974523271787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 174
+        width: 145
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb4dc8eb84746210800000000000000
+      internalID: 1325312334608813052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 121
+        width: 145
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54175bcebafae0e0800000000000000
+      internalID: -2239702167301188514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 175
+        width: 143
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b464175d12224ed0800000000000000
+      internalID: -2431343339416296263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 212
+        width: 144
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff8cfec0487e2c30800000000000000
+      internalID: 4336535710950264823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_32
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 174
+        width: 142
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824fbd90c1e3bed60800000000000000
+      internalID: 7920492659806565416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_33
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 139
+        width: 156
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1238087ed9ab04080800000000000000
+      internalID: -9205152450988702943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_34
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 177
+        width: 125
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c10e030303db9fc0800000000000000
+      internalID: -3486961476578704958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 145
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3104f8f0ee714d450800000000000000
+      internalID: 6112536905479307283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 131
+        width: 142
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1676a67ebca04f20800000000000000
+      internalID: 3404911252326479391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_37
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 163
+        width: 142
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a30d11172ef1130800000000000000
+      internalID: 3539796807394540062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_38
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 111
+        width: 137
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa7147014ffffee0800000000000000
+      internalID: -1224979918861796610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 138
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a373b0188e4a820800000000000000
+      internalID: 2928721298634259071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 65
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388d165bea9ce95a0800000000000000
+      internalID: -6512546258926577533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 65
+        width: 89
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56341448b20a90430800000000000000
+      internalID: 3749704273525556069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_42
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 66
+        width: 138
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28507a501b44b1b40800000000000000
+      internalID: 5411994904310515074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 72
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37600577f134c280800000000000000
+      internalID: -9024032814453987523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_44
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 92
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcb5b203ad2936c0800000000000000
+      internalID: -4163246202378928909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 113
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340d6cf463528aff0800000000000000
+      internalID: -24728882753646525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 130
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdb8d39d52204060800000000000000
+      internalID: 6935581211458321856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_47
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2
+        width: 130
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b0ab777429b3f80800000000000000
+      internalID: -8125740267010913398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_48
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 10
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64a80cd41d968e70800000000000000
+      internalID: 9117147208574608490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goten_49
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 25
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af55d5c6881d64cd0800000000000000
+      internalID: -2574139753131846150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

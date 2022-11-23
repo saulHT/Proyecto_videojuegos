@@ -1,0 +1,1662 @@
+fileFormatVersion: 2
+guid: 39889478bdae36e49ae1501aaee5dee5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7113390380049778625
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_0
+  - first:
+      213: -725626170817272032
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_1
+  - first:
+      213: 1523461268607737986
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_2
+  - first:
+      213: 8300479639079753975
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_3
+  - first:
+      213: 2665439352493721710
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_4
+  - first:
+      213: -4429698330989041485
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_5
+  - first:
+      213: 5669210751388289170
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_6
+  - first:
+      213: 58648192167600697
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_7
+  - first:
+      213: 6619604691223334349
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_8
+  - first:
+      213: 8595019821859813528
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_9
+  - first:
+      213: -5009359758051417164
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_10
+  - first:
+      213: -6445163556859328891
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_11
+  - first:
+      213: -8039002101741189299
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_12
+  - first:
+      213: 3573289693072764486
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_13
+  - first:
+      213: 5181605693324866789
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_14
+  - first:
+      213: -5232222608699605445
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_15
+  - first:
+      213: -4160494008405161042
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_16
+  - first:
+      213: -6991476817871678921
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_17
+  - first:
+      213: 6024990919057026773
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_18
+  - first:
+      213: 870684838284858691
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_19
+  - first:
+      213: -4670043224505127113
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_20
+  - first:
+      213: 3455773305792941199
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_21
+  - first:
+      213: 2456022039337371596
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_22
+  - first:
+      213: -8804496301731448337
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_23
+  - first:
+      213: 411698745677272654
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_24
+  - first:
+      213: -1968531745940713702
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_25
+  - first:
+      213: -3127931781566518801
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_26
+  - first:
+      213: 1453828872892121279
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_27
+  - first:
+      213: 8025133540468642916
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_28
+  - first:
+      213: 7468062667625624945
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_29
+  - first:
+      213: 796686990916320499
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_30
+  - first:
+      213: -1567543594071034104
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_31
+  - first:
+      213: -8742292446443914843
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_32
+  - first:
+      213: -5473133602817146389
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_33
+  - first:
+      213: -3522504764477527549
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_34
+  - first:
+      213: 639915228945140245
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_35
+  - first:
+      213: 4976414651707819500
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_36
+  - first:
+      213: 8079022239033962213
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_37
+  - first:
+      213: 8188338223315629073
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_38
+  - first:
+      213: 3462415987329760009
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_39
+  - first:
+      213: -2847846081924785671
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_40
+  - first:
+      213: 6710538342968106251
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_41
+  - first:
+      213: 3699267639605899796
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_42
+  - first:
+      213: 6275861280555575733
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_43
+  - first:
+      213: 3846003884801904928
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_44
+  - first:
+      213: -3458829600605097577
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_45
+  - first:
+      213: -7187355193197734880
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_46
+  - first:
+      213: 3592827941503838519
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_47
+  - first:
+      213: -3767894621779054538
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_48
+  - first:
+      213: -5316095875216129599
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_49
+  - first:
+      213: -3834137485223400625
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_50
+  - first:
+      213: 2895957325491047378
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_51
+  - first:
+      213: -6981552188500815104
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_52
+  - first:
+      213: -3628246655378103470
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_53
+  - first:
+      213: -5503323991018334056
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_54
+  - first:
+      213: 7105807380824603223
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_55
+  - first:
+      213: -3453575611854950057
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_56
+  - first:
+      213: 5946375481121905255
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_57
+  - first:
+      213: 563055095045721695
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_58
+  - first:
+      213: -2208632006512391837
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_59
+  - first:
+      213: 8686540069134177301
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_60
+  - first:
+      213: 1327614689845057791
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_61
+  - first:
+      213: 6442142440065412858
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_62
+  - first:
+      213: -3250493215753221834
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_63
+  - first:
+      213: -8391920515576042199
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_64
+  - first:
+      213: -9155609339894790178
+    second: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 764
+        width: 182
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c74c8fbcd6d7b260800000000000000
+      internalID: 7113390380049778625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 901
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027a5b897de0ee5f0800000000000000
+      internalID: -725626170817272032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 906
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2802e60c3fb642510800000000000000
+      internalID: 1523461268607737986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 909
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f816b0014a313370800000000000000
+      internalID: 8300479639079753975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 488
+        width: 151
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e684cbf08fa8df420800000000000000
+      internalID: 2665439352493721710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_5
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 715
+        width: 165
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8e14766dc8682c0800000000000000
+      internalID: -4429698330989041485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 874
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298035144251dae40800000000000000
+      internalID: 5669210751388289170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 878
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9326ed4583c50d000800000000000000
+      internalID: 58648192167600697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_8
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 874
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd40edf46f8ddb50800000000000000
+      internalID: 6619604691223334349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 860
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89835675df4a74770800000000000000
+      internalID: 8595019821859813528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_10
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 845
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3653d37dd2b7ab0800000000000000
+      internalID: -5009359758051417164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 772
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5864b1a94ed2e86a0800000000000000
+      internalID: -6445163556859328891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 769
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4709115e2abf6090800000000000000
+      internalID: -8039002101741189299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eaa233b00e69130800000000000000
+      internalID: 3573289693072764486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 616
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e435ccbce2c8e740800000000000000
+      internalID: 5181605693324866789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 690
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e31b642496367b0800000000000000
+      internalID: -5232222608699605445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 698
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab8eda1eb4f246c0800000000000000
+      internalID: -4160494008405161042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 698
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732516760e849fe90800000000000000
+      internalID: -6991476817871678921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_18
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 686
+        width: 30
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de2951b1511d9350800000000000000
+      internalID: 6024990919057026773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 486
+        width: 145
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34599415f3b451c00800000000000000
+      internalID: 870684838284858691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fe6a52e6ca03fb0800000000000000
+      internalID: -4670043224505127113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 616
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cc01c138f55ff20800000000000000
+      internalID: 3455773305792941199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_22
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 617
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc70c3f380b851220800000000000000
+      internalID: 2456022039337371596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_23
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 609
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe97e05034520d580800000000000000
+      internalID: -8804496301731448337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 534
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e465192f3d5a6b500800000000000000
+      internalID: 411698745677272654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 533
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fcf1a8ece5ea4e0800000000000000
+      internalID: -1968531745940713702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 534
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9a21efd9a5794d0800000000000000
+      internalID: -3127931781566518801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 534
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb001fc38a90d2410800000000000000
+      internalID: 1453828872892121279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 543
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464d4b2af600f5f60800000000000000
+      internalID: 8025133540468642916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_29
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 550
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1757e20cd63e3a760800000000000000
+      internalID: 7468062667625624945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_30
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 515
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcfdb2e8966e0b00800000000000000
+      internalID: 796686990916320499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 514
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807f4790867fe3ae0800000000000000
+      internalID: -1567543594071034104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9312fa6532da680800000000000000
+      internalID: -8742292446443914843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 460
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be184d37cf58b04b0800000000000000
+      internalID: -5473133602817146389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 465
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a22b9649c8d1fc0800000000000000
+      internalID: -3522504764477527549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_35
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 471
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a43a3a28f61e800800000000000000
+      internalID: 639915228945140245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 471
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5081272c6cf0540800000000000000
+      internalID: 4976414651707819500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 439
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eea9120ce37e1070800000000000000
+      internalID: 8079022239033962213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_38
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 266
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1143b7dfa32d2a170800000000000000
+      internalID: 8188338223315629073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_39
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 236
+        width: 156
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b7c6deef8fc0030800000000000000
+      internalID: 3462415987329760009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f992e7b31b6a78d0800000000000000
+      internalID: -2847846081924785671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 373
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d9048a11f902d50800000000000000
+      internalID: 6710538342968106251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 377
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412bec39150765330800000000000000
+      internalID: 3699267639605899796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 389
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9a42f6596581750800000000000000
+      internalID: 6275861280555575733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_44
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 389
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021d36ef720cf5530800000000000000
+      internalID: 3846003884801904928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_45
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 390
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791b35dcdc4cfffc0800000000000000
+      internalID: -3458829600605097577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_46
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 390
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024d3e23882614c90800000000000000
+      internalID: -7187355193197734880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7392f682af94cd130800000000000000
+      internalID: 3592827941503838519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 306
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63031cdfdcfb5bbc0800000000000000
+      internalID: -3767894621779054538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 117
+        width: 95
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c2d5a7fe6936b0800000000000000
+      internalID: -5316095875216129599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_50
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 117
+        width: 97
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bef3575486acac0800000000000000
+      internalID: -3834137485223400625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_51
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 256
+        width: 70
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db859618d1803820800000000000000
+      internalID: 2895957325491047378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_52
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 258
+        width: 57
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003de8f364b8c1f90800000000000000
+      internalID: -6981552188500815104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 215
+        width: 34
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25360b4e3e0e5adc0800000000000000
+      internalID: -3628246655378103470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_54
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 42
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898977fecf340a3b0800000000000000
+      internalID: -5503323991018334056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_57
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 126
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a1d5daef4c58250800000000000000
+      internalID: 5946375481121905255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e8c2130af50d700800000000000000
+      internalID: 563055095045721695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 31
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369454454ec5951e0800000000000000
+      internalID: -2208632006512391837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_60
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 31
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51490fb6b2acc8870800000000000000
+      internalID: 8686540069134177301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_61
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 29
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff81ec2c682ac6210800000000000000
+      internalID: 1327614689845057791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_62
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 29
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe2194da66176950800000000000000
+      internalID: 6442142440065412858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_63
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 26
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639463264ade3e2d0800000000000000
+      internalID: -3250493215753221834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_64
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 26
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de6cdd0c8e98b80800000000000000
+      internalID: -8391920515576042199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___majin_vegeta_by_lorisc93_ddrq3m8-pre_65
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 23
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7825950ddb0f080800000000000000
+      internalID: -9155609339894790178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

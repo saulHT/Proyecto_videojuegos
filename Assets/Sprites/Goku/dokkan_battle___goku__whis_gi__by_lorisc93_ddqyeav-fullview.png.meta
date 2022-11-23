@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 2af75367c2cc2644c9b647be5a11908b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4120596913581324502
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_0
+  - first:
+      213: -7613179700510392519
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_1
+  - first:
+      213: 4372697161305968442
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_2
+  - first:
+      213: 5649788146926751478
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_3
+  - first:
+      213: -1654159123096026446
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_4
+  - first:
+      213: 2415652831979449893
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_5
+  - first:
+      213: 2727191310054798213
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_6
+  - first:
+      213: 5903966751448058722
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_7
+  - first:
+      213: 3118580460045721031
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_8
+  - first:
+      213: 8307256565054756770
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_9
+  - first:
+      213: -7599044342845433006
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_10
+  - first:
+      213: -3898059164710378716
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_11
+  - first:
+      213: -5097679175400007056
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_12
+  - first:
+      213: -754931107115092071
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_13
+  - first:
+      213: 4154683211807467983
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_14
+  - first:
+      213: -2073163071558311819
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_15
+  - first:
+      213: 9221744167342571271
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_16
+  - first:
+      213: -1936521381464221021
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_17
+  - first:
+      213: 5438109144057991780
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_18
+  - first:
+      213: 6920435426712895646
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_19
+  - first:
+      213: 6680039292811775438
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_20
+  - first:
+      213: 1679871994687157384
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_21
+  - first:
+      213: 8511830153534565342
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_22
+  - first:
+      213: 5125248470018151735
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_23
+  - first:
+      213: 5097578061265727600
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_24
+  - first:
+      213: 8873438454608382535
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_25
+  - first:
+      213: 4192931712508789936
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_26
+  - first:
+      213: 5556940386644283064
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_27
+  - first:
+      213: 1785979900961066968
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_28
+  - first:
+      213: 4619705495724134193
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_29
+  - first:
+      213: 297523433233598468
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_30
+  - first:
+      213: -5290859211809537238
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_31
+  - first:
+      213: 5416616771433263548
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_32
+  - first:
+      213: 4352783632296482375
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_33
+  - first:
+      213: -8754606153956793898
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_34
+  - first:
+      213: -5267093994100873006
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_35
+  - first:
+      213: 8356768891133478343
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_36
+  - first:
+      213: -2089811219628962671
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_37
+  - first:
+      213: -816374105509519031
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_38
+  - first:
+      213: 7583483829230701110
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_39
+  - first:
+      213: 4575800451485928674
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_40
+  - first:
+      213: -7017258123026969974
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_41
+  - first:
+      213: -969829706914071777
+    second: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8f590af0d4f2930800000000000000
+      internalID: 4120596913581324502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 265
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ffcd3166d885690800000000000000
+      internalID: -7613179700510392519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 607
+        width: 268
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f400296e0feac30800000000000000
+      internalID: 4372697161305968442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 471
+        width: 295
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2c3e9aa0f3b09e0800000000000000
+      internalID: -1654159123096026446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 509
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e2dc6b37f168120800000000000000
+      internalID: 2415652831979449893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 544
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58339561c0ee8d520800000000000000
+      internalID: 2727191310054798213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b47c9da7a1fe150800000000000000
+      internalID: 5903966751448058722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 319
+        width: 107
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cddf7cc76c674b20800000000000000
+      internalID: 3118580460045721031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 412
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7de1a05dd494370800000000000000
+      internalID: 8307256565054756770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 313
+        width: 75
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b91408e65ca8690800000000000000
+      internalID: -7599044342845433006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 388
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4236bfda7df47e9c0800000000000000
+      internalID: -3898059164710378716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 386
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a50637cc76149b0800000000000000
+      internalID: -5097679175400007056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 274
+        width: 93
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997338a6822f585f0800000000000000
+      internalID: -754931107115092071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 278
+        width: 126
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc920126e5668a930800000000000000
+      internalID: 4154683211807467983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5702f46ab25aa33e0800000000000000
+      internalID: -2073163071558311819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 211
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ffbf716773aff70800000000000000
+      internalID: 9221744167342571271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 317
+        width: 106
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa50ed40181025e0800000000000000
+      internalID: -1936521381464221021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 280
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4625165447b087b40800000000000000
+      internalID: 5438109144057991780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 275
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e904044ca535a0060800000000000000
+      internalID: 6920435426712895646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 222
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd82bd285444bc50800000000000000
+      internalID: 6680039292811775438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 221
+        width: 110
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8847477cdaa105710800000000000000
+      internalID: 1679871994687157384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 221
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbe2e15d68102670800000000000000
+      internalID: 8511830153534565342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 214
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735db09245a802740800000000000000
+      internalID: 5125248470018151735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 171
+        width: 77
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07071941d3c3eb640800000000000000
+      internalID: 5097578061265727600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 120
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a493fc249c42b70800000000000000
+      internalID: 8873438454608382535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 120
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b48e8b6d29403a30800000000000000
+      internalID: 4192931712508789936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 107
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be44f7f6d73e1d40800000000000000
+      internalID: 5556940386644283064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_28
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 107
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df85c4e14319c810800000000000000
+      internalID: 1785979900961066968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 115
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f8e8f0cad7c1040800000000000000
+      internalID: 4619705495724134193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_30
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 117
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4084e367cf3012400800000000000000
+      internalID: 297523433233598468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_31
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 116
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a234d7b34971396b0800000000000000
+      internalID: -5290859211809537238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_32
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 111
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1f3b15140bb2b40800000000000000
+      internalID: 5416616771433263548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_33
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 111
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7469a2bc6a1386c30800000000000000
+      internalID: 4352783632296482375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_34
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 83
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1e4fc3614618680800000000000000
+      internalID: -8754606153956793898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8260b2be587e6b0800000000000000
+      internalID: -5267093994100873006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 23
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5cb0ac70539f370800000000000000
+      internalID: 8356768891133478343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cc36e94cf7ff2e0800000000000000
+      internalID: -2089811219628962671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_38
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941274d8318aba4f0800000000000000
+      internalID: -816374105509519031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_39
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a07391d52fd3960800000000000000
+      internalID: 7583483829230701110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_40
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec04e95442808f30800000000000000
+      internalID: 4575800451485928674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 22
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac0c78ae0bd9e90800000000000000
+      internalID: -7017258123026969974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dokkan_battle___goku__whis_gi__by_lorisc93_ddqyeav-fullview_42
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 21
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bf3ca15097a82f0800000000000000
+      internalID: -969829706914071777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

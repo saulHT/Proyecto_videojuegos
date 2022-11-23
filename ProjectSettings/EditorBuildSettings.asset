@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/principal.unity
+    guid: 9c0e842d13c3d304fb5c9ead25f1eb08
+  - enabled: 1
+    path: Assets/Scenes/inicio.unity
+    guid: c454362a25a6b2b46959574f0c70ab6f
+  - enabled: 1
+    path: Assets/Scenes/llenar datos.unity
+    guid: c508c2f25b693d647888d294fd3ea5ae
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/mapa.unity
+    guid: 186db53fe55656c4a841d6f27e244faa
+  - enabled: 1
+    path: Assets/Scenes/duelo1.unity
+    guid: 70c0b7e49f9e0764d87280fc2827f6c5
+  - enabled: 1
+    path: Assets/Scenes/duelo2.unity
+    guid: 2f67bf833b3f0894fa8a91031c6a4221
+  - enabled: 1
+    path: Assets/Scenes/duelo3.unity
+    guid: 0cbc6005b00613e4193fd9fa209665b8
+  - enabled: 1
+    path: Assets/Scenes/duelo4.unity
+    guid: a3c5c63107fafd748ae7aca65260bcde
+  - enabled: 1
+    path: Assets/Scenes/duelo5.unity
+    guid: 3d07e9dfdfbac9b4c8c2d31515d04c21
+  - enabled: 1
+    path: Assets/Scenes/duelo6.unity
+    guid: 87454480f4c9dcc4eb440d517357398d
+  - enabled: 1
+    path: Assets/Scenes/ayuda.unity
+    guid: fbc2933ba43be494397aaef155966e14
+  - enabled: 1
+    path: Assets/Scenes/final.unity
+    guid: be647fed4de74a441aefd9458179e18e
+  m_configObjects: {}

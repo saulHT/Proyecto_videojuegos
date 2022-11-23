@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 0afdd16beca5e4b40a4ead73c45fdb20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5434759880344513176
+    second: tumblr_po58pcyuMJ1qbjpiv_500_0
+  - first:
+      213: -7481677497793892698
+    second: tumblr_po58pcyuMJ1qbjpiv_500_1
+  - first:
+      213: -1140935894888710792
+    second: tumblr_po58pcyuMJ1qbjpiv_500_2
+  - first:
+      213: -3347857604250191509
+    second: tumblr_po58pcyuMJ1qbjpiv_500_3
+  - first:
+      213: -3596188343899172238
+    second: tumblr_po58pcyuMJ1qbjpiv_500_4
+  - first:
+      213: 7381454480697727633
+    second: tumblr_po58pcyuMJ1qbjpiv_500_6
+  - first:
+      213: -8229349564296515430
+    second: tumblr_po58pcyuMJ1qbjpiv_500_7
+  - first:
+      213: -9065776235915055168
+    second: tumblr_po58pcyuMJ1qbjpiv_500_8
+  - first:
+      213: 3311448541883962467
+    second: tumblr_po58pcyuMJ1qbjpiv_500_9
+  - first:
+      213: 7169750639993530261
+    second: tumblr_po58pcyuMJ1qbjpiv_500_10
+  - first:
+      213: 1108210618060324139
+    second: tumblr_po58pcyuMJ1qbjpiv_500_11
+  - first:
+      213: 8575959143340212050
+    second: tumblr_po58pcyuMJ1qbjpiv_500_12
+  - first:
+      213: 6061198135652096909
+    second: tumblr_po58pcyuMJ1qbjpiv_500_13
+  - first:
+      213: -1078176311883813929
+    second: tumblr_po58pcyuMJ1qbjpiv_500_14
+  - first:
+      213: -3124270533467236854
+    second: tumblr_po58pcyuMJ1qbjpiv_500_15
+  - first:
+      213: -5079644378542083929
+    second: tumblr_po58pcyuMJ1qbjpiv_500_16
+  - first:
+      213: 87726349678271567
+    second: tumblr_po58pcyuMJ1qbjpiv_500_17
+  - first:
+      213: 7037805033624087002
+    second: tumblr_po58pcyuMJ1qbjpiv_500_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 390
+        width: 183
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8655584feaad394b0800000000000000
+      internalID: -5434759880344513176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 395
+        width: 152
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae26f394fdbb2890800000000000000
+      internalID: -7481677497793892698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 393
+        width: 147
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7aa939d49a20f0800000000000000
+      internalID: -1140935894888710792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 265
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69b3142f350a81d0800000000000000
+      internalID: -3347857604250191509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 287
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2725d7031c5c71ec0800000000000000
+      internalID: -3596188343899172238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 289
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a14b7ddb1307660800000000000000
+      internalID: 7381454480697727633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 371
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9037971c2a7bcd80800000000000000
+      internalID: -8229349564296515430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 106
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfea15cb84ef2280800000000000000
+      internalID: -9065776235915055168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 185
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3649afe67e0a4fd20800000000000000
+      internalID: 3311448541883962467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 109
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597a1f85832108360800000000000000
+      internalID: 7169750639993530261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 88
+        width: 111
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d3dc18fa7216f00800000000000000
+      internalID: 1108210618060324139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 160
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f7e0b476de30770800000000000000
+      internalID: 8575959143340212050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 30
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b9dcc3793bd1450800000000000000
+      internalID: 6061198135652096909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 75
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbace45b5c8901f0800000000000000
+      internalID: -1078176311883813929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 7
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06177eb08c54a4d0800000000000000
+      internalID: -3124270533467236854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 39
+        width: 100
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a070bfc95a7189b0800000000000000
+      internalID: -5079644378542083929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 7
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cd30676aaa73100800000000000000
+      internalID: 87726349678271567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tumblr_po58pcyuMJ1qbjpiv_500_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 285
+        width: 61
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9ae93e36e4ba160800000000000000
+      internalID: 7037805033624087002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
